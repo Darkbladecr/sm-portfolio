@@ -1,0 +1,7034 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"Project-Id-Version: Salient Core\n"
+"POT-Creation-Date: 2019-05-27 13:10-0400\n"
+"PO-Revision-Date: 2019-05-14 08:27-0400\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.2.1\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-Flags-xgettext: --add-comments=translators:\n"
+"X-Poedit-WPHeader: plugin.php\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: includes/admin/meta-config.php:93
+msgid "Upload"
+msgstr ""
+
+#: includes/admin/meta-config.php:94
+msgid "Remove Upload"
+msgstr ""
+
+#: includes/admin/meta-config.php:123
+msgid "Add Media File"
+msgstr ""
+
+#: includes/admin/meta-config.php:124
+msgid "Remove Media File"
+msgstr ""
+
+#: includes/admin/meta-config.php:352 includes/admin/page-meta.php:84
+msgid "On"
+msgstr ""
+
+#: includes/admin/meta-config.php:353 includes/admin/page-meta.php:83
+msgid "Off"
+msgstr ""
+
+#: includes/admin/meta-config.php:440
+msgid "Add/Edit Images"
+msgstr ""
+
+#: includes/admin/meta-config.php:441
+msgid "Clear Images"
+msgstr ""
+
+#: includes/admin/page-meta.php:27 includes/admin/post-meta.php:200
+msgid "Navigation Transparency"
+msgstr ""
+
+#: includes/admin/page-meta.php:28 includes/admin/post-meta.php:201
+msgid "Configure the header navigation transparency."
+msgstr ""
+
+#: includes/admin/page-meta.php:34 includes/admin/post-meta.php:207
+msgid "Disable Transparency From Navigation"
+msgstr ""
+
+#: includes/admin/page-meta.php:35 includes/admin/post-meta.php:208
+msgid ""
+"You can use this option to force your navigation header to stay a solid "
+"color even if it qualifies to trigger the"
+msgstr ""
+
+#: includes/admin/page-meta.php:35 includes/admin/page-meta.php:42
+#: includes/admin/post-meta.php:208
+msgid "you have activated in the Salient options panel."
+msgstr ""
+
+#: includes/admin/page-meta.php:41
+msgid "Force Transparency On Navigation"
+msgstr ""
+
+#: includes/admin/page-meta.php:42
+msgid ""
+"You can use this option to force your navigation header to start transparent "
+"even if it does not qualify to trigger the"
+msgstr ""
+
+#: includes/admin/page-meta.php:48 includes/admin/post-meta.php:214
+msgid "Transparent Header Navigation Color"
+msgstr ""
+
+#: includes/admin/page-meta.php:49 includes/admin/post-meta.php:215
+msgid ""
+"Choose your header navigation logo & color scheme that will be used at the "
+"top of the page when the transparent effect is active. This option pulls "
+"from the settings \"Header Starting Dark Logo\" & \"Header Dark Text Color\" "
+"in the"
+msgstr ""
+
+#: includes/admin/page-meta.php:54 includes/admin/post-meta.php:220
+msgid "Light (default)"
+msgstr ""
+
+#: includes/admin/page-meta.php:55 includes/admin/post-meta.php:221
+#: includes/nectar-addons.php:740 includes/nectar_maps/nectar_btn.php:133
+msgid "Dark"
+msgstr ""
+
+#: includes/admin/page-meta.php:70
+msgid "Page Full Screen Rows"
+msgstr ""
+
+#: includes/admin/page-meta.php:71
+msgid "Configure your page full screen rows."
+msgstr ""
+
+#: includes/admin/page-meta.php:78
+msgid "Activate Fullscreen Rows"
+msgstr ""
+
+#: includes/admin/page-meta.php:79
+msgid ""
+"This will cause all WPBakery Page Builder rows to be fullscreen. Some "
+"functionality and options within the WPBakery Page Builder will be changed "
+"when this is active."
+msgstr ""
+
+#: includes/admin/page-meta.php:89
+msgid "Animation Between Rows"
+msgstr ""
+
+#: includes/admin/page-meta.php:90
+msgid "Select your desired animation between rows"
+msgstr ""
+
+#: includes/admin/page-meta.php:95
+msgid "Default Scroll"
+msgstr ""
+
+#: includes/admin/page-meta.php:96
+msgid "Zoom Out + Parallax"
+msgstr ""
+
+#: includes/admin/page-meta.php:97
+msgid "Parallax"
+msgstr ""
+
+#: includes/admin/page-meta.php:101 includes/nectar_maps/nectar_icon.php:94
+msgid "Animation Speed"
+msgstr ""
+
+#: includes/admin/page-meta.php:102
+msgid "Selection your desired animation speed"
+msgstr ""
+
+#: includes/admin/page-meta.php:107 includes/nectar-addons.php:1022
+#: includes/nectar_maps/nectar_icon.php:96
+msgid "Slow"
+msgstr ""
+
+#: includes/admin/page-meta.php:108 includes/nectar-addons.php:907
+#: includes/nectar-addons.php:1023 includes/nectar_maps/nectar_btn.php:22
+#: includes/nectar_maps/nectar_icon.php:97
+#: includes/nectar_maps/nectar_icon_list.php:82
+msgid "Medium"
+msgstr ""
+
+#: includes/admin/page-meta.php:109 includes/nectar-addons.php:1024
+msgid "Fast"
+msgstr ""
+
+#: includes/admin/page-meta.php:113
+msgid "Overall BG Color"
+msgstr ""
+
+#: includes/admin/page-meta.php:114
+msgid ""
+"Set your desired background color which will be seen when transitioning "
+"through rows. Defaults to #333333"
+msgstr ""
+
+#: includes/admin/page-meta.php:120
+msgid "Add Row Anchors to URL"
+msgstr ""
+
+#: includes/admin/page-meta.php:121
+msgid "Enable this to add anchors into your URL for each row."
+msgstr ""
+
+#: includes/admin/page-meta.php:127
+msgid "Disable On Mobile"
+msgstr ""
+
+#: includes/admin/page-meta.php:128
+msgid ""
+"Check this to disable the page full screen rows when viewing on a mobile "
+"device."
+msgstr ""
+
+#: includes/admin/page-meta.php:134
+msgid "Row BG Image Animation"
+msgstr ""
+
+#: includes/admin/page-meta.php:135
+msgid "Select your desired row BG image animation"
+msgstr ""
+
+#: includes/admin/page-meta.php:140 includes/admin/page-meta.php:177
+#: includes/admin/page-meta.php:313 includes/nectar-addons.php:996
+#: includes/nectar-addons.php:1308 includes/nectar-addons.php:1499
+#: includes/nectar-addons.php:1526 includes/nectar-addons.php:1723
+#: includes/nectar-addons.php:1929 includes/nectar-addons.php:1981
+#: includes/nectar-addons.php:2650 includes/nectar_maps/fancy_box.php:32
+#: includes/nectar_maps/fancy_box.php:229
+#: includes/nectar_maps/image_with_animation.php:43
+#: includes/nectar_maps/image_with_animation.php:99
+#: includes/nectar_maps/nectar_btn.php:149
+#: includes/nectar_maps/nectar_cascading_images.php:145
+#: includes/nectar_maps/nectar_cascading_images.php:156
+#: includes/nectar_maps/nectar_cascading_images.php:264
+#: includes/nectar_maps/nectar_cascading_images.php:275
+#: includes/nectar_maps/nectar_cascading_images.php:383
+#: includes/nectar_maps/nectar_cascading_images.php:394
+#: includes/nectar_maps/nectar_cascading_images.php:502
+#: includes/nectar_maps/nectar_cascading_images.php:513
+#: includes/nectar_maps/nectar_category_grid.php:133
+#: includes/nectar_maps/nectar_image_with_hotspots.php:90
+#: includes/nectar_maps/nectar_video_lightbox.php:73
+#: includes/nectar_maps/tab.php:27 includes/nectar_maps/vc_column_inner.php:35
+msgid "None"
+msgstr ""
+
+#: includes/admin/page-meta.php:141
+msgid "Ken Burns Zoom"
+msgstr ""
+
+#: includes/admin/page-meta.php:145
+msgid "Dot Navigation"
+msgstr ""
+
+#: includes/admin/page-meta.php:146
+msgid "Select your desired dot navigation style"
+msgstr ""
+
+#: includes/admin/page-meta.php:151
+msgid "Transparent"
+msgstr ""
+
+#: includes/admin/page-meta.php:152
+msgid "Tooltip"
+msgstr ""
+
+#: includes/admin/page-meta.php:153
+msgid "Tooltip Alt"
+msgstr ""
+
+#: includes/admin/page-meta.php:154
+msgid "None (Hidden)"
+msgstr ""
+
+#: includes/admin/page-meta.php:158
+msgid "Row Overflow"
+msgstr ""
+
+#: includes/admin/page-meta.php:159
+msgid ""
+"Select how you would like rows to be handled that have content taller than "
+"the users window height. This only applies to desktop (mobile will "
+"automatically get scrollbars)"
+msgstr ""
+
+#: includes/admin/page-meta.php:164
+msgid "Provide Scrollbar"
+msgstr ""
+
+#: includes/admin/page-meta.php:165
+msgid "Hide Extra Content"
+msgstr ""
+
+#: includes/admin/page-meta.php:169
+msgid "Page Footer"
+msgstr ""
+
+#: includes/admin/page-meta.php:170
+msgid ""
+"This option allows you to define what will be used for the footer after your "
+"fullscreen rows"
+msgstr ""
+
+#: includes/admin/page-meta.php:175
+msgid "Default Footer"
+msgstr ""
+
+#: includes/admin/page-meta.php:176
+msgid "Last Row"
+msgstr ""
+
+#: includes/admin/page-meta.php:201
+msgid "Page Header Settings"
+msgstr ""
+
+#: includes/admin/page-meta.php:202
+msgid ""
+"Here you can configure how your page header will appear. For a full width "
+"background image behind your header text, simply upload the image below. To "
+"have a standard header just fill out the fields below and don't upload an "
+"image."
+msgstr ""
+
+#: includes/admin/page-meta.php:208
+msgid "Background Type"
+msgstr ""
+
+#: includes/admin/page-meta.php:209
+msgid "Please select the background type you would like to use for your slide."
+msgstr ""
+
+#: includes/admin/page-meta.php:213
+msgid "Image Background"
+msgstr ""
+
+#: includes/admin/page-meta.php:214 includes/nectar-addons.php:657
+#: includes/nectar-addons.php:1230
+#: includes/nectar_maps/full_width_section.php:97
+msgid "Video Background"
+msgstr ""
+
+#: includes/admin/page-meta.php:215
+msgid "HTML5 Canvas Background"
+msgstr ""
+
+#: includes/admin/page-meta.php:220
+msgid "Particle Images"
+msgstr ""
+
+#: includes/admin/page-meta.php:221
+msgid "Add images here that will be used to create the particle shapes."
+msgstr ""
+
+#: includes/admin/page-meta.php:228
+msgid "Video WebM Upload"
+msgstr ""
+
+#: includes/admin/page-meta.php:229
+msgid ""
+"Browse for your WebM video file here. This will be automatically played on "
+"load so make sure to use this responsibly for enhancing your design. You "
+"must include this format & the mp4 format to render your video with cross "
+"browser compatibility. OGV is optional. Video must be in a 16:9 aspect ratio."
+msgstr ""
+
+#: includes/admin/page-meta.php:235
+msgid "Video MP4 Upload"
+msgstr ""
+
+#: includes/admin/page-meta.php:236
+msgid ""
+"Browse for your mp4 video file here. See the note above for recommendations "
+"on how to properly use your video background."
+msgstr ""
+
+#: includes/admin/page-meta.php:242
+msgid "Video OGV Upload"
+msgstr ""
+
+#: includes/admin/page-meta.php:243
+msgid ""
+"Browse for your OGV video file here. See the note above for recommendations "
+"on how to properly use your video background."
+msgstr ""
+
+#: includes/admin/page-meta.php:249 includes/admin/post-meta.php:119
+msgid "Preview Image"
+msgstr ""
+
+#: includes/admin/page-meta.php:250
+msgid ""
+"This is the image that will be seen in place of your video on mobile devices "
+"& older browsers before your video is played."
+msgstr ""
+
+#: includes/admin/page-meta.php:256 includes/admin/post-meta.php:274
+msgid "Page Header Image"
+msgstr ""
+
+#: includes/admin/page-meta.php:257
+msgid ""
+"The image should be between 1600px - 2000px wide and have a minimum height "
+"of 475px for best results. Click \"Browse\" to upload and then \"Insert into "
+"Post\"."
+msgstr ""
+
+#: includes/admin/page-meta.php:263
+msgid "Parallax Header"
+msgstr ""
+
+#: includes/admin/page-meta.php:264
+msgid "This will cause your header to have a parallax scroll effect."
+msgstr ""
+
+#: includes/admin/page-meta.php:271
+msgid "Box Roll Header"
+msgstr ""
+
+#: includes/admin/page-meta.php:272
+msgid ""
+"This will cause your header to have a 3d box roll on scroll. (deactivated "
+"for boxed layouts)"
+msgstr ""
+
+#: includes/admin/page-meta.php:279 includes/admin/post-meta.php:256
+msgid "Page Header Height"
+msgstr ""
+
+#: includes/admin/page-meta.php:280 includes/admin/post-meta.php:257
+msgid ""
+"How tall do you want your header? Don't include \"px\" in the string. e.g. "
+"350 This only applies when you are using an image/bg color."
+msgstr ""
+
+#: includes/admin/page-meta.php:286
+msgid "Fullscreen Height"
+msgstr ""
+
+#: includes/admin/page-meta.php:287
+msgid ""
+"Choosing this option will allow your header to always remain fullscreen on "
+"all devices/screen sizes."
+msgstr ""
+
+#: includes/admin/page-meta.php:293
+msgid "Page Header Title"
+msgstr ""
+
+#: includes/admin/page-meta.php:294
+msgid "Enter in the page header title"
+msgstr ""
+
+#: includes/admin/page-meta.php:300
+msgid "Page Header Subtitle"
+msgstr ""
+
+#: includes/admin/page-meta.php:301
+msgid "Enter in the page header subtitle"
+msgstr ""
+
+#: includes/admin/page-meta.php:307
+msgid "Text Effect"
+msgstr ""
+
+#: includes/admin/page-meta.php:308
+msgid "Please select your desired text effect"
+msgstr ""
+
+#: includes/admin/page-meta.php:314
+msgid "Rotate In"
+msgstr ""
+
+#: includes/admin/page-meta.php:318
+msgid "Shape Autorotate Timing"
+msgstr ""
+
+#: includes/admin/page-meta.php:319
+msgid ""
+"Enter your desired autorotation time in milliseconds e.g. \"5000\". Leaving "
+"this blank will disable the functionality."
+msgstr ""
+
+#: includes/admin/page-meta.php:325
+msgid "Disable Chance For Particle Explosion"
+msgstr ""
+
+#: includes/admin/page-meta.php:326
+#, php-format
+msgid ""
+"By default there's a 50% chance on autorotation that your particles will "
+"explode. Checking this box disables that."
+msgstr ""
+
+#: includes/admin/page-meta.php:332 includes/admin/page-meta.php:345
+#: includes/nectar_maps/fancy_box.php:192
+msgid "Content Alignment"
+msgstr ""
+
+#: includes/admin/page-meta.php:333
+msgid "Horizontal Alignment"
+msgstr ""
+
+#: includes/admin/page-meta.php:337 includes/nectar-addons.php:764
+#: includes/nectar-addons.php:1136 includes/nectar-addons.php:1400
+#: includes/nectar-addons.php:1416 includes/nectar-addons.php:1630
+#: includes/nectar-addons.php:2030 includes/nectar_maps/gradient-text.php:85
+#: includes/nectar_maps/image_with_animation.php:145
+#: includes/nectar_maps/milestone.php:139
+#: includes/nectar_maps/nectar_btn.php:216
+#: includes/nectar_maps/nectar_cta.php:104
+#: includes/nectar_maps/nectar_cta.php:134
+#: includes/nectar_maps/nectar_hotspot.php:28
+#: includes/nectar_maps/nectar_icon.php:208
+#: includes/nectar_maps/page_submenu.php:28
+#: includes/nectar_maps/vc_column_inner.php:128
+msgid "Left"
+msgstr ""
+
+#: includes/admin/page-meta.php:338
+msgid "Centered"
+msgstr ""
+
+#: includes/admin/page-meta.php:339 includes/nectar-addons.php:766
+#: includes/nectar-addons.php:1135 includes/nectar-addons.php:1402
+#: includes/nectar-addons.php:1418 includes/nectar-addons.php:1629
+#: includes/nectar-addons.php:2032 includes/nectar_maps/gradient-text.php:71
+#: includes/nectar_maps/image_with_animation.php:131
+#: includes/nectar_maps/milestone.php:140
+#: includes/nectar_maps/nectar_btn.php:202
+#: includes/nectar_maps/nectar_cta.php:106
+#: includes/nectar_maps/nectar_cta.php:120
+#: includes/nectar_maps/nectar_icon.php:194
+#: includes/nectar_maps/page_submenu.php:29
+#: includes/nectar_maps/vc_column_inner.php:127
+msgid "Right"
+msgstr ""
+
+#: includes/admin/page-meta.php:346
+msgid "Vertical Alignment"
+msgstr ""
+
+#: includes/admin/page-meta.php:350 includes/admin/page-meta.php:364
+#: includes/admin/post-meta.php:295 includes/nectar-addons.php:408
+#: includes/nectar-addons.php:427 includes/nectar-addons.php:512
+#: includes/nectar-addons.php:548 includes/nectar-addons.php:966
+#: includes/nectar-addons.php:1134 includes/nectar-addons.php:1628
+#: includes/nectar_maps/gradient-text.php:64
+#: includes/nectar_maps/image_with_animation.php:124
+#: includes/nectar_maps/nectar_btn.php:195
+#: includes/nectar_maps/nectar_cta.php:113
+#: includes/nectar_maps/nectar_hotspot.php:33
+#: includes/nectar_maps/nectar_icon.php:187
+#: includes/nectar_maps/vc_column_inner.php:126
+msgid "Top"
+msgstr ""
+
+#: includes/admin/page-meta.php:351 includes/nectar-addons.php:407
+#: includes/nectar-addons.php:428 includes/nectar-addons.php:511
+#: includes/nectar_maps/nectar_category_grid.php:119
+msgid "Middle"
+msgstr ""
+
+#: includes/admin/page-meta.php:352 includes/admin/page-meta.php:366
+#: includes/admin/post-meta.php:297 includes/nectar-addons.php:409
+#: includes/nectar-addons.php:429 includes/nectar-addons.php:513
+#: includes/nectar-addons.php:549 includes/nectar-addons.php:965
+#: includes/nectar-addons.php:1137 includes/nectar-addons.php:1631
+#: includes/nectar_maps/gradient-text.php:78
+#: includes/nectar_maps/image_with_animation.php:138
+#: includes/nectar_maps/nectar_btn.php:209
+#: includes/nectar_maps/nectar_cta.php:127
+#: includes/nectar_maps/nectar_icon.php:201
+#: includes/nectar_maps/vc_column_inner.php:129
+msgid "Bottom"
+msgstr ""
+
+#: includes/admin/page-meta.php:358 includes/admin/post-meta.php:289
+msgid "Background Alignment"
+msgstr ""
+
+#: includes/admin/page-meta.php:359 includes/admin/post-meta.php:290
+msgid "Please choose how you would like your header background to be aligned"
+msgstr ""
+
+#: includes/admin/page-meta.php:365 includes/admin/post-meta.php:296
+#: includes/nectar-addons.php:547 includes/nectar-addons.php:765
+#: includes/nectar-addons.php:1401 includes/nectar-addons.php:1417
+#: includes/nectar-addons.php:2031 includes/nectar_maps/nectar_cta.php:105
+#: includes/nectar_maps/page_submenu.php:27
+msgid "Center"
+msgstr ""
+
+#: includes/admin/page-meta.php:370 includes/admin/post-meta.php:301
+msgid "Page Header Background Color"
+msgstr ""
+
+#: includes/admin/page-meta.php:371 includes/admin/post-meta.php:302
+msgid "Set your desired page header background color if not using an image"
+msgstr ""
+
+#: includes/admin/page-meta.php:377 includes/admin/post-meta.php:308
+msgid "Page Header Font Color"
+msgstr ""
+
+#: includes/admin/page-meta.php:378
+msgid "Set your desired page header font color"
+msgstr ""
+
+#: includes/admin/page-meta.php:384
+msgid "Page Header Overlay Color"
+msgstr ""
+
+#: includes/admin/page-meta.php:385
+msgid "This will be applied on top on your page header BG image (if supplied)."
+msgstr ""
+
+#: includes/admin/post-meta.php:28
+msgid "Gallery Configuration"
+msgstr ""
+
+#: includes/admin/post-meta.php:29
+msgid ""
+"Once you've inserted a WordPress gallery using the \"Add Media\" button "
+"above, you can use the gallery slider checkbox below to transform your "
+"images into a slider."
+msgstr ""
+
+#: includes/admin/post-meta.php:35
+msgid "Gallery Slider"
+msgstr ""
+
+#: includes/admin/post-meta.php:36
+msgid "Would you like to turn your gallery into a slider?"
+msgstr ""
+
+#: includes/admin/post-meta.php:50
+msgid "Quote Settings"
+msgstr ""
+
+#: includes/admin/post-meta.php:57
+msgid "Quote Author"
+msgstr ""
+
+#: includes/admin/post-meta.php:58
+msgid ""
+"Please input the name of who your quote is from. Is left blank the post "
+"title will be used."
+msgstr ""
+
+#: includes/admin/post-meta.php:64
+msgid "Quote Content"
+msgstr ""
+
+#: includes/admin/post-meta.php:65
+msgid "Please type the text for your quote here."
+msgstr ""
+
+#: includes/admin/post-meta.php:78
+msgid "Link Settings"
+msgstr ""
+
+#: includes/admin/post-meta.php:85 includes/nectar_maps/fancy_box.php:106
+#: includes/nectar_maps/nectar_btn.php:33
+#: includes/nectar_maps/nectar_cta.php:68
+#: includes/nectar_maps/nectar_icon.php:153
+#: includes/nectar_maps/page_link.php:27
+msgid "Link URL"
+msgstr ""
+
+#: includes/admin/post-meta.php:86
+msgid "Please input the URL for your link. I.e. http://www.themenectar.com"
+msgstr ""
+
+#: includes/admin/post-meta.php:98
+msgid "Video Settings"
+msgstr ""
+
+#: includes/admin/post-meta.php:105 includes/nectar-addons.php:707
+#: includes/nectar-addons.php:1250
+#: includes/nectar_maps/full_width_section.php:133
+msgid "MP4 File URL"
+msgstr ""
+
+#: includes/admin/post-meta.php:106
+msgid "Please upload the .m4v video file."
+msgstr ""
+
+#: includes/admin/post-meta.php:112 includes/nectar-addons.php:717
+#: includes/nectar-addons.php:1260
+#: includes/nectar_maps/full_width_section.php:142
+msgid "OGV File URL"
+msgstr ""
+
+#: includes/admin/post-meta.php:113
+msgid "Please upload the .ogv video file"
+msgstr ""
+
+#: includes/admin/post-meta.php:120
+msgid ""
+"Image should be at least 680px wide. Click the \"Upload\" button to begin "
+"uploading your image, followed by \"Select File\" once you have made your "
+"selection. Only applies to self hosted videos."
+msgstr ""
+
+#: includes/admin/post-meta.php:126
+msgid "Embedded Code"
+msgstr ""
+
+#: includes/admin/post-meta.php:127
+msgid ""
+"If the video is an embed rather than self hosted, enter in a Vimeo or "
+"Youtube embed code here."
+msgstr ""
+
+#: includes/admin/post-meta.php:139
+msgid "Audio Settings"
+msgstr ""
+
+#: includes/admin/post-meta.php:146
+msgid "MP3 File URL"
+msgstr ""
+
+#: includes/admin/post-meta.php:147
+msgid "Please enter in the URL to the .mp3 file"
+msgstr ""
+
+#: includes/admin/post-meta.php:153
+msgid "OGA File URL"
+msgstr ""
+
+#: includes/admin/post-meta.php:154
+msgid "Please enter in the URL to the .ogg or .oga file"
+msgstr ""
+
+#: includes/admin/post-meta.php:170
+msgid "Post Configuration"
+msgstr ""
+
+#: includes/admin/post-meta.php:171
+msgid "Configure the various options for how your post will display"
+msgstr ""
+
+#: includes/admin/post-meta.php:177
+msgid "Masonry Item Sizing"
+msgstr ""
+
+#: includes/admin/post-meta.php:178
+msgid ""
+"This will only be used if you choose to display your portfolio in the "
+"masonry format"
+msgstr ""
+
+#: includes/admin/post-meta.php:183 includes/nectar_maps/nectar_btn.php:56
+msgid "Regular"
+msgstr ""
+
+#: includes/admin/post-meta.php:184
+msgid "Regular Alt"
+msgstr ""
+
+#: includes/admin/post-meta.php:185
+msgid "Large Featured"
+msgstr ""
+
+#: includes/admin/post-meta.php:240
+msgid "Background Overlay"
+msgstr ""
+
+#: includes/admin/post-meta.php:241
+msgid ""
+"This will add a slight overlay onto your header which will allow lighter "
+"text to be easily visible on light images "
+msgstr ""
+
+#: includes/admin/post-meta.php:247
+msgid "Bottom Shadow"
+msgstr ""
+
+#: includes/admin/post-meta.php:248
+msgid "This will add a subtle shadow at the bottom of your header"
+msgstr ""
+
+#: includes/admin/post-meta.php:267
+msgid "Post Header Settings"
+msgstr ""
+
+#: includes/admin/post-meta.php:268
+msgid "Here you can configure how your page header will appear. "
+msgstr ""
+
+#: includes/admin/post-meta.php:275
+msgid ""
+"The image should be between 1600px - 2000px wide and have a minimum height "
+"of 475px for best results."
+msgstr ""
+
+#: includes/admin/post-meta.php:281
+msgid "Parallax Header?"
+msgstr ""
+
+#: includes/admin/post-meta.php:282
+msgid ""
+"If you would like your header to have a parallax scroll effect check this "
+"box."
+msgstr ""
+
+#: includes/admin/post-meta.php:309
+msgid ""
+"Set your desired page header font color - will only be used if using a "
+"header bg image/color"
+msgstr ""
+
+#: includes/nectar-addons.php:163
+msgid "Salient studio template library"
+msgstr ""
+
+#: includes/nectar-addons.php:163
+msgid "Salient Templates"
+msgstr ""
+
+#: includes/nectar-addons.php:175
+msgid "My templates"
+msgstr ""
+
+#: includes/nectar-addons.php:175
+msgid "My Templates"
+msgstr ""
+
+#: includes/nectar-addons.php:296
+msgid "Add image"
+msgstr ""
+
+#: includes/nectar-addons.php:377
+msgid "Row"
+msgstr ""
+
+#: includes/nectar-addons.php:383
+msgid "Structure"
+msgstr ""
+
+#: includes/nectar-addons.php:384
+msgid "Place content elements inside the row"
+msgstr ""
+
+#: includes/nectar-addons.php:389
+msgid "Type"
+msgstr ""
+
+#: includes/nectar-addons.php:393
+msgid "In Container"
+msgstr ""
+
+#: includes/nectar-addons.php:394
+msgid "Full Width Background"
+msgstr ""
+
+#: includes/nectar-addons.php:395
+msgid "Full Width Content"
+msgstr ""
+
+#: includes/nectar-addons.php:402
+msgid "Fullscreen Row Position"
+msgstr ""
+
+#: includes/nectar-addons.php:405
+#, php-format
+msgid ""
+"Select how your content will be aligned in the fullscreen row - if full "
+"height is selected, columns will be 100% of the screen height as well."
+msgstr ""
+
+#: includes/nectar-addons.php:410
+msgid "Full Height"
+msgstr ""
+
+#: includes/nectar-addons.php:416
+msgid "Equal height"
+msgstr ""
+
+#: includes/nectar-addons.php:418
+msgid "If checked columns will be set to equal height."
+msgstr ""
+
+#: includes/nectar-addons.php:419 includes/nectar-addons.php:503
+#: includes/nectar-addons.php:846 includes/nectar-addons.php:853
+#: includes/nectar-addons.php:2706 includes/nectar_maps/carousel.php:81
+#: includes/nectar_maps/carousel.php:291 includes/nectar_maps/carousel.php:300
+#: includes/nectar_maps/flip-box.php:45 includes/nectar_maps/flip-box.php:164
+#: includes/nectar_maps/nectar_btn.php:49
+#: includes/nectar_maps/nectar_horizontal_list_item.php:187
+#: includes/nectar_maps/nectar_horizontal_list_item.php:213
+#: includes/nectar_maps/nectar_horizontal_list_item.php:246
+#: includes/nectar_maps/nectar_icon.php:81
+#: includes/nectar_maps/nectar_icon.php:163
+#: includes/nectar_maps/nectar_woo_products.php:159
+msgid "Yes"
+msgstr ""
+
+#: includes/nectar-addons.php:423
+msgid "Column Content position"
+msgstr ""
+
+#: includes/nectar-addons.php:426 includes/nectar-addons.php:1399
+#: includes/nectar-addons.php:1415 includes/nectar-addons.php:1980
+#: includes/nectar_maps/carousel.php:43 includes/nectar_maps/milestone.php:138
+#: includes/nectar_maps/nectar_food_menu_item.php:20
+#: includes/nectar_maps/nectar_video_lightbox.php:98
+#: includes/nectar_maps/pricing_table.php:35
+#: includes/nectar_maps/recent_posts.php:36
+#: includes/nectar_maps/tabbed_section.php:27
+#: includes/nectar_maps/toggle.php:27 includes/nectar_maps/toggles.php:23
+msgid "Default"
+msgstr ""
+
+#: includes/nectar-addons.php:431
+msgid "Select content position within columns."
+msgstr ""
+
+#: includes/nectar-addons.php:437
+msgid "Vertically Center Columns"
+msgstr ""
+
+#: includes/nectar-addons.php:447 includes/nectar-addons.php:1211
+#: includes/nectar-addons.php:1576 includes/nectar_maps/flip-box.php:24
+#: includes/nectar_maps/flip-box.php:143
+#: includes/nectar_maps/full_width_section.php:43
+#: includes/nectar_maps/vc_column_inner.php:73
+msgid "Background Image"
+msgstr ""
+
+#: includes/nectar-addons.php:457
+msgid "Background Image Mobile Hidden"
+msgstr ""
+
+#: includes/nectar-addons.php:468
+#: includes/nectar_maps/full_width_section.php:51
+msgid "Background Position"
+msgstr ""
+
+#: includes/nectar-addons.php:471
+msgid "Left Top"
+msgstr ""
+
+#: includes/nectar-addons.php:472
+msgid "Left Center"
+msgstr ""
+
+#: includes/nectar-addons.php:473
+msgid "Left Bottom"
+msgstr ""
+
+#: includes/nectar-addons.php:474
+msgid "Center Top"
+msgstr ""
+
+#: includes/nectar-addons.php:475
+msgid "Center Center"
+msgstr ""
+
+#: includes/nectar-addons.php:476
+msgid "Center Bottom"
+msgstr ""
+
+#: includes/nectar-addons.php:477
+msgid "Right Top"
+msgstr ""
+
+#: includes/nectar-addons.php:478
+msgid "Right Center"
+msgstr ""
+
+#: includes/nectar-addons.php:479
+msgid "Right Bottom"
+msgstr ""
+
+#: includes/nectar-addons.php:488
+#: includes/nectar_maps/full_width_section.php:69
+msgid "Background Repeat"
+msgstr ""
+
+#: includes/nectar-addons.php:492
+msgid "No Repeat"
+msgstr ""
+
+#: includes/nectar-addons.php:493
+msgid "Repeat"
+msgstr ""
+
+#: includes/nectar-addons.php:500
+msgid "Full height row"
+msgstr ""
+
+#: includes/nectar-addons.php:502
+msgid "If checked row will be set to full height."
+msgstr ""
+
+#: includes/nectar-addons.php:508
+msgid "Columns position"
+msgstr ""
+
+#: includes/nectar-addons.php:514
+msgid "Stretch"
+msgstr ""
+
+#: includes/nectar-addons.php:516
+msgid "Select columns position within row."
+msgstr ""
+
+#: includes/nectar-addons.php:527 includes/nectar-addons.php:1151
+#: includes/nectar-addons.php:1653 includes/nectar_maps/fancy-title.php:46
+#: includes/nectar_maps/flip-box.php:33 includes/nectar_maps/flip-box.php:152
+#: includes/nectar_maps/full_width_section.php:89
+#: includes/nectar_maps/vc_column_inner.php:143
+msgid "Background Color"
+msgstr ""
+
+#: includes/nectar-addons.php:535
+msgid "Mouse Based Parallax Scene"
+msgstr ""
+
+#: includes/nectar-addons.php:543
+msgid "Scene Positioning"
+msgstr ""
+
+#: includes/nectar-addons.php:551
+msgid "Select your desired scene alignment within your row"
+msgstr ""
+
+#: includes/nectar-addons.php:557
+msgid "Scene Parallax Overall Strength"
+msgstr ""
+
+#: includes/nectar-addons.php:560
+msgid ""
+"Enter a number between 1 and 25 that will effect the overall strength of the "
+"parallax movement within the entire scene - the default is 10."
+msgstr ""
+
+#: includes/nectar-addons.php:567
+msgid "Scene Layer One"
+msgstr ""
+
+#: includes/nectar-addons.php:570
+msgid ""
+"Please upload all of your layers at the same dimensions to ensure accurate "
+"placement."
+msgstr ""
+
+#: includes/nectar-addons.php:576
+msgid "Layer One Strength"
+msgstr ""
+
+#: includes/nectar-addons.php:585
+msgid "Scene Layer Two"
+msgstr ""
+
+#: includes/nectar-addons.php:594
+msgid "Layer Two Strength"
+msgstr ""
+
+#: includes/nectar-addons.php:597 includes/nectar-addons.php:615
+#: includes/nectar-addons.php:633 includes/nectar-addons.php:651
+msgid ""
+"See the description on \"Layer One Strength\" for guidelines on this "
+"property."
+msgstr ""
+
+#: includes/nectar-addons.php:603
+msgid "Scene Layer Three"
+msgstr ""
+
+#: includes/nectar-addons.php:612
+msgid "Layer Three Strength"
+msgstr ""
+
+#: includes/nectar-addons.php:630
+msgid "Layer Four Strength"
+msgstr ""
+
+#: includes/nectar-addons.php:639
+msgid "Scene Layer Five"
+msgstr ""
+
+#: includes/nectar-addons.php:648
+msgid "Layer Five Strength"
+msgstr ""
+
+#: includes/nectar-addons.php:666
+#: includes/nectar_maps/full_width_section.php:105
+msgid "Video Color Overlay"
+msgstr ""
+
+#: includes/nectar-addons.php:676
+#: includes/nectar_maps/full_width_section.php:114
+msgid "Overlay Color"
+msgstr ""
+
+#: includes/nectar-addons.php:686
+msgid "Youtube Video URL"
+msgstr ""
+
+#: includes/nectar-addons.php:689
+msgid ""
+"Can be used as an alternative to self hosted videos. Enter full video URL e."
+"g. https://www.youtube.com/watch?v=6oTurM7gESE"
+msgstr ""
+
+#: includes/nectar-addons.php:696 includes/nectar-addons.php:1239
+#: includes/nectar_maps/full_width_section.php:123
+msgid "WebM File URL"
+msgstr ""
+
+#: includes/nectar-addons.php:699 includes/nectar-addons.php:1242
+msgid ""
+"You must include this format & the mp4 format to render your video with "
+"cross browser compatibility. OGV is optional.\n"
+"\t\t\t\tVideo must be in a 16:9 aspect ratio."
+msgstr ""
+
+#: includes/nectar-addons.php:710 includes/nectar-addons.php:1253
+#: includes/nectar_maps/full_width_section.php:136
+msgid "Enter the URL for your mp4 video file here"
+msgstr ""
+
+#: includes/nectar-addons.php:720 includes/nectar-addons.php:1263
+#: includes/nectar_maps/full_width_section.php:145
+msgid "Enter the URL for your ogv video file here"
+msgstr ""
+
+#: includes/nectar-addons.php:727 includes/nectar-addons.php:1270
+#: includes/nectar_maps/full_width_section.php:151
+#: includes/nectar_maps/nectar_video_lightbox.php:52
+msgid "Video Preview Image"
+msgstr ""
+
+#: includes/nectar-addons.php:737 includes/nectar_maps/fancy-title.php:60
+#: includes/nectar_maps/flip-box.php:51 includes/nectar_maps/flip-box.php:170
+#: includes/nectar_maps/full_width_section.php:161
+#: includes/nectar_maps/gradient-text.php:33
+#: includes/nectar_maps/nectar_category_grid.php:250
+msgid "Text Color"
+msgstr ""
+
+#: includes/nectar-addons.php:741 includes/nectar-addons.php:906
+#: includes/nectar_maps/nectar_btn.php:132
+msgid "Light"
+msgstr ""
+
+#: includes/nectar-addons.php:742
+#: includes/nectar_maps/nectar_category_grid.php:135
+msgid "Custom"
+msgstr ""
+
+#: includes/nectar-addons.php:750
+#: includes/nectar_maps/full_width_section.php:172
+msgid "Custom Text Color"
+msgstr ""
+
+#: includes/nectar-addons.php:761 includes/nectar-addons.php:2027
+#: includes/nectar_maps/full_width_section.php:181
+msgid "Text Alignment"
+msgstr ""
+
+#: includes/nectar-addons.php:773 includes/nectar-addons.php:1988
+#: includes/nectar_maps/full_width_section.php:192
+msgid "Padding Top"
+msgstr ""
+
+#: includes/nectar-addons.php:776 includes/nectar-addons.php:785
+#: includes/nectar-addons.php:1991 includes/nectar-addons.php:2000
+msgid ""
+"Don't include \"px\" in your string. e.g \"40\" - However you can also use a "
+"percent value in which case a \"%\" would be needed at the end e.g. \"10%\""
+msgstr ""
+
+#: includes/nectar-addons.php:782 includes/nectar-addons.php:1997
+#: includes/nectar_maps/full_width_section.php:200
+msgid "Padding Bottom"
+msgstr ""
+
+#: includes/nectar-addons.php:791 includes/nectar-addons.php:2006
+msgid "Translate Y"
+msgstr ""
+
+#: includes/nectar-addons.php:801 includes/nectar-addons.php:2016
+msgid "Translate X"
+msgstr ""
+
+#: includes/nectar-addons.php:811
+msgid "Z-Index"
+msgstr ""
+
+#: includes/nectar-addons.php:813
+msgid ""
+"If you want to set a custom stacking order on this row, enter it here. Can "
+"be useful when overlapping elements from other rows with negative margins/"
+"translates."
+msgstr ""
+
+#: includes/nectar-addons.php:820 includes/nectar-addons.php:1355
+#: includes/nectar-addons.php:1788 includes/nectar-addons.php:2039
+#: includes/nectar_maps/full_width_section.php:208
+#: includes/nectar_maps/nectar_cta.php:141
+#: includes/nectar_maps/nectar_food_menu_item.php:62
+#: includes/nectar_maps/vc_column_inner.php:191
+msgid "Extra Class Name"
+msgstr ""
+
+#: includes/nectar-addons.php:828
+msgid "Row ID"
+msgstr ""
+
+#: includes/nectar-addons.php:831 includes/nectar-addons.php:2057
+msgid ""
+"Use this to option to add an ID onto your row. This can then be used to "
+"target the row with CSS or as an anchor point to scroll to when the relevant "
+"link is clicked."
+msgstr ""
+
+#: includes/nectar-addons.php:836
+msgid "Row Name"
+msgstr ""
+
+#: includes/nectar-addons.php:839
+msgid ""
+"This will be shown in your dot navigation when using the Fullscreen Row "
+"option"
+msgstr ""
+
+#: includes/nectar-addons.php:843
+msgid "Disable Ken Burns BG effect"
+msgstr ""
+
+#: includes/nectar-addons.php:845
+msgid ""
+"If checked the ken burns background zoom effect will not occur on this row."
+msgstr ""
+
+#: includes/nectar-addons.php:850
+msgid "Disable row"
+msgstr ""
+
+#: includes/nectar-addons.php:852
+msgid ""
+"If checked the row won't be visible on the public side of your website. You "
+"can switch it back any time."
+msgstr ""
+
+#: includes/nectar-addons.php:859
+msgid "Enable Gradient"
+msgstr ""
+
+#: includes/nectar-addons.php:867
+msgid "Color Overlay"
+msgstr ""
+
+#: includes/nectar-addons.php:876
+msgid "Color Overlay 2"
+msgstr ""
+
+#: includes/nectar-addons.php:887 includes/nectar_maps/gradient-text.php:46
+msgid "Gradient Direction"
+msgstr ""
+
+#: includes/nectar-addons.php:891
+msgid "Left to Right"
+msgstr ""
+
+#: includes/nectar-addons.php:892
+msgid "Left Top to Right Bottom"
+msgstr ""
+
+#: includes/nectar-addons.php:893
+msgid "Left Bottom to Right Top"
+msgstr ""
+
+#: includes/nectar-addons.php:894
+msgid "Bottom to Top"
+msgstr ""
+
+#: includes/nectar-addons.php:908
+msgid "Heavy"
+msgstr ""
+
+#: includes/nectar-addons.php:909
+msgid "Very Heavy"
+msgstr ""
+
+#: includes/nectar-addons.php:910 includes/nectar-addons.php:1460
+#: includes/nectar-addons.php:1864
+msgid "Solid"
+msgstr ""
+
+#: includes/nectar-addons.php:918
+msgid "Enable Shape Divider"
+msgstr ""
+
+#: includes/nectar-addons.php:927
+msgid "Shape Type"
+msgstr ""
+
+#: includes/nectar-addons.php:931
+msgid "Curve"
+msgstr ""
+
+#: includes/nectar-addons.php:932
+msgid "Fan"
+msgstr ""
+
+#: includes/nectar-addons.php:933
+msgid "Curve Opacity"
+msgstr ""
+
+#: includes/nectar-addons.php:934
+msgid "Mountains"
+msgstr ""
+
+#: includes/nectar-addons.php:935
+msgid "Curve Asym."
+msgstr ""
+
+#: includes/nectar-addons.php:936
+msgid "Curve Asym. Alt"
+msgstr ""
+
+#: includes/nectar-addons.php:937
+msgid "Tilt"
+msgstr ""
+
+#: includes/nectar-addons.php:938
+msgid "Tilt Alt"
+msgstr ""
+
+#: includes/nectar-addons.php:939
+msgid "Triangle"
+msgstr ""
+
+#: includes/nectar-addons.php:940
+msgid "Waves"
+msgstr ""
+
+#: includes/nectar-addons.php:941
+msgid "Waves Opacity"
+msgstr ""
+
+#: includes/nectar-addons.php:942
+msgid "Waves Opacity 2"
+msgstr ""
+
+#: includes/nectar-addons.php:943
+msgid "Clouds"
+msgstr ""
+
+#: includes/nectar-addons.php:944
+msgid "Speech"
+msgstr ""
+
+#: includes/nectar-addons.php:945
+msgid "Straight Section"
+msgstr ""
+
+#: includes/nectar-addons.php:951
+msgid "Shape Divider Color"
+msgstr ""
+
+#: includes/nectar-addons.php:961
+msgid "Shape Divider Position"
+msgstr ""
+
+#: includes/nectar-addons.php:967
+msgid "Bottom + Top"
+msgstr ""
+
+#: includes/nectar-addons.php:974
+msgid "Shape Divider Height"
+msgstr ""
+
+#: includes/nectar-addons.php:977
+msgid ""
+"Enter an optional custom height for your shape divider in pixels without the "
+"\"px\", e.g. 50"
+msgstr ""
+
+#: includes/nectar-addons.php:983
+msgid "Bring to front?"
+msgstr ""
+
+#: includes/nectar-addons.php:986
+msgid ""
+"This will bring the shape divider to the top layer, placing it on top of any "
+"content it intersects"
+msgstr ""
+
+#: includes/nectar-addons.php:992
+msgid "Background Image Animation"
+msgstr ""
+
+#: includes/nectar-addons.php:997 includes/nectar-addons.php:1500
+#: includes/nectar-addons.php:1527 includes/nectar-addons.php:1930
+#: includes/nectar_maps/fancy_box.php:230
+#: includes/nectar_maps/image_with_animation.php:36
+#: includes/nectar_maps/nectar_cascading_images.php:139
+#: includes/nectar_maps/nectar_cascading_images.php:258
+#: includes/nectar_maps/nectar_cascading_images.php:377
+#: includes/nectar_maps/nectar_cascading_images.php:496
+#: includes/nectar_maps/vc_column_inner.php:36
+msgid "Fade In"
+msgstr ""
+
+#: includes/nectar-addons.php:998 includes/nectar-addons.php:1501
+#: includes/nectar-addons.php:1532 includes/nectar-addons.php:1935
+msgid "Zoom Out"
+msgstr ""
+
+#: includes/nectar-addons.php:999 includes/nectar-addons.php:1502
+msgid "Zoom Out Slowly"
+msgstr ""
+
+#: includes/nectar-addons.php:1007
+msgid "Parallax Background Image Scroll"
+msgstr ""
+
+#: includes/nectar-addons.php:1010
+msgid ""
+"This will cause the background image on your row to scroll at a different "
+"speed than the content"
+msgstr ""
+
+#: includes/nectar-addons.php:1017
+msgid ""
+"The faster you choose, the closer your BG will match the users scroll speed"
+msgstr ""
+
+#: includes/nectar-addons.php:1018
+msgid "Parallax Background Image Speed"
+msgstr ""
+
+#: includes/nectar-addons.php:1025
+msgid "Fixed"
+msgstr ""
+
+#: includes/nectar-addons.php:1044
+msgid "Exclude Row From Header Color Inheritance"
+msgstr ""
+
+#: includes/nectar-addons.php:1054
+#: includes/nectar_maps/image_with_animation.php:104
+msgid "Max Width"
+msgstr ""
+
+#: includes/nectar-addons.php:1057
+msgid ""
+"Optionally enter your desired max width in pixels without the \"px\", e.g. "
+"200"
+msgstr ""
+
+#: includes/nectar-addons.php:1063
+msgid "1 column - 1/12"
+msgstr ""
+
+#: includes/nectar-addons.php:1064
+msgid "2 columns - 1/6"
+msgstr ""
+
+#: includes/nectar-addons.php:1065
+msgid "3 columns - 1/4"
+msgstr ""
+
+#: includes/nectar-addons.php:1066
+msgid "4 columns - 1/3"
+msgstr ""
+
+#: includes/nectar-addons.php:1067
+msgid "5 columns - 5/12"
+msgstr ""
+
+#: includes/nectar-addons.php:1068
+msgid "6 columns - 1/2"
+msgstr ""
+
+#: includes/nectar-addons.php:1069
+msgid "7 columns - 7/12"
+msgstr ""
+
+#: includes/nectar-addons.php:1070
+msgid "8 columns - 2/3"
+msgstr ""
+
+#: includes/nectar-addons.php:1071
+msgid "9 columns - 3/4"
+msgstr ""
+
+#: includes/nectar-addons.php:1072
+msgid "10 columns - 5/6"
+msgstr ""
+
+#: includes/nectar-addons.php:1073
+msgid "11 columns - 11/12"
+msgstr ""
+
+#: includes/nectar-addons.php:1074
+msgid "12 columns - 1/1"
+msgstr ""
+
+#: includes/nectar-addons.php:1075
+msgid "20% - 1/5"
+msgstr ""
+
+#: includes/nectar-addons.php:1076
+msgid "40% - 2/5"
+msgstr ""
+
+#: includes/nectar-addons.php:1077
+msgid "60% - 3/5"
+msgstr ""
+
+#: includes/nectar-addons.php:1078
+msgid "80% - 4/5"
+msgstr ""
+
+#: includes/nectar-addons.php:1083 includes/nectar_maps/pricing_table.php:50
+#: includes/nectar_maps/pricing_table.php:51
+#: includes/nectar_maps/vc_column_inner.php:9
+msgid "Column"
+msgstr ""
+
+#: includes/nectar-addons.php:1092 includes/nectar-addons.php:1645
+#: includes/nectar_maps/vc_column_inner.php:173
+msgid "Centered Content"
+msgstr ""
+
+#: includes/nectar-addons.php:1101 includes/nectar-addons.php:1595
+#: includes/nectar_maps/carousel.php:263
+#: includes/nectar_maps/vc_column_inner.php:93
+msgid "Column Padding"
+msgstr ""
+
+#: includes/nectar-addons.php:1123 includes/nectar-addons.php:1617
+#: includes/nectar_maps/vc_column_inner.php:115
+msgid ""
+"When using the full width content row type or providing a background color/"
+"image for the column, you have the option to define the amount of padding "
+"your column will receive."
+msgstr ""
+
+#: includes/nectar-addons.php:1129 includes/nectar-addons.php:1624
+msgid "Column Padding Position"
+msgstr ""
+
+#: includes/nectar-addons.php:1133 includes/nectar-addons.php:1627
+#: includes/nectar_maps/vc_column_inner.php:125
+msgid "All Sides"
+msgstr ""
+
+#: includes/nectar-addons.php:1138 includes/nectar-addons.php:1632
+#: includes/nectar_maps/vc_column_inner.php:130
+msgid "Left + Right"
+msgstr ""
+
+#: includes/nectar-addons.php:1139 includes/nectar-addons.php:1633
+#: includes/nectar_maps/vc_column_inner.php:131
+msgid "Top + Right"
+msgstr ""
+
+#: includes/nectar-addons.php:1140 includes/nectar-addons.php:1634
+#: includes/nectar_maps/vc_column_inner.php:132
+msgid "Top + Left"
+msgstr ""
+
+#: includes/nectar-addons.php:1141 includes/nectar-addons.php:1635
+#: includes/nectar_maps/vc_column_inner.php:133
+msgid "Top + Bottom"
+msgstr ""
+
+#: includes/nectar-addons.php:1142 includes/nectar-addons.php:1636
+#: includes/nectar_maps/vc_column_inner.php:134
+msgid "Bottom + Right"
+msgstr ""
+
+#: includes/nectar-addons.php:1143 includes/nectar-addons.php:1637
+#: includes/nectar_maps/vc_column_inner.php:135
+msgid "Bottom + Left"
+msgstr ""
+
+#: includes/nectar-addons.php:1145 includes/nectar-addons.php:1639
+#: includes/nectar_maps/vc_column_inner.php:137
+msgid "Use this to fine tune where the column padding will take effect"
+msgstr ""
+
+#: includes/nectar-addons.php:1161 includes/nectar-addons.php:1663
+#: includes/nectar_maps/vc_column_inner.php:153
+msgid "Background Color Opacity"
+msgstr ""
+
+#: includes/nectar-addons.php:1181 includes/nectar-addons.php:1683
+msgid "Background Color Hover"
+msgstr ""
+
+#: includes/nectar-addons.php:1191 includes/nectar-addons.php:1693
+msgid "Background Hover Color Opacity"
+msgstr ""
+
+#: includes/nectar-addons.php:1220 includes/nectar-addons.php:1584
+#: includes/nectar_maps/vc_column_inner.php:82
+msgid "Scale Background Image To Column"
+msgstr ""
+
+#: includes/nectar-addons.php:1280 includes/nectar-addons.php:1713
+msgid "Font Color"
+msgstr ""
+
+#: includes/nectar-addons.php:1289 includes/nectar-addons.php:1761
+#: includes/nectar_maps/vc_column_inner.php:182
+msgid "Column Link"
+msgstr ""
+
+#: includes/nectar-addons.php:1292 includes/nectar-addons.php:1764
+#: includes/nectar_maps/vc_column_inner.php:185
+msgid "If you wish for this column to link somewhere, enter the URL in here"
+msgstr ""
+
+#: includes/nectar-addons.php:1297 includes/nectar-addons.php:1769
+msgid "Column Link Target"
+msgstr ""
+
+#: includes/nectar-addons.php:1300 includes/nectar-addons.php:1772
+#: includes/nectar-addons.php:2833
+#: includes/nectar_maps/image_with_animation.php:72
+msgid "Same window"
+msgstr ""
+
+#: includes/nectar-addons.php:1300 includes/nectar-addons.php:1772
+#: includes/nectar-addons.php:2833
+#: includes/nectar_maps/image_with_animation.php:72
+msgid "New window"
+msgstr ""
+
+#: includes/nectar-addons.php:1305 includes/nectar-addons.php:1720
+#: includes/nectar-addons.php:2647
+#: includes/nectar_maps/image_with_animation.php:96
+#: includes/nectar_maps/nectar_cascading_images.php:153
+#: includes/nectar_maps/nectar_cascading_images.php:272
+#: includes/nectar_maps/nectar_cascading_images.php:391
+#: includes/nectar_maps/nectar_cascading_images.php:510
+#: includes/nectar_maps/nectar_video_lightbox.php:70
+msgid "Box Shadow"
+msgstr ""
+
+#: includes/nectar-addons.php:1308 includes/nectar-addons.php:1723
+#: includes/nectar-addons.php:2650
+#: includes/nectar_maps/image_with_animation.php:99
+#: includes/nectar_maps/nectar_cascading_images.php:156
+#: includes/nectar_maps/nectar_cascading_images.php:275
+#: includes/nectar_maps/nectar_cascading_images.php:394
+#: includes/nectar_maps/nectar_cascading_images.php:513
+#: includes/nectar_maps/nectar_image_with_hotspots.php:90
+#: includes/nectar_maps/nectar_video_lightbox.php:73
+msgid "Small Depth"
+msgstr ""
+
+#: includes/nectar-addons.php:1308 includes/nectar-addons.php:1723
+#: includes/nectar-addons.php:2650
+#: includes/nectar_maps/image_with_animation.php:99
+#: includes/nectar_maps/nectar_cascading_images.php:156
+#: includes/nectar_maps/nectar_cascading_images.php:275
+#: includes/nectar_maps/nectar_cascading_images.php:394
+#: includes/nectar_maps/nectar_cascading_images.php:513
+#: includes/nectar_maps/nectar_image_with_hotspots.php:90
+#: includes/nectar_maps/nectar_video_lightbox.php:73
+msgid "Medium Depth"
+msgstr ""
+
+#: includes/nectar-addons.php:1308 includes/nectar-addons.php:1723
+#: includes/nectar-addons.php:2650
+#: includes/nectar_maps/image_with_animation.php:99
+#: includes/nectar_maps/nectar_cascading_images.php:156
+#: includes/nectar_maps/nectar_cascading_images.php:275
+#: includes/nectar_maps/nectar_cascading_images.php:394
+#: includes/nectar_maps/nectar_cascading_images.php:513
+#: includes/nectar_maps/nectar_image_with_hotspots.php:90
+#: includes/nectar_maps/nectar_video_lightbox.php:73
+msgid "Large Depth"
+msgstr ""
+
+#: includes/nectar-addons.php:1308 includes/nectar-addons.php:1723
+#: includes/nectar-addons.php:2650
+#: includes/nectar_maps/image_with_animation.php:99
+#: includes/nectar_maps/nectar_cascading_images.php:156
+#: includes/nectar_maps/nectar_cascading_images.php:275
+#: includes/nectar_maps/nectar_cascading_images.php:394
+#: includes/nectar_maps/nectar_cascading_images.php:513
+#: includes/nectar_maps/nectar_video_lightbox.php:73
+msgid "Very Large Depth"
+msgstr ""
+
+#: includes/nectar-addons.php:1309 includes/nectar-addons.php:1724
+msgid "Select your desired column box shadow"
+msgstr ""
+
+#: includes/nectar-addons.php:1313 includes/nectar-addons.php:1728
+#: includes/nectar_maps/carousel.php:321
+#: includes/nectar_maps/image_with_animation.php:83
+#: includes/nectar_maps/nectar_video_lightbox.php:78
+msgid "Border Radius"
+msgstr ""
+
+#: includes/nectar-addons.php:1317 includes/nectar-addons.php:1732
+#: includes/nectar_maps/carousel.php:326
+#: includes/nectar_maps/image_with_animation.php:87
+#: includes/nectar_maps/nectar_cascading_images.php:528
+#: includes/nectar_maps/nectar_icon.php:179
+#: includes/nectar_maps/nectar_video_lightbox.php:83
+msgid "0px"
+msgstr ""
+
+#: includes/nectar-addons.php:1318 includes/nectar-addons.php:1733
+#: includes/nectar_maps/carousel.php:327
+#: includes/nectar_maps/image_with_animation.php:88
+#: includes/nectar_maps/nectar_cascading_images.php:529
+#: includes/nectar_maps/nectar_icon.php:124
+#: includes/nectar_maps/nectar_video_lightbox.php:84
+msgid "3px"
+msgstr ""
+
+#: includes/nectar-addons.php:1319 includes/nectar-addons.php:1734
+#: includes/nectar_maps/carousel.php:328
+#: includes/nectar_maps/image_with_animation.php:89
+#: includes/nectar_maps/nectar_cascading_images.php:530
+#: includes/nectar_maps/nectar_icon.php:126
+#: includes/nectar_maps/nectar_video_lightbox.php:85
+msgid "5px"
+msgstr ""
+
+#: includes/nectar-addons.php:1320 includes/nectar-addons.php:1735
+#: includes/nectar_maps/carousel.php:329
+#: includes/nectar_maps/image_with_animation.php:90
+#: includes/nectar_maps/nectar_cascading_images.php:531
+#: includes/nectar_maps/nectar_icon.php:170
+#: includes/nectar_maps/nectar_video_lightbox.php:86
+msgid "10px"
+msgstr ""
+
+#: includes/nectar-addons.php:1321 includes/nectar-addons.php:1736
+#: includes/nectar_maps/carousel.php:330
+#: includes/nectar_maps/image_with_animation.php:91
+#: includes/nectar_maps/nectar_cascading_images.php:532
+#: includes/nectar_maps/nectar_icon.php:171
+#: includes/nectar_maps/nectar_video_lightbox.php:87
+msgid "15px"
+msgstr ""
+
+#: includes/nectar-addons.php:1322 includes/nectar-addons.php:1737
+#: includes/nectar_maps/carousel.php:331
+#: includes/nectar_maps/image_with_animation.php:92
+#: includes/nectar_maps/nectar_blog.php:76
+#: includes/nectar_maps/nectar_cascading_images.php:533
+#: includes/nectar_maps/nectar_icon.php:172
+#: includes/nectar_maps/nectar_video_lightbox.php:88
+msgid "20px"
+msgstr ""
+
+#: includes/nectar-addons.php:1323 includes/nectar-addons.php:1738
+msgid "This will round the edges of your column"
+msgstr ""
+
+#: includes/nectar-addons.php:1328 includes/nectar-addons.php:1744
+msgid "Margin Top"
+msgstr ""
+
+#: includes/nectar-addons.php:1337 includes/nectar-addons.php:1753
+msgid "Margin Bottom"
+msgstr ""
+
+#: includes/nectar-addons.php:1346 includes/nectar-addons.php:1778
+#: includes/nectar_maps/vc_column_inner.php:64
+msgid "Boxed Column"
+msgstr ""
+
+#: includes/nectar-addons.php:1362 includes/nectar-addons.php:1796
+#: includes/nectar_maps/vc_column_inner.php:199
+msgid "Width"
+msgstr ""
+
+#: includes/nectar-addons.php:1365 includes/nectar-addons.php:1373
+#: includes/nectar-addons.php:1380 includes/nectar-addons.php:1394
+#: includes/nectar-addons.php:1410 includes/nectar-addons.php:1799
+#: includes/nectar-addons.php:1807 includes/nectar-addons.php:1814
+#: includes/nectar_maps/vc_column_inner.php:202
+#: includes/nectar_maps/vc_column_inner.php:210
+msgid "Responsive Options"
+msgstr ""
+
+#: includes/nectar-addons.php:1366 includes/nectar-addons.php:1800
+#: includes/nectar_maps/vc_column_inner.php:203
+msgid "Select column width."
+msgstr ""
+
+#: includes/nectar-addons.php:1371 includes/nectar-addons.php:1805
+#: includes/nectar_maps/vc_column_inner.php:208
+msgid "Responsiveness"
+msgstr ""
+
+#: includes/nectar-addons.php:1374 includes/nectar-addons.php:1808
+#: includes/nectar_maps/vc_column_inner.php:211
+msgid ""
+"Adjust column for different screen sizes. Control width, offset and "
+"visibility settings."
+msgstr ""
+
+#: includes/nectar-addons.php:1382 includes/nectar-addons.php:1816
+msgid "Tablet Column Width Inherits From"
+msgstr ""
+
+#: includes/nectar-addons.php:1385 includes/nectar-addons.php:1819
+msgid "Mobile Column Width (Default)"
+msgstr ""
+
+#: includes/nectar-addons.php:1386 includes/nectar-addons.php:1820
+msgid "Small Desktop Colummn Width"
+msgstr ""
+
+#: includes/nectar-addons.php:1388 includes/nectar-addons.php:1822
+msgid ""
+"This allows you to determine what your column width will inherit from when "
+"viewed on tablets in a portrait orientation."
+msgstr ""
+
+#: includes/nectar-addons.php:1396
+msgid "Tablet Text Alignment"
+msgstr ""
+
+#: includes/nectar-addons.php:1404
+msgid "Text alignment that will be used on tablet devices"
+msgstr ""
+
+#: includes/nectar-addons.php:1420
+msgid "Text alignment that will be used on smartphones"
+msgstr ""
+
+#: includes/nectar-addons.php:1427 includes/nectar-addons.php:1448
+#: includes/nectar-addons.php:1456 includes/nectar-addons.php:1472
+#: includes/nectar-addons.php:1484 includes/nectar-addons.php:1829
+#: includes/nectar-addons.php:1852 includes/nectar-addons.php:1860
+#: includes/nectar-addons.php:1875 includes/nectar-addons.php:1886
+msgid "Border"
+msgstr ""
+
+#: includes/nectar-addons.php:1428 includes/nectar-addons.php:1830
+msgid "Border Width"
+msgstr ""
+
+#: includes/nectar-addons.php:1446 includes/nectar-addons.php:1850
+msgid "Border Color"
+msgstr ""
+
+#: includes/nectar-addons.php:1457 includes/nectar-addons.php:1861
+msgid "Border Style"
+msgstr ""
+
+#: includes/nectar-addons.php:1461 includes/nectar-addons.php:1865
+msgid "Dotted"
+msgstr ""
+
+#: includes/nectar-addons.php:1462 includes/nectar-addons.php:1866
+msgid "Dashed"
+msgstr ""
+
+#: includes/nectar-addons.php:1463 includes/nectar-addons.php:1867
+msgid "Double"
+msgstr ""
+
+#: includes/nectar-addons.php:1464 includes/nectar-addons.php:1868
+msgid "Double Offset"
+msgstr ""
+
+#: includes/nectar-addons.php:1473 includes/nectar-addons.php:1876
+msgid "Enable Border Animation"
+msgstr ""
+
+#: includes/nectar-addons.php:1483 includes/nectar-addons.php:1885
+#: includes/nectar_maps/carousel.php:356 includes/nectar_maps/divider.php:111
+#: includes/nectar_maps/fancy-ul.php:916 includes/nectar_maps/fancy_box.php:244
+#: includes/nectar_maps/image_with_animation.php:50
+#: includes/nectar_maps/nectar_icon.php:87
+msgid "Animation Delay"
+msgstr ""
+
+#: includes/nectar-addons.php:1487 includes/nectar-addons.php:1551
+#: includes/nectar-addons.php:1889 includes/nectar-addons.php:1954
+#: includes/nectar_maps/divider.php:114 includes/nectar_maps/fancy_box.php:247
+#: includes/nectar_maps/nectar_icon.php:90
+#: includes/nectar_maps/vc_column_inner.php:57
+msgid ""
+"Enter delay (in milliseconds) if needed e.g. 150. This parameter comes in "
+"handy when creating the animate in \"one by one\" effect."
+msgstr ""
+
+#: includes/nectar-addons.php:1494 includes/nectar-addons.php:1897
+msgid "Column Background Image Animation"
+msgstr ""
+
+#: includes/nectar-addons.php:1497 includes/nectar-addons.php:1900
+msgid ""
+"This will animate the optional background image layer of your column only "
+"when scrolled into view"
+msgstr ""
+
+#: includes/nectar-addons.php:1512 includes/nectar-addons.php:1915
+msgid "Entire Column Animation"
+msgstr ""
+
+#: includes/nectar-addons.php:1515 includes/nectar-addons.php:1918
+msgid ""
+"This will animate the entire column and all of its contents when scrolled "
+"into view"
+msgstr ""
+
+#: includes/nectar-addons.php:1528 includes/nectar-addons.php:1931
+#: includes/nectar_maps/fancy_box.php:231
+#: includes/nectar_maps/image_with_animation.php:37
+#: includes/nectar_maps/nectar_cascading_images.php:140
+#: includes/nectar_maps/nectar_cascading_images.php:259
+#: includes/nectar_maps/nectar_cascading_images.php:378
+#: includes/nectar_maps/nectar_cascading_images.php:497
+#: includes/nectar_maps/vc_column_inner.php:37
+msgid "Fade In From Left"
+msgstr ""
+
+#: includes/nectar-addons.php:1529 includes/nectar-addons.php:1932
+#: includes/nectar_maps/fancy_box.php:232
+#: includes/nectar_maps/vc_column_inner.php:38
+msgid "Fade In Right"
+msgstr ""
+
+#: includes/nectar-addons.php:1530 includes/nectar-addons.php:1933
+#: includes/nectar_maps/fancy_box.php:233
+#: includes/nectar_maps/image_with_animation.php:39
+#: includes/nectar_maps/nectar_cascading_images.php:142
+#: includes/nectar_maps/nectar_cascading_images.php:261
+#: includes/nectar_maps/nectar_cascading_images.php:380
+#: includes/nectar_maps/nectar_cascading_images.php:499
+#: includes/nectar_maps/vc_column_inner.php:39
+msgid "Fade In From Bottom"
+msgstr ""
+
+#: includes/nectar-addons.php:1531 includes/nectar-addons.php:1934
+#: includes/nectar_maps/fancy_box.php:234
+#: includes/nectar_maps/image_with_animation.php:40
+#: includes/nectar_maps/nectar_cascading_images.php:143
+#: includes/nectar_maps/nectar_cascading_images.php:262
+#: includes/nectar_maps/nectar_cascading_images.php:381
+#: includes/nectar_maps/nectar_cascading_images.php:500
+#: includes/nectar_maps/vc_column_inner.php:40
+msgid "Grow In"
+msgstr ""
+
+#: includes/nectar-addons.php:1533 includes/nectar-addons.php:1936
+msgid "Slight Twist"
+msgstr ""
+
+#: includes/nectar-addons.php:1534 includes/nectar-addons.php:1937
+#: includes/nectar_maps/fancy_box.php:235
+#: includes/nectar_maps/image_with_animation.php:41
+#: includes/nectar_maps/vc_column_inner.php:41
+msgid "Flip In Horizontal"
+msgstr ""
+
+#: includes/nectar-addons.php:1535 includes/nectar-addons.php:1938
+#: includes/nectar_maps/fancy_box.php:236
+#: includes/nectar_maps/image_with_animation.php:42
+#: includes/nectar_maps/vc_column_inner.php:42
+msgid "Flip In Vertical"
+msgstr ""
+
+#: includes/nectar-addons.php:1536 includes/nectar-addons.php:1939
+#: includes/nectar_maps/vc_column_inner.php:43
+msgid "Reveal From Right"
+msgstr ""
+
+#: includes/nectar-addons.php:1537 includes/nectar-addons.php:1940
+#: includes/nectar_maps/vc_column_inner.php:44
+msgid "Reveal From Bottom"
+msgstr ""
+
+#: includes/nectar-addons.php:1538 includes/nectar-addons.php:1941
+#: includes/nectar_maps/vc_column_inner.php:45
+msgid "Reveal From Left"
+msgstr ""
+
+#: includes/nectar-addons.php:1539 includes/nectar-addons.php:1942
+#: includes/nectar_maps/vc_column_inner.php:46
+msgid "Reveal From Top"
+msgstr ""
+
+#: includes/nectar-addons.php:1548 includes/nectar-addons.php:1950
+msgid "Column Animation Delay"
+msgstr ""
+
+#: includes/nectar-addons.php:1563
+msgid "Inner Column"
+msgstr ""
+
+#: includes/nectar-addons.php:1747
+msgid ""
+"Don't include \"px\" in your strings . e.g \"40\" - However you can also use "
+"a percent value in which case a \"%\" would be needed at the end e.g. \"10%"
+"\". Negative Values are also accepted."
+msgstr ""
+
+#: includes/nectar-addons.php:1925
+msgid "Column Animation"
+msgstr ""
+
+#: includes/nectar-addons.php:1977
+msgid "Column Margin"
+msgstr ""
+
+#: includes/nectar-addons.php:2046
+msgid "Css"
+msgstr ""
+
+#: includes/nectar-addons.php:2065
+msgid "Make Sticky?"
+msgstr ""
+
+#: includes/nectar-addons.php:2068
+msgid ""
+"This will cause your widgetized sidebar to stick to the screen when used in "
+"a column within a row that is taller than the widgetized sidebar."
+msgstr ""
+
+#: includes/nectar-addons.php:2248
+msgid "post"
+msgstr ""
+
+#: includes/nectar-addons.php:2251
+msgid "posts"
+msgstr ""
+
+#: includes/nectar-addons.php:2256
+msgid "product"
+msgstr ""
+
+#: includes/nectar-addons.php:2259
+msgid "products"
+msgstr ""
+
+#: includes/nectar-addons.php:2473
+msgid "Carousel Item"
+msgstr ""
+
+#: includes/nectar-addons.php:2481 includes/nectar_maps/tab.php:71
+msgid "Tab ID"
+msgstr ""
+
+#: includes/nectar-addons.php:2505 includes/nectar-addons.php:2513
+#: includes/nectar-addons.php:2524
+msgid "Basic Slider Style"
+msgstr ""
+
+#: includes/nectar-addons.php:2506 includes/nectar-addons.php:2514
+#: includes/nectar-addons.php:2525
+msgid "Nectar Slider Style"
+msgstr ""
+
+#: includes/nectar-addons.php:2507 includes/nectar-addons.php:2515
+#: includes/nectar-addons.php:2526
+msgid "Touch Enabled and Spaced (Flickity)"
+msgstr ""
+
+#: includes/nectar-addons.php:2508 includes/nectar-addons.php:2527
+msgid "Image Grid Style"
+msgstr ""
+
+#: includes/nectar-addons.php:2509 includes/nectar-addons.php:2516
+#: includes/nectar-addons.php:2528
+msgid "Parallax Image Grid"
+msgstr ""
+
+#: includes/nectar-addons.php:2521
+msgid "Gallery type"
+msgstr ""
+
+#: includes/nectar-addons.php:2531
+msgid "Select gallery type."
+msgstr ""
+
+#: includes/nectar-addons.php:2531
+msgid ""
+"The Image Grid style requires the Salient Portfolio plugin to be active."
+msgstr ""
+
+#: includes/nectar-addons.php:2531
+msgid ""
+"The Nectar Slider style requires the Salient Nectar Slider plugin to be "
+"active."
+msgstr ""
+
+#: includes/nectar-addons.php:2535
+msgid "Auto rotate slides"
+msgstr ""
+
+#: includes/nectar-addons.php:2537
+msgid "Disable"
+msgstr ""
+
+#: includes/nectar-addons.php:2538
+msgid "Auto rotate slides each X seconds."
+msgstr ""
+
+#: includes/nectar-addons.php:2544
+msgid "Images"
+msgstr ""
+
+#: includes/nectar-addons.php:2547
+msgid "Select images from media library."
+msgstr ""
+
+#: includes/nectar-addons.php:2552
+msgid "Image size"
+msgstr ""
+
+#: includes/nectar-addons.php:2554
+msgid ""
+"Enter image size in pixels - e.g 600x400 (Width x Height) Or use WordPress "
+"image size names such as \"full\""
+msgstr ""
+
+#: includes/nectar-addons.php:2560
+msgid "Controls"
+msgstr ""
+
+#: includes/nectar-addons.php:2569
+msgid "Please select the controls you would like for your gallery "
+msgstr ""
+
+#: includes/nectar-addons.php:2575
+msgid "Desktop Columns"
+msgstr ""
+
+#: includes/nectar-addons.php:2590
+msgid "Small Desktop Columns"
+msgstr ""
+
+#: includes/nectar-addons.php:2605
+msgid "Tablet Columns"
+msgstr ""
+
+#: includes/nectar-addons.php:2621
+msgid "Free Scroll"
+msgstr ""
+
+#: includes/nectar-addons.php:2623
+msgid ""
+"Enables content to be freely flicked without aligning cells to an end "
+"position."
+msgstr ""
+
+#: includes/nectar-addons.php:2624 includes/nectar-addons.php:2633
+#: includes/nectar-addons.php:2660 includes/nectar-addons.php:2668
+#: includes/nectar-addons.php:2676 includes/nectar-addons.php:2684
+#: includes/nectar-addons.php:2731 includes/nectar-addons.php:2740
+#: includes/nectar-addons.php:2772 includes/nectar_maps/divider.php:106
+#: includes/nectar_maps/image_with_animation.php:59
+#: includes/nectar_maps/nectar_blog.php:113
+#: includes/nectar_maps/nectar_blog.php:121
+#: includes/nectar_maps/nectar_blog.php:195
+#: includes/nectar_maps/nectar_blog.php:202
+#: includes/nectar_maps/nectar_blog.php:209
+#: includes/nectar_maps/nectar_blog.php:216
+#: includes/nectar_maps/nectar_category_grid.php:184
+#: includes/nectar_maps/nectar_category_grid.php:279
+#: includes/nectar_maps/nectar_gmap.php:58
+#: includes/nectar_maps/nectar_gmap.php:130
+#: includes/nectar_maps/nectar_gmap.php:139
+#: includes/nectar_maps/nectar_gmap.php:147
+#: includes/nectar_maps/nectar_gmap.php:155
+#: includes/nectar_maps/nectar_gmap.php:172
+#: includes/nectar_maps/nectar_gmap.php:180
+#: includes/nectar_maps/nectar_image_with_hotspots.php:98
+#: includes/nectar_maps/nectar_woo_products.php:118
+#: includes/nectar_maps/nectar_woo_products.php:126
+#: includes/nectar_maps/nectar_woo_products.php:214
+#: includes/nectar_maps/nectar_woo_products.php:222
+#: includes/nectar_maps/recent_posts.php:181
+#: includes/nectar_maps/recent_posts.php:259
+#: includes/nectar_maps/recent_posts.php:266
+#: includes/nectar_maps/recent_posts.php:273
+#: includes/nectar_maps/recent_posts.php:280
+#: includes/nectar_maps/tabbed_section.php:122
+msgid "Yes, please"
+msgstr ""
+
+#: includes/nectar-addons.php:2630
+msgid "Enable Auto Play"
+msgstr ""
+
+#: includes/nectar-addons.php:2632
+msgid "Will cause your images to auto play until user interaction"
+msgstr ""
+
+#: includes/nectar-addons.php:2639
+msgid "Auto Play Duration"
+msgstr ""
+
+#: includes/nectar-addons.php:2641
+msgid ""
+"Enter a custom duration in milliseconds between auto play advances e.g. 5000"
+msgstr ""
+
+#: includes/nectar-addons.php:2651
+#: includes/nectar_maps/image_with_animation.php:100
+#: includes/nectar_maps/nectar_cascading_images.php:157
+#: includes/nectar_maps/nectar_cascading_images.php:276
+#: includes/nectar_maps/nectar_cascading_images.php:395
+#: includes/nectar_maps/nectar_cascading_images.php:514
+#: includes/nectar_maps/nectar_video_lightbox.php:74
+msgid "Select your desired image box shadow"
+msgstr ""
+
+#: includes/nectar-addons.php:2657
+msgid "Flexible Slider Height"
+msgstr ""
+
+#: includes/nectar-addons.php:2659
+msgid ""
+"Would you like the height of your slider to constantly scale in proportion "
+"to the screen size?"
+msgstr ""
+
+#: includes/nectar-addons.php:2665
+msgid "Disable Autorotate?"
+msgstr ""
+
+#: includes/nectar-addons.php:2667
+msgid "This will stop the slider from automatically rotating."
+msgstr ""
+
+#: includes/nectar-addons.php:2673
+msgid "Hide Arrow Navigation?"
+msgstr ""
+
+#: includes/nectar-addons.php:2675
+msgid ""
+"Would you like this slider to hide the arrows on the right and left sides?"
+msgstr ""
+
+#: includes/nectar-addons.php:2681
+msgid "Display Bullet Navigation?"
+msgstr ""
+
+#: includes/nectar-addons.php:2683
+msgid "Would you like this slider to display bullets on the bottom?"
+msgstr ""
+
+#: includes/nectar-addons.php:2689
+msgid "Bullet Navigation Style"
+msgstr ""
+
+#: includes/nectar-addons.php:2704
+msgid "Display Title/Caption?"
+msgstr ""
+
+#: includes/nectar-addons.php:2712 includes/nectar_maps/nectar_blog.php:34
+msgid "Layout"
+msgstr ""
+
+#: includes/nectar-addons.php:2723
+msgid "Please select the layout you would like for your gallery "
+msgstr ""
+
+#: includes/nectar-addons.php:2728
+msgid "Masonry Style"
+msgstr ""
+
+#: includes/nectar-addons.php:2730
+msgid ""
+"This will allow your gallery items to display in a masonry layout as opposed "
+"to a fixed grid. You can define your desired masonry size for each image "
+"when editing/adding them in the right hand side \"Attachment Details\" "
+"sidebar. Enabling this will override the \"Image Size\" field above. "
+msgstr ""
+
+#: includes/nectar-addons.php:2737
+msgid "Bypass Image Cropping"
+msgstr ""
+
+#: includes/nectar-addons.php:2739
+msgid ""
+"Enabling this will cause your image grid to bypass the default Salient image "
+"cropping which varies based on the defined Masonry Sizing field. The result "
+"will be a traditional masonry layout rather than a structured grid"
+msgstr ""
+
+#: includes/nectar-addons.php:2746
+msgid "Item Spacing"
+msgstr ""
+
+#: includes/nectar-addons.php:2765
+#: includes/nectar_maps/nectar_category_grid.php:176
+msgid "Please select the spacing you would like between your items. "
+msgstr ""
+
+#: includes/nectar-addons.php:2769
+msgid "Constrain Max Columns to 4?"
+msgstr ""
+
+#: includes/nectar-addons.php:2771
+msgid ""
+"This will change the max columns to 4 (default is 5 for fullwidth). "
+"Activating this will make it easier to create a grid with no empty spaces at "
+"the end of the list on all screen sizes."
+msgstr ""
+
+#: includes/nectar-addons.php:2777
+msgid "Gallery Style"
+msgstr ""
+
+#: includes/nectar-addons.php:2790
+msgid "Please select the style you would like your gallery to display in "
+msgstr ""
+
+#: includes/nectar-addons.php:2796 includes/nectar_maps/nectar_blog.php:150
+msgid "Load In Animation"
+msgstr ""
+
+#: includes/nectar-addons.php:2805
+msgid "Please select the style you would like your projects to display in "
+msgstr ""
+
+#: includes/nectar-addons.php:2811
+msgid "On click"
+msgstr ""
+
+#: includes/nectar-addons.php:2813
+msgid "Do nothing"
+msgstr ""
+
+#: includes/nectar-addons.php:2813
+msgid "Open lightbox"
+msgstr ""
+
+#: includes/nectar-addons.php:2813
+msgid "Open custom link"
+msgstr ""
+
+#: includes/nectar-addons.php:2814
+msgid "What to do when slide is clicked?"
+msgstr ""
+
+#: includes/nectar-addons.php:2820
+msgid "Custom links"
+msgstr ""
+
+#: includes/nectar-addons.php:2822
+msgid "Enter links for each slide here. Divide links with linebreaks (Enter)."
+msgstr ""
+
+#: includes/nectar-addons.php:2828
+msgid "Custom link target"
+msgstr ""
+
+#: includes/nectar-addons.php:2830
+msgid "Select where to open  custom links."
+msgstr ""
+
+#: includes/nectar-addons.php:2837
+#: includes/nectar_maps/image_with_animation.php:77
+#: includes/nectar_maps/nectar_image_comparison.php:31
+#: includes/nectar_maps/pricing_table.php:23
+#: includes/nectar_maps/shortcode-vc-wp-custommenu.php:44
+#: includes/nectar_maps/tabbed_section.php:147
+msgid "Extra class name"
+msgstr ""
+
+#: includes/nectar-addons.php:2839
+#: includes/nectar_maps/image_with_animation.php:79
+#: includes/nectar_maps/nectar_image_comparison.php:33
+#: includes/nectar_maps/pricing_table.php:25
+#: includes/nectar_maps/tabbed_section.php:149
+msgid ""
+"If you wish to style particular content element differently, then use this "
+"field to add a class name and then refer to it in your css file."
+msgstr ""
+
+#: includes/nectar_maps/bar.php:14 includes/nectar_maps/carousel.php:20
+#: includes/nectar_maps/clients.php:19 includes/nectar_maps/divider.php:13
+#: includes/nectar_maps/fancy-title.php:12
+#: includes/nectar_maps/fancy-ul.php:849 includes/nectar_maps/fancy_box.php:12
+#: includes/nectar_maps/flip-box.php:12
+#: includes/nectar_maps/full_width_section.php:15
+#: includes/nectar_maps/gradient-text.php:12
+#: includes/nectar_maps/heading.php:12
+#: includes/nectar_maps/image_with_animation.php:12
+#: includes/nectar_maps/milestone.php:12
+#: includes/nectar_maps/morphing_outline.php:13
+#: includes/nectar_maps/nectar_blog.php:29
+#: includes/nectar_maps/nectar_btn.php:12
+#: includes/nectar_maps/nectar_cascading_images.php:36
+#: includes/nectar_maps/nectar_category_grid.php:77
+#: includes/nectar_maps/nectar_cta.php:12
+#: includes/nectar_maps/nectar_food_menu_item.php:12
+#: includes/nectar_maps/nectar_gmap.php:12
+#: includes/nectar_maps/nectar_highlighted_text.php:13
+#: includes/nectar_maps/nectar_horizontal_list_item.php:13
+#: includes/nectar_maps/nectar_icon.php:12
+#: includes/nectar_maps/nectar_icon_list.php:19
+#: includes/nectar_maps/nectar_image_comparison.php:12
+#: includes/nectar_maps/nectar_image_with_hotspots.php:13
+#: includes/nectar_maps/nectar_single_testimonial.php:12
+#: includes/nectar_maps/nectar_video_lightbox.php:12
+#: includes/nectar_maps/nectar_woo_products.php:48
+#: includes/nectar_maps/page_submenu.php:19
+#: includes/nectar_maps/pricing_table.php:18
+#: includes/nectar_maps/recent_posts.php:27
+#: includes/nectar_maps/split_line_heading.php:13
+#: includes/nectar_maps/tabbed_section.php:18
+#: includes/nectar_maps/team_member.php:12
+#: includes/nectar_maps/testimonial_slider.php:19
+#: includes/nectar_maps/text-with-icon.php:849
+#: includes/nectar_maps/toggles.php:14
+msgid "Nectar Elements"
+msgstr ""
+
+#: includes/nectar_maps/bar.php:16
+msgid "Include a horizontal progress bar"
+msgstr ""
+
+#: includes/nectar_maps/bar.php:22
+#: includes/nectar_maps/nectar_category_grid.php:13
+#: includes/nectar_maps/nectar_woo_products.php:21
+#: includes/nectar_maps/pricing_column.php:19 includes/nectar_maps/tab.php:19
+#: includes/nectar_maps/toggle.php:17
+msgid "Title"
+msgstr ""
+
+#: includes/nectar_maps/bar.php:30
+msgid "Percentage"
+msgstr ""
+
+#: includes/nectar_maps/bar.php:32
+msgid "Don't include \"%\" in your string - e.g \"70\""
+msgstr ""
+
+#: includes/nectar_maps/bar.php:39
+msgid "Bar Color"
+msgstr ""
+
+#: includes/nectar_maps/bar.php:42 includes/nectar_maps/carousel.php:93
+#: includes/nectar_maps/divider.php:90 includes/nectar_maps/fancy-title.php:50
+#: includes/nectar_maps/fancy_box.php:140 includes/nectar_maps/flip-box.php:116
+#: includes/nectar_maps/milestone.php:85 includes/nectar_maps/nectar_btn.php:71
+#: includes/nectar_maps/nectar_btn.php:88
+#: includes/nectar_maps/nectar_gmap.php:78
+#: includes/nectar_maps/nectar_gmap.php:93
+#: includes/nectar_maps/nectar_icon.php:137
+#: includes/nectar_maps/nectar_icon_list.php:38
+#: includes/nectar_maps/nectar_image_with_hotspots.php:48
+#: includes/nectar_maps/nectar_single_testimonial.php:71
+#: includes/nectar_maps/pricing_column.php:64
+#: includes/nectar_maps/recent_posts.php:188
+#: includes/nectar_maps/tabbed_section.php:77
+#: includes/nectar_maps/team_member.php:185
+#: includes/nectar_maps/testimonial_slider.php:62
+#: includes/nectar_maps/text-with-icon.php:882
+#: includes/nectar_maps/toggle.php:28
+msgid "Accent Color"
+msgstr ""
+
+#: includes/nectar_maps/bar.php:43 includes/nectar_maps/carousel.php:94
+#: includes/nectar_maps/divider.php:91 includes/nectar_maps/fancy-title.php:51
+#: includes/nectar_maps/fancy_box.php:141 includes/nectar_maps/flip-box.php:117
+#: includes/nectar_maps/milestone.php:86 includes/nectar_maps/nectar_btn.php:72
+#: includes/nectar_maps/nectar_btn.php:89
+#: includes/nectar_maps/nectar_gmap.php:79
+#: includes/nectar_maps/nectar_gmap.php:94
+#: includes/nectar_maps/nectar_icon.php:138
+#: includes/nectar_maps/nectar_icon_list.php:39
+#: includes/nectar_maps/nectar_image_with_hotspots.php:49
+#: includes/nectar_maps/nectar_single_testimonial.php:72
+#: includes/nectar_maps/pricing_column.php:65
+#: includes/nectar_maps/recent_posts.php:189
+#: includes/nectar_maps/tabbed_section.php:78
+#: includes/nectar_maps/team_member.php:186
+#: includes/nectar_maps/testimonial_slider.php:63
+#: includes/nectar_maps/text-with-icon.php:883
+#: includes/nectar_maps/toggle.php:29
+msgid "Extra Color 1"
+msgstr ""
+
+#: includes/nectar_maps/bar.php:44 includes/nectar_maps/carousel.php:95
+#: includes/nectar_maps/divider.php:92 includes/nectar_maps/fancy-title.php:52
+#: includes/nectar_maps/fancy_box.php:142 includes/nectar_maps/flip-box.php:118
+#: includes/nectar_maps/milestone.php:87 includes/nectar_maps/nectar_btn.php:73
+#: includes/nectar_maps/nectar_btn.php:90
+#: includes/nectar_maps/nectar_gmap.php:80
+#: includes/nectar_maps/nectar_gmap.php:95
+#: includes/nectar_maps/nectar_icon.php:139
+#: includes/nectar_maps/nectar_icon_list.php:40
+#: includes/nectar_maps/nectar_image_with_hotspots.php:50
+#: includes/nectar_maps/nectar_single_testimonial.php:73
+#: includes/nectar_maps/pricing_column.php:66
+#: includes/nectar_maps/recent_posts.php:190
+#: includes/nectar_maps/tabbed_section.php:79
+#: includes/nectar_maps/team_member.php:187
+#: includes/nectar_maps/testimonial_slider.php:64
+#: includes/nectar_maps/text-with-icon.php:884
+#: includes/nectar_maps/toggle.php:30
+msgid "Extra Color 2"
+msgstr ""
+
+#: includes/nectar_maps/bar.php:45 includes/nectar_maps/carousel.php:96
+#: includes/nectar_maps/divider.php:93 includes/nectar_maps/fancy-title.php:53
+#: includes/nectar_maps/fancy_box.php:143 includes/nectar_maps/flip-box.php:119
+#: includes/nectar_maps/milestone.php:88 includes/nectar_maps/nectar_btn.php:74
+#: includes/nectar_maps/nectar_btn.php:91
+#: includes/nectar_maps/nectar_gmap.php:81
+#: includes/nectar_maps/nectar_gmap.php:96
+#: includes/nectar_maps/nectar_icon.php:140
+#: includes/nectar_maps/nectar_icon_list.php:41
+#: includes/nectar_maps/nectar_image_with_hotspots.php:51
+#: includes/nectar_maps/nectar_single_testimonial.php:74
+#: includes/nectar_maps/pricing_column.php:67
+#: includes/nectar_maps/recent_posts.php:191
+#: includes/nectar_maps/tabbed_section.php:80
+#: includes/nectar_maps/team_member.php:188
+#: includes/nectar_maps/testimonial_slider.php:65
+#: includes/nectar_maps/text-with-icon.php:885
+#: includes/nectar_maps/toggle.php:31
+msgid "Extra Color 3"
+msgstr ""
+
+#: includes/nectar_maps/bar.php:46 includes/nectar_maps/carousel.php:97
+#: includes/nectar_maps/divider.php:94 includes/nectar_maps/fancy_box.php:144
+#: includes/nectar_maps/flip-box.php:120
+#: includes/nectar_maps/gradient-text.php:37
+#: includes/nectar_maps/nectar_btn.php:92
+#: includes/nectar_maps/nectar_icon.php:141
+#: includes/nectar_maps/nectar_icon_list.php:42
+#: includes/nectar_maps/recent_posts.php:192
+#: includes/nectar_maps/tabbed_section.php:81
+#: includes/nectar_maps/testimonial_slider.php:66
+msgid "Color Gradient 1"
+msgstr ""
+
+#: includes/nectar_maps/bar.php:47 includes/nectar_maps/carousel.php:98
+#: includes/nectar_maps/divider.php:95 includes/nectar_maps/fancy_box.php:145
+#: includes/nectar_maps/flip-box.php:121
+#: includes/nectar_maps/gradient-text.php:38
+#: includes/nectar_maps/nectar_btn.php:93
+#: includes/nectar_maps/nectar_icon.php:142
+#: includes/nectar_maps/nectar_icon_list.php:43
+#: includes/nectar_maps/recent_posts.php:193
+#: includes/nectar_maps/tabbed_section.php:82
+#: includes/nectar_maps/testimonial_slider.php:67
+msgid "Color Gradient 2"
+msgstr ""
+
+#: includes/nectar_maps/bar.php:49 includes/nectar_maps/carousel.php:101
+#: includes/nectar_maps/divider.php:99 includes/nectar_maps/fancy-title.php:55
+#: includes/nectar_maps/fancy-ul.php:889 includes/nectar_maps/fancy_box.php:149
+#: includes/nectar_maps/flip-box.php:123
+#: includes/nectar_maps/gradient-text.php:40
+#: includes/nectar_maps/milestone.php:91 includes/nectar_maps/nectar_btn.php:82
+#: includes/nectar_maps/nectar_btn.php:101
+#: includes/nectar_maps/nectar_horizontal_list_item.php:264
+#: includes/nectar_maps/nectar_icon.php:149
+#: includes/nectar_maps/nectar_icon_list.php:46
+#: includes/nectar_maps/nectar_image_with_hotspots.php:46
+#: includes/nectar_maps/nectar_single_testimonial.php:78
+#: includes/nectar_maps/nectar_video_lightbox.php:48
+#: includes/nectar_maps/nectar_video_lightbox.php:143
+#: includes/nectar_maps/pricing_column.php:70
+#: includes/nectar_maps/recent_posts.php:198
+#: includes/nectar_maps/tabbed_section.php:113
+#: includes/nectar_maps/team_member.php:192
+#: includes/nectar_maps/testimonial_slider.php:54
+#: includes/nectar_maps/testimonial_slider.php:71
+#: includes/nectar_maps/text-with-icon.php:887
+#: includes/nectar_maps/toggle.php:34
+msgid "Choose a color from your"
+msgstr ""
+
+#: includes/nectar_maps/bar.php:49 includes/nectar_maps/carousel.php:101
+#: includes/nectar_maps/divider.php:99 includes/nectar_maps/fancy-title.php:55
+#: includes/nectar_maps/fancy-ul.php:889 includes/nectar_maps/fancy_box.php:149
+#: includes/nectar_maps/flip-box.php:123
+#: includes/nectar_maps/gradient-text.php:40
+#: includes/nectar_maps/milestone.php:91 includes/nectar_maps/nectar_btn.php:82
+#: includes/nectar_maps/nectar_btn.php:101
+#: includes/nectar_maps/nectar_horizontal_list_item.php:264
+#: includes/nectar_maps/nectar_icon.php:149
+#: includes/nectar_maps/nectar_icon_list.php:46
+#: includes/nectar_maps/nectar_image_with_hotspots.php:46
+#: includes/nectar_maps/nectar_single_testimonial.php:78
+#: includes/nectar_maps/nectar_video_lightbox.php:48
+#: includes/nectar_maps/nectar_video_lightbox.php:143
+#: includes/nectar_maps/pricing_column.php:70
+#: includes/nectar_maps/recent_posts.php:198
+#: includes/nectar_maps/tabbed_section.php:113
+#: includes/nectar_maps/team_member.php:192
+#: includes/nectar_maps/testimonial_slider.php:54
+#: includes/nectar_maps/testimonial_slider.php:71
+#: includes/nectar_maps/text-with-icon.php:887
+#: includes/nectar_maps/toggle.php:34
+msgid "globally defined color scheme"
+msgstr ""
+
+#: includes/nectar_maps/carousel.php:15
+msgid "Carousel"
+msgstr ""
+
+#: includes/nectar_maps/carousel.php:21
+msgid "A simple carousel for any content"
+msgstr ""
+
+#: includes/nectar_maps/carousel.php:26
+msgid "Carousel Script"
+msgstr ""
+
+#: includes/nectar_maps/carousel.php:34
+msgid ""
+"Owl Carousel and Flickity are recommended over carouFredSel - however "
+"carouFredSel is still available for legacy users who prefer it."
+msgstr ""
+
+#: includes/nectar_maps/carousel.php:39 includes/nectar_maps/fancy_box.php:17
+#: includes/nectar_maps/nectar_btn.php:54
+#: includes/nectar_maps/nectar_food_menu_item.php:17
+#: includes/nectar_maps/nectar_highlighted_text.php:35
+#: includes/nectar_maps/nectar_image_with_hotspots.php:58
+#: includes/nectar_maps/nectar_image_with_hotspots.php:72
+#: includes/nectar_maps/nectar_image_with_hotspots.php:86
+#: includes/nectar_maps/nectar_image_with_hotspots.php:96
+#: includes/nectar_maps/nectar_single_testimonial.php:17
+#: includes/nectar_maps/recent_posts.php:32
+#: includes/nectar_maps/tabbed_section.php:23
+#: includes/nectar_maps/testimonial_slider.php:24
+#: includes/nectar_maps/toggles.php:19
+msgid "Style"
+msgstr ""
+
+#: includes/nectar_maps/carousel.php:44
+msgid "Fixed Text Content Fullwidth"
+msgstr ""
+
+#: includes/nectar_maps/carousel.php:47
+msgid ""
+"Select the formatting of your carousel. When using the \"Fixed Text Content "
+"Fullwidth\" format, the carousel should be the only element in your row and "
+"inside of a full (1/1) column."
+msgstr ""
+
+#: includes/nectar_maps/carousel.php:52 includes/nectar_maps/fancy-title.php:67
+#: includes/nectar_maps/fancy-ul.php:926
+#: includes/nectar_maps/gradient-text.php:57
+#: includes/nectar_maps/morphing_outline.php:19
+#: includes/nectar_maps/nectar_category_grid.php:142
+#: includes/nectar_maps/nectar_highlighted_text.php:27
+#: includes/nectar_maps/nectar_icon_list_item.php:85
+#: includes/nectar_maps/pricing_column.php:75
+#: includes/nectar_maps/split_line_heading.php:19
+#: includes/nectar_maps/text-with-icon.php:902
+msgid "Text Content"
+msgstr ""
+
+#: includes/nectar_maps/carousel.php:56
+msgid ""
+"Enter any text/content you would like to be shown prominently in your "
+"carousel"
+msgstr ""
+
+#: includes/nectar_maps/carousel.php:62
+msgid "CTA Button Text"
+msgstr ""
+
+#: includes/nectar_maps/carousel.php:64
+#: includes/nectar_maps/nectar_horizontal_list_item.php:170
+#: includes/nectar_maps/nectar_horizontal_list_item.php:196
+msgid "Enter your CTA text here"
+msgstr ""
+
+#: includes/nectar_maps/carousel.php:70
+msgid "CTA Button Link URL"
+msgstr ""
+
+#: includes/nectar_maps/carousel.php:72
+#: includes/nectar_maps/nectar_horizontal_list_item.php:178
+#: includes/nectar_maps/nectar_horizontal_list_item.php:204
+msgid "Enter your URL here"
+msgstr ""
+
+#: includes/nectar_maps/carousel.php:79
+msgid "CTA Button Open in New Tab"
+msgstr ""
+
+#: includes/nectar_maps/carousel.php:90
+#: includes/nectar_maps/tabbed_section.php:103
+msgid "CTA Button Color"
+msgstr ""
+
+#: includes/nectar_maps/carousel.php:107 includes/nectar_maps/carousel.php:186
+#: includes/nectar_maps/clients.php:24
+#: includes/nectar_maps/nectar_category_grid.php:152
+#: includes/nectar_maps/nectar_icon_list.php:61
+msgid "Columns"
+msgstr ""
+
+#: includes/nectar_maps/carousel.php:107 includes/nectar_maps/carousel.php:186
+msgid "Desktop"
+msgstr ""
+
+#: includes/nectar_maps/carousel.php:128 includes/nectar_maps/carousel.php:205
+msgid "Desktop Small"
+msgstr ""
+
+#: includes/nectar_maps/carousel.php:149 includes/nectar_maps/carousel.php:224
+msgid "Tablet"
+msgstr ""
+
+#: includes/nectar_maps/carousel.php:168
+msgid "Mobile"
+msgstr ""
+
+#: includes/nectar_maps/carousel.php:241
+msgid "Pagination Alignment"
+msgstr ""
+
+#: includes/nectar_maps/carousel.php:255
+msgid "Carousel Title"
+msgstr ""
+
+#: includes/nectar_maps/carousel.php:258
+msgid "Enter the title you would like at the top of your carousel (optional)"
+msgstr ""
+
+#: includes/nectar_maps/carousel.php:277
+msgid "Please select your desired column padding "
+msgstr ""
+
+#: includes/nectar_maps/carousel.php:281
+msgid "Transition Scroll Speed"
+msgstr ""
+
+#: includes/nectar_maps/carousel.php:284
+msgid "Enter in milliseconds (default is 700)"
+msgstr ""
+
+#: includes/nectar_maps/carousel.php:289
+msgid "Loop?"
+msgstr ""
+
+#: includes/nectar_maps/carousel.php:298
+#: includes/nectar_maps/nectar_woo_products.php:157
+msgid "Autorotate?"
+msgstr ""
+
+#: includes/nectar_maps/carousel.php:305
+#: includes/nectar_maps/nectar_woo_products.php:165
+msgid "Autorotation Speed"
+msgstr ""
+
+#: includes/nectar_maps/carousel.php:308
+#: includes/nectar_maps/nectar_woo_products.php:168
+msgid "Enter in milliseconds (default is 5000)"
+msgstr ""
+
+#: includes/nectar_maps/carousel.php:313
+msgid "Carousel Column Color"
+msgstr ""
+
+#: includes/nectar_maps/carousel.php:337
+msgid "Column Border"
+msgstr ""
+
+#: includes/nectar_maps/carousel.php:346 includes/nectar_maps/fancy-ul.php:907
+#: includes/nectar_maps/fancy_box.php:216
+#: includes/nectar_maps/nectar_icon.php:79
+#: includes/nectar_maps/nectar_image_with_hotspots.php:94
+msgid "Enable Animation"
+msgstr ""
+
+#: includes/nectar_maps/carousel.php:368
+msgid "Easing"
+msgstr ""
+
+#: includes/nectar_maps/client.php:11 includes/nectar_maps/clients.php:94
+#: includes/nectar_maps/clients.php:95
+msgid "Client"
+msgstr ""
+
+#: includes/nectar_maps/client.php:19 includes/nectar_maps/fancy_box.php:92
+#: includes/nectar_maps/image_with_animation.php:17
+#: includes/nectar_maps/team_member.php:17
+#: includes/nectar_maps/testimonial.php:20
+msgid "Image"
+msgstr ""
+
+#: includes/nectar_maps/client.php:22
+#: includes/nectar_maps/image_with_animation.php:20
+#: includes/nectar_maps/nectar_cascading_images.php:46
+#: includes/nectar_maps/nectar_cascading_images.php:166
+#: includes/nectar_maps/nectar_cascading_images.php:285
+#: includes/nectar_maps/nectar_cascading_images.php:404
+#: includes/nectar_maps/nectar_image_comparison.php:20
+#: includes/nectar_maps/nectar_image_comparison.php:27
+#: includes/nectar_maps/nectar_video_lightbox.php:56
+#: includes/nectar_maps/team_member.php:20
+msgid "Select image from media library."
+msgstr ""
+
+#: includes/nectar_maps/client.php:26
+msgid "URL"
+msgstr ""
+
+#: includes/nectar_maps/client.php:28
+msgid "Add an optional link to your client"
+msgstr ""
+
+#: includes/nectar_maps/client.php:33
+msgid "Client Name"
+msgstr ""
+
+#: includes/nectar_maps/client.php:35
+msgid ""
+"Fill this out to keep track of which client is which in your page builder "
+"interface."
+msgstr ""
+
+#: includes/nectar_maps/clients.php:14
+msgid "Clients Display"
+msgstr ""
+
+#: includes/nectar_maps/clients.php:20
+msgid "Show off your clients!"
+msgstr ""
+
+#: includes/nectar_maps/clients.php:34
+#: includes/nectar_maps/nectar_icon_list_item.php:27
+msgid "Please select how many columns you would like.."
+msgstr ""
+
+#: includes/nectar_maps/clients.php:38
+#: includes/nectar_maps/nectar_video_lightbox.php:61
+msgid "Hover Effect"
+msgstr ""
+
+#: includes/nectar_maps/clients.php:45
+#: includes/nectar_maps/nectar_video_lightbox.php:65
+msgid "Select your desired hover effect"
+msgstr ""
+
+#: includes/nectar_maps/clients.php:49
+msgid "Additional Logo Padding"
+msgstr ""
+
+#: includes/nectar_maps/clients.php:58
+msgid ""
+"Please select if you would like any additional padding between your client "
+"logos"
+msgstr ""
+
+#: includes/nectar_maps/clients.php:63
+msgid "Fade In One By One?"
+msgstr ""
+
+#: includes/nectar_maps/clients.php:71
+msgid "Turn Into Carousel"
+msgstr ""
+
+#: includes/nectar_maps/clients.php:79
+msgid "Disable Autorotate"
+msgstr ""
+
+#: includes/nectar_maps/divider.php:14
+msgid "Create space between your content"
+msgstr ""
+
+#: includes/nectar_maps/divider.php:20
+msgid "Dividing Height"
+msgstr ""
+
+#: includes/nectar_maps/divider.php:22
+msgid ""
+"If you would like to control the specific number of pixels your divider is, "
+"enter it here. Don't enter \"px\", just the number e.g. \"20\""
+msgstr ""
+
+#: includes/nectar_maps/divider.php:28
+msgid "Line Type"
+msgstr ""
+
+#: includes/nectar_maps/divider.php:41
+msgid "Line Alignment"
+msgstr ""
+
+#: includes/nectar_maps/divider.php:54
+msgid "Line Thickness"
+msgstr ""
+
+#: includes/nectar_maps/divider.php:69
+msgid "Please select thickness of your line "
+msgstr ""
+
+#: includes/nectar_maps/divider.php:78
+msgid "Custom Line Width"
+msgstr ""
+
+#: includes/nectar_maps/divider.php:81
+msgid ""
+"If you would like to control the specifc number of pixels that your divider "
+"is (width wise), enter it here. Don't enter \"px\", just the numnber e.g. "
+"\"20\""
+msgstr ""
+
+#: includes/nectar_maps/divider.php:85
+msgid "Divider Color"
+msgstr ""
+
+#: includes/nectar_maps/divider.php:89 includes/nectar_maps/milestone.php:84
+#: includes/nectar_maps/nectar_icon_list.php:37
+#: includes/nectar_maps/nectar_single_testimonial.php:70
+msgid "Default (inherit from row Text Color)"
+msgstr ""
+
+#: includes/nectar_maps/divider.php:103
+msgid "Animate Line"
+msgstr ""
+
+#: includes/nectar_maps/divider.php:105
+msgid "If selected, the divider line will animate in when scrolled to"
+msgstr ""
+
+#: includes/nectar_maps/fancy-title.php:9
+msgid "Animated Title"
+msgstr ""
+
+#: includes/nectar_maps/fancy-title.php:13
+msgid "Add a title with animation"
+msgstr ""
+
+#: includes/nectar_maps/fancy-title.php:19
+#: includes/nectar_maps/gradient-text.php:19
+msgid "Heading Tag"
+msgstr ""
+
+#: includes/nectar_maps/fancy-title.php:33
+msgid "Title Style"
+msgstr ""
+
+#: includes/nectar_maps/fancy-title.php:37
+msgid "Color Strip Reveal"
+msgstr ""
+
+#: includes/nectar_maps/fancy-title.php:38
+msgid "Hinge Drop"
+msgstr ""
+
+#: includes/nectar_maps/fancy-title.php:40
+msgid "Gradient colors are only available for compatible effects"
+msgstr ""
+
+#: includes/nectar_maps/fancy-title.php:63
+msgid "Select the color your text will display in"
+msgstr ""
+
+#: includes/nectar_maps/fancy-title.php:70
+msgid "Enter your fancy title text here"
+msgstr ""
+
+#: includes/nectar_maps/fancy-ul.php:846
+msgid "Fancy Unordered List"
+msgstr ""
+
+#: includes/nectar_maps/fancy-ul.php:851
+msgid "Make your lists appealing"
+msgstr ""
+
+#: includes/nectar_maps/fancy-ul.php:855
+#: includes/nectar_maps/text-with-icon.php:855
+msgid "Icon Type"
+msgstr ""
+
+#: includes/nectar_maps/fancy-ul.php:864
+msgid "Please select type of icon you would like for your fancy list"
+msgstr ""
+
+#: includes/nectar_maps/fancy-ul.php:868 includes/nectar_maps/fancy_box.php:45
+#: includes/nectar_maps/fancy_box.php:53 includes/nectar_maps/fancy_box.php:61
+#: includes/nectar_maps/fancy_box.php:69 includes/nectar_maps/fancy_box.php:77
+#: includes/nectar_maps/flip-box.php:83 includes/nectar_maps/flip-box.php:101
+#: includes/nectar_maps/nectar_btn.php:163
+#: includes/nectar_maps/nectar_btn.php:171
+#: includes/nectar_maps/nectar_btn.php:179
+#: includes/nectar_maps/nectar_btn.php:187
+#: includes/nectar_maps/nectar_icon.php:9
+#: includes/nectar_maps/nectar_icon.php:32
+#: includes/nectar_maps/nectar_icon.php:40
+#: includes/nectar_maps/nectar_icon.php:48
+#: includes/nectar_maps/nectar_icon.php:56
+#: includes/nectar_maps/nectar_icon.php:64
+#: includes/nectar_maps/nectar_icon_list_item.php:45
+#: includes/nectar_maps/nectar_icon_list_item.php:53
+#: includes/nectar_maps/nectar_icon_list_item.php:61
+#: includes/nectar_maps/nectar_icon_list_item.php:69
+#: includes/nectar_maps/tab.php:39 includes/nectar_maps/tab.php:47
+#: includes/nectar_maps/tab.php:55 includes/nectar_maps/tab.php:63
+#: includes/nectar_maps/text-with-icon.php:867
+msgid "Icon"
+msgstr ""
+
+#: includes/nectar_maps/fancy-ul.php:873
+#: includes/nectar_maps/text-with-icon.php:872
+msgid "Please select the icon you wish to use"
+msgstr ""
+
+#: includes/nectar_maps/fancy-ul.php:878 includes/nectar_maps/milestone.php:81
+#: includes/nectar_maps/nectar_video_lightbox.php:129
+#: includes/nectar_maps/testimonial_slider.php:38
+#: includes/nectar_maps/text-with-icon.php:877
+#: includes/nectar_maps/toggle.php:23
+msgid "Color"
+msgstr ""
+
+#: includes/nectar_maps/fancy-ul.php:893
+#: includes/nectar_maps/nectar_cta.php:100
+#: includes/nectar_maps/tabbed_section.php:39
+msgid "Alignment"
+msgstr ""
+
+#: includes/nectar_maps/fancy-ul.php:902
+msgid "Please select alignment you desire"
+msgstr ""
+
+#: includes/nectar_maps/fancy-ul.php:910
+msgid "This will cause your list items to animate in one by one"
+msgstr ""
+
+#: includes/nectar_maps/fancy-ul.php:929
+msgid "Please use the Unordered List button"
+msgstr ""
+
+#: includes/nectar_maps/fancy-ul.php:929
+msgid "on the editor to create the points of your fancy list."
+msgstr ""
+
+#: includes/nectar_maps/fancy_box.php:9
+msgid "Fancy Box"
+msgstr ""
+
+#: includes/nectar_maps/fancy_box.php:13
+msgid "Add a fancy box element"
+msgstr ""
+
+#: includes/nectar_maps/fancy_box.php:20
+msgid "Bottom Color Bar Hover Effect"
+msgstr ""
+
+#: includes/nectar_maps/fancy_box.php:21
+msgid "Color Box Hover Effect"
+msgstr ""
+
+#: includes/nectar_maps/fancy_box.php:22
+msgid "Color Box Basic"
+msgstr ""
+
+#: includes/nectar_maps/fancy_box.php:23
+msgid "Parallax Hover Effect"
+msgstr ""
+
+#: includes/nectar_maps/fancy_box.php:26
+#: includes/nectar_maps/nectar_single_testimonial.php:26
+msgid "Choose your desired style here."
+msgstr ""
+
+#: includes/nectar_maps/fancy_box.php:30 includes/nectar_maps/flip-box.php:61
+#: includes/nectar_maps/nectar_btn.php:147
+#: includes/nectar_maps/nectar_icon.php:18
+#: includes/nectar_maps/nectar_icon_list_item.php:32
+#: includes/nectar_maps/tab.php:25
+msgid "Icon library"
+msgstr ""
+
+#: includes/nectar_maps/fancy_box.php:33 includes/nectar_maps/flip-box.php:64
+#: includes/nectar_maps/nectar_btn.php:151
+#: includes/nectar_maps/nectar_icon.php:20
+#: includes/nectar_maps/nectar_icon_list_item.php:34
+#: includes/nectar_maps/tab.php:28
+msgid "Font Awesome"
+msgstr ""
+
+#: includes/nectar_maps/fancy_box.php:34 includes/nectar_maps/flip-box.php:65
+#: includes/nectar_maps/nectar_btn.php:152
+#: includes/nectar_maps/nectar_icon.php:21
+#: includes/nectar_maps/nectar_icon_list_item.php:35
+#: includes/nectar_maps/tab.php:29
+msgid "Iconsmind"
+msgstr ""
+
+#: includes/nectar_maps/fancy_box.php:35 includes/nectar_maps/flip-box.php:66
+#: includes/nectar_maps/nectar_icon.php:22
+#: includes/nectar_maps/nectar_icon_list_item.php:36
+msgid "Linea"
+msgstr ""
+
+#: includes/nectar_maps/fancy_box.php:36 includes/nectar_maps/flip-box.php:67
+#: includes/nectar_maps/nectar_btn.php:153
+#: includes/nectar_maps/nectar_icon.php:23
+#: includes/nectar_maps/nectar_icon_list_item.php:37
+#: includes/nectar_maps/tab.php:30
+msgid "Steadysets"
+msgstr ""
+
+#: includes/nectar_maps/fancy_box.php:37
+#: includes/nectar_maps/nectar_btn.php:154
+#: includes/nectar_maps/nectar_icon.php:24 includes/nectar_maps/tab.php:31
+msgid "Linecons"
+msgstr ""
+
+#: includes/nectar_maps/fancy_box.php:41 includes/nectar_maps/flip-box.php:70
+#: includes/nectar_maps/nectar_btn.php:159
+#: includes/nectar_maps/nectar_icon.php:28
+#: includes/nectar_maps/nectar_icon_list_item.php:41
+#: includes/nectar_maps/tab.php:35
+msgid "Select icon library."
+msgstr ""
+
+#: includes/nectar_maps/fancy_box.php:49 includes/nectar_maps/fancy_box.php:57
+#: includes/nectar_maps/fancy_box.php:65 includes/nectar_maps/fancy_box.php:73
+#: includes/nectar_maps/fancy_box.php:81 includes/nectar_maps/flip-box.php:79
+#: includes/nectar_maps/flip-box.php:88 includes/nectar_maps/flip-box.php:97
+#: includes/nectar_maps/flip-box.php:106
+#: includes/nectar_maps/nectar_btn.php:167
+#: includes/nectar_maps/nectar_btn.php:175
+#: includes/nectar_maps/nectar_btn.php:183
+#: includes/nectar_maps/nectar_btn.php:191
+#: includes/nectar_maps/nectar_icon.php:36
+#: includes/nectar_maps/nectar_icon.php:44
+#: includes/nectar_maps/nectar_icon.php:52
+#: includes/nectar_maps/nectar_icon.php:60
+#: includes/nectar_maps/nectar_icon.php:68
+#: includes/nectar_maps/nectar_icon_list_item.php:49
+#: includes/nectar_maps/nectar_icon_list_item.php:57
+#: includes/nectar_maps/nectar_icon_list_item.php:65
+#: includes/nectar_maps/nectar_icon_list_item.php:73
+#: includes/nectar_maps/tab.php:43 includes/nectar_maps/tab.php:51
+#: includes/nectar_maps/tab.php:59 includes/nectar_maps/tab.php:67
+msgid "Select icon from library."
+msgstr ""
+
+#: includes/nectar_maps/fancy_box.php:85 includes/nectar_maps/flip-box.php:128
+#: includes/nectar_maps/nectar_icon.php:72
+#: includes/nectar_maps/nectar_icon_list.php:78
+msgid "Icon Size"
+msgstr ""
+
+#: includes/nectar_maps/fancy_box.php:88
+#: includes/nectar_maps/nectar_icon.php:74
+msgid "Don't include \"px\" in your string. e.g. 40 - the default is 50"
+msgstr ""
+
+#: includes/nectar_maps/fancy_box.php:95 includes/nectar_maps/flip-box.php:28
+#: includes/nectar_maps/flip-box.php:147
+msgid "Select a background image from the media library."
+msgstr ""
+
+#: includes/nectar_maps/fancy_box.php:99
+msgid "Box Content"
+msgstr ""
+
+#: includes/nectar_maps/fancy_box.php:102
+msgid "Please enter the text desired for your box"
+msgstr ""
+
+#: includes/nectar_maps/fancy_box.php:109
+msgid "Please enter the URL you would like for your box to link to"
+msgstr ""
+
+#: includes/nectar_maps/fancy_box.php:114
+msgid "Open Link In New Tab"
+msgstr ""
+
+#: includes/nectar_maps/fancy_box.php:122
+#: includes/nectar_maps/nectar_video_lightbox.php:103
+#: includes/nectar_maps/page_link.php:20
+msgid "Link Text"
+msgstr ""
+
+#: includes/nectar_maps/fancy_box.php:126
+msgid "Please enter the text that will be displayed for your box link"
+msgstr ""
+
+#: includes/nectar_maps/fancy_box.php:130 includes/nectar_maps/flip-box.php:180
+msgid "Min Height"
+msgstr ""
+
+#: includes/nectar_maps/fancy_box.php:133 includes/nectar_maps/flip-box.php:184
+msgid ""
+"Please enter the minimum height you would like for you box. Enter in number "
+"of pixels - Don't enter \"px\", default is \"300\""
+msgstr ""
+
+#: includes/nectar_maps/fancy_box.php:137
+#: includes/nectar_maps/fancy_box.php:154
+msgid "Box Color"
+msgstr ""
+
+#: includes/nectar_maps/fancy_box.php:158
+msgid "If left blank this will default to your theme accent color."
+msgstr ""
+
+#: includes/nectar_maps/fancy_box.php:163
+msgid "Content Color"
+msgstr ""
+
+#: includes/nectar_maps/fancy_box.php:171
+msgid "Box Color Opacity"
+msgstr ""
+
+#: includes/nectar_maps/fancy_box.php:187
+msgid ""
+"Lowering this will allow the color to be overlaid on top of the image "
+"background (if supplied)."
+msgstr ""
+
+#: includes/nectar_maps/fancy_box.php:210
+msgid ""
+"This will add a minimal border to show the fancy box area before hovering"
+msgstr ""
+
+#: includes/nectar_maps/fancy_box.php:226
+msgid "Animation"
+msgstr ""
+
+#: includes/nectar_maps/flip-box.php:9
+msgid "Flip Box"
+msgstr ""
+
+#: includes/nectar_maps/flip-box.php:13
+msgid "Add a flip box element"
+msgstr ""
+
+#: includes/nectar_maps/flip-box.php:17
+msgid "Front Box Content"
+msgstr ""
+
+#: includes/nectar_maps/flip-box.php:19
+msgid "The text that will display on the front of your flip box"
+msgstr ""
+
+#: includes/nectar_maps/flip-box.php:20 includes/nectar_maps/flip-box.php:27
+#: includes/nectar_maps/flip-box.php:34 includes/nectar_maps/flip-box.php:43
+#: includes/nectar_maps/flip-box.php:50 includes/nectar_maps/flip-box.php:62
+#: includes/nectar_maps/flip-box.php:76 includes/nectar_maps/flip-box.php:85
+#: includes/nectar_maps/flip-box.php:94 includes/nectar_maps/flip-box.php:103
+#: includes/nectar_maps/flip-box.php:114 includes/nectar_maps/flip-box.php:127
+#: includes/nectar_maps/flip-box.php:131
+msgid "Front Side"
+msgstr ""
+
+#: includes/nectar_maps/flip-box.php:41 includes/nectar_maps/flip-box.php:160
+msgid "BG Color overlay on BG Image"
+msgstr ""
+
+#: includes/nectar_maps/flip-box.php:44 includes/nectar_maps/flip-box.php:163
+msgid "Checking this will overlay your BG color on your BG image"
+msgstr ""
+
+#: includes/nectar_maps/flip-box.php:74 includes/nectar_maps/flip-box.php:92
+msgid "Icon Above Title"
+msgstr ""
+
+#: includes/nectar_maps/flip-box.php:112
+#: includes/nectar_maps/nectar_icon.php:135
+msgid "Icon Color"
+msgstr ""
+
+#: includes/nectar_maps/flip-box.php:130
+msgid ""
+"Please enter the size for your icon. Enter in number of pixels - Don't enter "
+"\"px\", default is \"60\""
+msgstr ""
+
+#: includes/nectar_maps/flip-box.php:135
+msgid "Back Box Content"
+msgstr ""
+
+#: includes/nectar_maps/flip-box.php:138 includes/nectar_maps/flip-box.php:146
+#: includes/nectar_maps/flip-box.php:153 includes/nectar_maps/flip-box.php:162
+#: includes/nectar_maps/flip-box.php:169
+msgid "Back Side"
+msgstr ""
+
+#: includes/nectar_maps/flip-box.php:139
+msgid "The content that will display on the back of your flip box"
+msgstr ""
+
+#: includes/nectar_maps/flip-box.php:183 includes/nectar_maps/flip-box.php:193
+#: includes/nectar_maps/flip-box.php:206 includes/nectar_maps/flip-box.php:220
+msgid "General Settings"
+msgstr ""
+
+#: includes/nectar_maps/flip-box.php:191
+msgid "Horizontal Content Alignment"
+msgstr ""
+
+#: includes/nectar_maps/flip-box.php:204
+msgid "Vertical Content Alignment"
+msgstr ""
+
+#: includes/nectar_maps/flip-box.php:218
+msgid "Flip Direction"
+msgstr ""
+
+#: includes/nectar_maps/flip-box.php:222
+msgid "Horizontal To Left"
+msgstr ""
+
+#: includes/nectar_maps/flip-box.php:223
+msgid "Horizontal To Right"
+msgstr ""
+
+#: includes/nectar_maps/flip-box.php:224
+msgid "Vertical To Bottom"
+msgstr ""
+
+#: includes/nectar_maps/flip-box.php:225
+msgid "Vertical To Top"
+msgstr ""
+
+#: includes/nectar_maps/full_width_section.php:9
+msgid "Full Width Section"
+msgstr ""
+
+#: includes/nectar_maps/full_width_section.php:34
+msgid "Vetical Align Columns"
+msgstr ""
+
+#: includes/nectar_maps/full_width_section.php:80
+msgid "Parallax Background"
+msgstr ""
+
+#: includes/nectar_maps/full_width_section.php:126
+msgid ""
+"You must include this format & the mp4 format to render your video with "
+"cross browser compatibility. OGV is optional.\n"
+"\t\t\tVideo must be in a 16:9 aspect ratio."
+msgstr ""
+
+#: includes/nectar_maps/gradient-text.php:9
+msgid "Gradient Text"
+msgstr ""
+
+#: includes/nectar_maps/gradient-text.php:13
+msgid "Add text with gradient coloring"
+msgstr ""
+
+#: includes/nectar_maps/gradient-text.php:50
+#: includes/nectar_maps/nectar_icon_list.php:54
+msgid "Horizontal"
+msgstr ""
+
+#: includes/nectar_maps/gradient-text.php:51
+msgid "Diagonal"
+msgstr ""
+
+#: includes/nectar_maps/gradient-text.php:53
+msgid "Select your desired gradient direction"
+msgstr ""
+
+#: includes/nectar_maps/gradient-text.php:60
+msgid "The text that will display with gradient coloring"
+msgstr ""
+
+#: includes/nectar_maps/gradient-text.php:64
+#: includes/nectar_maps/image_with_animation.php:124
+#: includes/nectar_maps/nectar_btn.php:195
+#: includes/nectar_maps/nectar_cta.php:113
+#: includes/nectar_maps/nectar_icon.php:187
+msgid "Margin"
+msgstr ""
+
+#: includes/nectar_maps/gradient-text.php:67
+msgid "."
+msgstr ""
+
+#: includes/nectar_maps/heading.php:9
+msgid "Centered Heading"
+msgstr ""
+
+#: includes/nectar_maps/heading.php:13
+msgid "Simple heading"
+msgstr ""
+
+#: includes/nectar_maps/heading.php:18
+msgid "Heading"
+msgstr ""
+
+#: includes/nectar_maps/heading.php:24
+#: includes/nectar_maps/nectar_single_testimonial.php:60
+#: includes/nectar_maps/testimonial.php:43
+msgid "Subtitle"
+msgstr ""
+
+#: includes/nectar_maps/heading.php:26
+msgid "The subtitle text under the main title"
+msgstr ""
+
+#: includes/nectar_maps/image_with_animation.php:9
+msgid "Single Image"
+msgstr ""
+
+#: includes/nectar_maps/image_with_animation.php:13
+msgid "Simple image with CSS animation"
+msgstr ""
+
+#: includes/nectar_maps/image_with_animation.php:24
+msgid "Image Alignment"
+msgstr ""
+
+#: includes/nectar_maps/image_with_animation.php:27
+msgid "Align left"
+msgstr ""
+
+#: includes/nectar_maps/image_with_animation.php:27
+msgid "Align right"
+msgstr ""
+
+#: includes/nectar_maps/image_with_animation.php:27
+msgid "Align center"
+msgstr ""
+
+#: includes/nectar_maps/image_with_animation.php:28
+msgid "Select image alignment."
+msgstr ""
+
+#: includes/nectar_maps/image_with_animation.php:32
+#: includes/nectar_maps/nectar_cascading_images.php:134
+#: includes/nectar_maps/nectar_cascading_images.php:254
+#: includes/nectar_maps/nectar_cascading_images.php:373
+#: includes/nectar_maps/nectar_cascading_images.php:492
+msgid "CSS Animation"
+msgstr ""
+
+#: includes/nectar_maps/image_with_animation.php:38
+#: includes/nectar_maps/nectar_cascading_images.php:141
+#: includes/nectar_maps/nectar_cascading_images.php:260
+#: includes/nectar_maps/nectar_cascading_images.php:379
+#: includes/nectar_maps/nectar_cascading_images.php:498
+msgid "Fade In From Right"
+msgstr ""
+
+#: includes/nectar_maps/image_with_animation.php:46
+msgid ""
+"Select animation type if you want this element to be animated when it enters "
+"into the browsers viewport. Note: Works only in modern browsers."
+msgstr ""
+
+#: includes/nectar_maps/image_with_animation.php:52
+msgid ""
+"Enter delay (in milliseconds) if needed e.g. 150. This parameter comes in "
+"handy when creating the animate in \"one by one\" effect in horizontal "
+"columns."
+msgstr ""
+
+#: includes/nectar_maps/image_with_animation.php:56
+msgid "Link to large image?"
+msgstr ""
+
+#: includes/nectar_maps/image_with_animation.php:58
+msgid "If selected, image will be linked to the bigger image."
+msgstr ""
+
+#: includes/nectar_maps/image_with_animation.php:63
+msgid "Image link"
+msgstr ""
+
+#: includes/nectar_maps/image_with_animation.php:65
+msgid "Enter url if you want this image to have link."
+msgstr ""
+
+#: includes/nectar_maps/image_with_animation.php:70
+msgid "Link Target"
+msgstr ""
+
+#: includes/nectar_maps/image_with_animation.php:108
+msgid "100%"
+msgstr ""
+
+#: includes/nectar_maps/image_with_animation.php:109
+msgid "110%"
+msgstr ""
+
+#: includes/nectar_maps/image_with_animation.php:110
+msgid "125%"
+msgstr ""
+
+#: includes/nectar_maps/image_with_animation.php:111
+msgid "150%"
+msgstr ""
+
+#: includes/nectar_maps/image_with_animation.php:112
+msgid "165%"
+msgstr ""
+
+#: includes/nectar_maps/image_with_animation.php:113
+msgid "175%"
+msgstr ""
+
+#: includes/nectar_maps/image_with_animation.php:114
+msgid "200%"
+msgstr ""
+
+#: includes/nectar_maps/image_with_animation.php:115
+msgid "225%"
+msgstr ""
+
+#: includes/nectar_maps/image_with_animation.php:116
+msgid "250%"
+msgstr ""
+
+#: includes/nectar_maps/image_with_animation.php:117
+msgid "75%"
+msgstr ""
+
+#: includes/nectar_maps/image_with_animation.php:118
+msgid "50%"
+msgstr ""
+
+#: includes/nectar_maps/image_with_animation.php:120
+msgid ""
+"Select your desired max width here - by default images are not allowed to "
+"display larger than the column they're contained in. Changing this to a "
+"higher value will allow you to create designs where your image overflows out "
+"of the column partially off screen."
+msgstr ""
+
+#: includes/nectar_maps/milestone.php:9
+msgid "Milestone"
+msgstr ""
+
+#: includes/nectar_maps/milestone.php:13
+msgid "Add an animated milestone"
+msgstr ""
+
+#: includes/nectar_maps/milestone.php:17
+msgid "Milestone Number"
+msgstr ""
+
+#: includes/nectar_maps/milestone.php:20
+msgid "The number/count of your milestone e.g. \"13\""
+msgstr ""
+
+#: includes/nectar_maps/milestone.php:24
+msgid "Milestone Number Inherit Font"
+msgstr ""
+
+#: includes/nectar_maps/milestone.php:35
+msgid ""
+"Please select if you would like your milestone number to inherit a font "
+"family from any heading tag"
+msgstr ""
+
+#: includes/nectar_maps/milestone.php:39
+msgid "Milestone Symbol"
+msgstr ""
+
+#: includes/nectar_maps/milestone.php:42
+msgid ""
+"An optional symbol to place next to the number counted to. e.g. \"%\" or \"+"
+"\""
+msgstr ""
+
+#: includes/nectar_maps/milestone.php:46
+msgid "Milestone Symbol Position"
+msgstr ""
+
+#: includes/nectar_maps/milestone.php:53
+msgid "Please select the position you would like for your symbol."
+msgstr ""
+
+#: includes/nectar_maps/milestone.php:58
+msgid "Milestone Subject"
+msgstr ""
+
+#: includes/nectar_maps/milestone.php:61
+msgid "The subject of your milestones e.g. \"Projects Completed\""
+msgstr ""
+
+#: includes/nectar_maps/milestone.php:65
+msgid "Milestone Subject Padding"
+msgstr ""
+
+#: includes/nectar_maps/milestone.php:76
+msgid "Please select amount of padding you would like your subject to have"
+msgstr ""
+
+#: includes/nectar_maps/milestone.php:96
+msgid "Animation Effect"
+msgstr ""
+
+#: includes/nectar_maps/milestone.php:99
+msgid "Count To Value"
+msgstr ""
+
+#: includes/nectar_maps/milestone.php:100
+msgid "Motion Blur Slide In"
+msgstr ""
+
+#: includes/nectar_maps/milestone.php:103
+msgid "Please select the animation you would like your milestone to have"
+msgstr ""
+
+#: includes/nectar_maps/milestone.php:107
+msgid "Milestone Number Font Size"
+msgstr ""
+
+#: includes/nectar_maps/milestone.php:110
+msgid "Enter your size in pixels, the default is 62."
+msgstr ""
+
+#: includes/nectar_maps/milestone.php:114
+msgid "Milestone Symbol Font Size"
+msgstr ""
+
+#: includes/nectar_maps/milestone.php:117
+msgid "Enter your size in pixels."
+msgstr ""
+
+#: includes/nectar_maps/milestone.php:122
+msgid "Milestone Symbol Alignment"
+msgstr ""
+
+#: includes/nectar_maps/milestone.php:129
+msgid "Please select the alignment you desire for your symbol."
+msgstr ""
+
+#: includes/nectar_maps/milestone.php:135
+msgid "Milestone Text Alignment"
+msgstr ""
+
+#: includes/nectar_maps/milestone.php:143
+msgid "Please select the alignment for your overall milestone."
+msgstr ""
+
+#: includes/nectar_maps/morphing_outline.php:9
+msgid "Morphing Outline"
+msgstr ""
+
+#: includes/nectar_maps/morphing_outline.php:14
+msgid "Wrap some text in a unqiue way to grab attention"
+msgstr ""
+
+#: includes/nectar_maps/morphing_outline.php:22
+msgid "Enter the text that will be wrapped here"
+msgstr ""
+
+#: includes/nectar_maps/morphing_outline.php:29
+msgid "Border Thickness"
+msgstr ""
+
+#: includes/nectar_maps/morphing_outline.php:31
+msgid "Don't include \"px\" in your string - default is \"5\""
+msgstr ""
+
+#: includes/nectar_maps/morphing_outline.php:37
+msgid "Starting Color"
+msgstr ""
+
+#: includes/nectar_maps/morphing_outline.php:45
+#: includes/nectar_maps/nectar_horizontal_list_item.php:252
+msgid "Hover Color"
+msgstr ""
+
+#: includes/nectar_maps/nectar_blog.php:25
+#: includes/salient-studio-templates.php:17 includes/wpbakery-init.php:132
+msgid "Blog"
+msgstr ""
+
+#: includes/nectar_maps/nectar_blog.php:30
+msgid "Display a Blog element"
+msgstr ""
+
+#: includes/nectar_maps/nectar_blog.php:38
+msgid "Standard Blog W/ Sidebar"
+msgstr ""
+
+#: includes/nectar_maps/nectar_blog.php:39
+msgid "Standard Blog No Sidebar"
+msgstr ""
+
+#: includes/nectar_maps/nectar_blog.php:40
+msgid "Masonry Blog W/ Sidebar"
+msgstr ""
+
+#: includes/nectar_maps/nectar_blog.php:41
+msgid "Masonry Blog No Sidebar"
+msgstr ""
+
+#: includes/nectar_maps/nectar_blog.php:42
+msgid "Masonry Blog Fullwidth"
+msgstr ""
+
+#: includes/nectar_maps/nectar_blog.php:45
+msgid "Please select the layout you desire for your blog"
+msgstr ""
+
+#: includes/nectar_maps/nectar_blog.php:50
+msgid "Masonry Layout Style"
+msgstr ""
+
+#: includes/nectar_maps/nectar_blog.php:54
+#: includes/nectar_maps/nectar_blog.php:89
+msgid "Inherit from Theme Options"
+msgstr ""
+
+#: includes/nectar_maps/nectar_blog.php:55
+msgid "Material Style"
+msgstr ""
+
+#: includes/nectar_maps/nectar_blog.php:56
+#: includes/nectar_maps/nectar_blog.php:90
+msgid "Classic Style"
+msgstr ""
+
+#: includes/nectar_maps/nectar_blog.php:57
+msgid "Classic Enhanced Style"
+msgstr ""
+
+#: includes/nectar_maps/nectar_blog.php:58
+msgid "Meta Overlaid Style"
+msgstr ""
+
+#: includes/nectar_maps/nectar_blog.php:59
+msgid "Auto Masonry: Meta Overlaid Spaced"
+msgstr ""
+
+#: includes/nectar_maps/nectar_blog.php:63
+msgid ""
+"Please select the style you would like your posts to use when the masonry "
+"layout is displayed"
+msgstr ""
+
+#: includes/nectar_maps/nectar_blog.php:68
+msgid "Auto Masonry Spacing"
+msgstr ""
+
+#: includes/nectar_maps/nectar_blog.php:72
+#: includes/nectar_maps/nectar_icon.php:125
+msgid "4px"
+msgstr ""
+
+#: includes/nectar_maps/nectar_blog.php:73
+msgid "8px"
+msgstr ""
+
+#: includes/nectar_maps/nectar_blog.php:74
+msgid "12px"
+msgstr ""
+
+#: includes/nectar_maps/nectar_blog.php:75
+msgid "16px"
+msgstr ""
+
+#: includes/nectar_maps/nectar_blog.php:80
+msgid ""
+"Please select the amount of spacing you would like for your auto masonry "
+"layout"
+msgstr ""
+
+#: includes/nectar_maps/nectar_blog.php:85
+msgid "Standard Layout Style"
+msgstr ""
+
+#: includes/nectar_maps/nectar_blog.php:91
+msgid "Minimal Style"
+msgstr ""
+
+#: includes/nectar_maps/nectar_blog.php:92
+msgid "Featured Image Left Style"
+msgstr ""
+
+#: includes/nectar_maps/nectar_blog.php:96
+msgid ""
+"Please select the style you would like your posts to use when the standard "
+"layout is displayed"
+msgstr ""
+
+#: includes/nectar_maps/nectar_blog.php:101
+#: includes/nectar_maps/nectar_category_grid.php:101
+#: includes/nectar_maps/recent_posts.php:74
+msgid "Blog Categories"
+msgstr ""
+
+#: includes/nectar_maps/nectar_blog.php:106
+#: includes/nectar_maps/nectar_category_grid.php:107
+msgid ""
+"Please select the categories you would like to display for your blog. You "
+"can select multiple categories too (ctrl + click on PC and command + click "
+"on Mac)."
+msgstr ""
+
+#: includes/nectar_maps/nectar_blog.php:110
+msgid "Enable Sticky Sidebar"
+msgstr ""
+
+#: includes/nectar_maps/nectar_blog.php:112
+msgid ""
+"Would you like to have your sidebar follow down as your scroll in a sticky "
+"manner?"
+msgstr ""
+
+#: includes/nectar_maps/nectar_blog.php:118
+#: includes/nectar_maps/nectar_woo_products.php:115
+msgid "Enable Pagination"
+msgstr ""
+
+#: includes/nectar_maps/nectar_blog.php:120
+msgid "Would you like to enable pagination?"
+msgstr ""
+
+#: includes/nectar_maps/nectar_blog.php:125
+msgid "Pagination Type"
+msgstr ""
+
+#: includes/nectar_maps/nectar_blog.php:133
+msgid "Please select your pagination type here."
+msgstr ""
+
+#: includes/nectar_maps/nectar_blog.php:138
+msgid "Posts Per Page"
+msgstr ""
+
+#: includes/nectar_maps/nectar_blog.php:140
+msgid ""
+"How many posts would you like to display per page? If pagination is not "
+"enabled, will simply show this number of posts. Enter as a number example "
+"\"10\""
+msgstr ""
+
+#: includes/nectar_maps/nectar_blog.php:144
+#: includes/nectar_maps/recent_posts.php:119
+msgid "Post Offset"
+msgstr ""
+
+#: includes/nectar_maps/nectar_blog.php:146
+msgid ""
+"Will not be used when \"Enable Pagination\" is on. Optionally enter a number "
+"e.g. \"2\" to offset your posts by - useful for when you're using multiple "
+"styles of this element on the same page and would like them to no show "
+"duplicate posts."
+msgstr ""
+
+#: includes/nectar_maps/nectar_blog.php:159
+msgid "Please select the loading animation you would like "
+msgstr ""
+
+#: includes/nectar_maps/nectar_blog.php:163
+#: includes/nectar_maps/recent_posts.php:227
+msgid "Order"
+msgstr ""
+
+#: includes/nectar_maps/nectar_blog.php:171
+#: includes/nectar_maps/recent_posts.php:235
+msgid "Designates the ascending or descending order - defaults to descending"
+msgstr ""
+
+#: includes/nectar_maps/nectar_blog.php:175
+#: includes/nectar_maps/recent_posts.php:239
+msgid "Orderby"
+msgstr ""
+
+#: includes/nectar_maps/nectar_blog.php:188
+#: includes/nectar_maps/recent_posts.php:252
+msgid "Sort retrieved posts by parameter - defaults to date"
+msgstr ""
+
+#: includes/nectar_maps/nectar_blog.php:192
+#: includes/nectar_maps/recent_posts.php:256
+msgid "Remove Post Date"
+msgstr ""
+
+#: includes/nectar_maps/nectar_blog.php:194
+#: includes/nectar_maps/recent_posts.php:258
+msgid "Enable this to remove the date from displaying on your blog layout"
+msgstr ""
+
+#: includes/nectar_maps/nectar_blog.php:199
+#: includes/nectar_maps/recent_posts.php:263
+msgid "Remove Post Author"
+msgstr ""
+
+#: includes/nectar_maps/nectar_blog.php:201
+#: includes/nectar_maps/recent_posts.php:265
+msgid ""
+"Enable this to remove the author name from displaying on your blog layout"
+msgstr ""
+
+#: includes/nectar_maps/nectar_blog.php:206
+#: includes/nectar_maps/recent_posts.php:270
+msgid "Remove Comment Number"
+msgstr ""
+
+#: includes/nectar_maps/nectar_blog.php:208
+#: includes/nectar_maps/recent_posts.php:272
+msgid ""
+"Enable this to remove the comment count from displaying on your blog layout"
+msgstr ""
+
+#: includes/nectar_maps/nectar_blog.php:213
+#: includes/nectar_maps/recent_posts.php:277
+msgid "Remove Nectar Love Button"
+msgstr ""
+
+#: includes/nectar_maps/nectar_blog.php:215
+#: includes/nectar_maps/recent_posts.php:279
+msgid ""
+"Enable this to remove the nectar love button from displaying on your blog "
+"layout"
+msgstr ""
+
+#: includes/nectar_maps/nectar_btn.php:9
+msgid "Button"
+msgstr ""
+
+#: includes/nectar_maps/nectar_btn.php:14
+msgid "Add a button"
+msgstr ""
+
+#: includes/nectar_maps/nectar_btn.php:19
+msgid "Size"
+msgstr ""
+
+#: includes/nectar_maps/nectar_btn.php:21
+#: includes/nectar_maps/nectar_icon_list.php:81
+msgid "Small"
+msgstr ""
+
+#: includes/nectar_maps/nectar_btn.php:23
+#: includes/nectar_maps/nectar_icon_list.php:83
+msgid "Large"
+msgstr ""
+
+#: includes/nectar_maps/nectar_btn.php:24
+msgid "Jumbo"
+msgstr ""
+
+#: includes/nectar_maps/nectar_btn.php:25
+msgid "Extra Jumbo"
+msgstr ""
+
+#: includes/nectar_maps/nectar_btn.php:29
+msgid "Select your button size."
+msgstr ""
+
+#: includes/nectar_maps/nectar_btn.php:35
+#: includes/nectar_maps/nectar_icon.php:155
+msgid "The link for your button."
+msgstr ""
+
+#: includes/nectar_maps/nectar_btn.php:39
+msgid "Text"
+msgstr ""
+
+#: includes/nectar_maps/nectar_btn.php:42
+msgid "The text for your button."
+msgstr ""
+
+#: includes/nectar_maps/nectar_btn.php:47
+#: includes/nectar_maps/nectar_icon.php:161
+msgid "Open Link In New Tab?"
+msgstr ""
+
+#: includes/nectar_maps/nectar_btn.php:57
+msgid "Regular With Tilt"
+msgstr ""
+
+#: includes/nectar_maps/nectar_btn.php:58
+msgid "See Through"
+msgstr ""
+
+#: includes/nectar_maps/nectar_btn.php:59
+msgid "See Through Solid On Hover"
+msgstr ""
+
+#: includes/nectar_maps/nectar_btn.php:60
+msgid "See Through Solid On Hover Alt"
+msgstr ""
+
+#: includes/nectar_maps/nectar_btn.php:61
+msgid "See Through 3D"
+msgstr ""
+
+#: includes/nectar_maps/nectar_btn.php:65
+#: includes/nectar_maps/nectar_icon.php:116
+msgid "Select your button style."
+msgstr ""
+
+#: includes/nectar_maps/nectar_btn.php:69
+#: includes/nectar_maps/nectar_btn.php:86
+#: includes/nectar_maps/recent_posts.php:186
+msgid "Button Color"
+msgstr ""
+
+#: includes/nectar_maps/nectar_btn.php:130
+msgid "Hover Text Color"
+msgstr ""
+
+#: includes/nectar_maps/nectar_btn.php:138
+msgid "Select the color that will be used for the text on hover"
+msgstr ""
+
+#: includes/nectar_maps/nectar_btn.php:150
+msgid "Default Arrow"
+msgstr ""
+
+#: includes/nectar_maps/nectar_btn.php:234
+msgid "Use this field to add an optional ID onto your button."
+msgstr ""
+
+#: includes/nectar_maps/nectar_cascading_images.php:33
+msgid "Cascading Images"
+msgstr ""
+
+#: includes/nectar_maps/nectar_cascading_images.php:37
+msgid "Animated overlapping images"
+msgstr ""
+
+#: includes/nectar_maps/nectar_cascading_images.php:42
+msgid "Image #1"
+msgstr ""
+
+#: includes/nectar_maps/nectar_cascading_images.php:60
+#: includes/nectar_maps/nectar_cascading_images.php:72
+#: includes/nectar_maps/nectar_cascading_images.php:180
+#: includes/nectar_maps/nectar_cascading_images.php:192
+#: includes/nectar_maps/nectar_cascading_images.php:299
+#: includes/nectar_maps/nectar_cascading_images.php:311
+#: includes/nectar_maps/nectar_cascading_images.php:418
+#: includes/nectar_maps/nectar_cascading_images.php:430
+msgid "Offset X"
+msgstr ""
+
+#: includes/nectar_maps/nectar_cascading_images.php:81
+#: includes/nectar_maps/nectar_cascading_images.php:94
+#: includes/nectar_maps/nectar_cascading_images.php:201
+#: includes/nectar_maps/nectar_cascading_images.php:214
+#: includes/nectar_maps/nectar_cascading_images.php:320
+#: includes/nectar_maps/nectar_cascading_images.php:333
+#: includes/nectar_maps/nectar_cascading_images.php:439
+#: includes/nectar_maps/nectar_cascading_images.php:452
+msgid "Offset Y"
+msgstr ""
+
+#: includes/nectar_maps/nectar_cascading_images.php:104
+#: includes/nectar_maps/nectar_cascading_images.php:116
+#: includes/nectar_maps/nectar_cascading_images.php:224
+#: includes/nectar_maps/nectar_cascading_images.php:236
+#: includes/nectar_maps/nectar_cascading_images.php:343
+#: includes/nectar_maps/nectar_cascading_images.php:355
+#: includes/nectar_maps/nectar_cascading_images.php:462
+#: includes/nectar_maps/nectar_cascading_images.php:474
+msgid "Rotate"
+msgstr ""
+
+#: includes/nectar_maps/nectar_cascading_images.php:144
+#: includes/nectar_maps/nectar_cascading_images.php:263
+#: includes/nectar_maps/nectar_cascading_images.php:382
+#: includes/nectar_maps/nectar_cascading_images.php:501
+msgid "Flip In"
+msgstr ""
+
+#: includes/nectar_maps/nectar_cascading_images.php:148
+#: includes/nectar_maps/nectar_cascading_images.php:267
+#: includes/nectar_maps/nectar_cascading_images.php:386
+#: includes/nectar_maps/nectar_cascading_images.php:505
+msgid ""
+"Select animation type if you want this layer to be animated when it enters "
+"into the browsers viewport."
+msgstr ""
+
+#: includes/nectar_maps/nectar_cascading_images.php:163
+msgid "Image #2"
+msgstr ""
+
+#: includes/nectar_maps/nectar_cascading_images.php:282
+msgid "Image #3"
+msgstr ""
+
+#: includes/nectar_maps/nectar_cascading_images.php:294
+#: includes/nectar_maps/nectar_cascading_images.php:413
+msgid "Use this to set a BG color for the layer"
+msgstr ""
+
+#: includes/nectar_maps/nectar_cascading_images.php:401
+msgid "Image #4"
+msgstr ""
+
+#: includes/nectar_maps/nectar_cascading_images.php:518
+msgid "Time Between Animations"
+msgstr ""
+
+#: includes/nectar_maps/nectar_cascading_images.php:520
+msgid ""
+"Enter your desired time between animations in milliseconds, defaults to 200 "
+"if left blank"
+msgstr ""
+
+#: includes/nectar_maps/nectar_cascading_images.php:524
+msgid "Layer Border Radius"
+msgstr ""
+
+#: includes/nectar_maps/nectar_category_grid.php:10
+#: includes/nectar_maps/nectar_woo_products.php:18
+msgid "Date"
+msgstr ""
+
+#: includes/nectar_maps/nectar_category_grid.php:11
+#: includes/nectar_maps/nectar_woo_products.php:19
+msgid "ID"
+msgstr ""
+
+#: includes/nectar_maps/nectar_category_grid.php:12
+#: includes/nectar_maps/nectar_woo_products.php:20
+msgid "Author"
+msgstr ""
+
+#: includes/nectar_maps/nectar_category_grid.php:14
+#: includes/nectar_maps/nectar_woo_products.php:22
+msgid "Modified"
+msgstr ""
+
+#: includes/nectar_maps/nectar_category_grid.php:15
+#: includes/nectar_maps/nectar_woo_products.php:23
+msgid "Random"
+msgstr ""
+
+#: includes/nectar_maps/nectar_category_grid.php:16
+#: includes/nectar_maps/nectar_woo_products.php:25
+msgid "Menu order"
+msgstr ""
+
+#: includes/nectar_maps/nectar_category_grid.php:21
+#: includes/nectar_maps/nectar_woo_products.php:30
+msgid "Descending"
+msgstr ""
+
+#: includes/nectar_maps/nectar_category_grid.php:22
+#: includes/nectar_maps/nectar_woo_products.php:31
+msgid "Ascending"
+msgstr ""
+
+#: includes/nectar_maps/nectar_category_grid.php:74
+msgid "Category Grid"
+msgstr ""
+
+#: includes/nectar_maps/nectar_category_grid.php:78
+msgid "Show categories in a stylish grid"
+msgstr ""
+
+#: includes/nectar_maps/nectar_category_grid.php:82
+msgid "Post Type"
+msgstr ""
+
+#: includes/nectar_maps/nectar_category_grid.php:87
+msgid "Select the post type you wish to display the categories from."
+msgstr ""
+
+#: includes/nectar_maps/nectar_category_grid.php:91
+#: includes/nectar_maps/nectar_woo_products.php:66
+msgid "Product Categories"
+msgstr ""
+
+#: includes/nectar_maps/nectar_category_grid.php:97
+msgid ""
+"Please select the categories you would like to display in the grid. You can "
+"select multiple categories too (ctrl + click on PC and command + click on "
+"Mac)."
+msgstr ""
+
+#: includes/nectar_maps/nectar_category_grid.php:113
+msgid "Text Content Alignment"
+msgstr ""
+
+#: includes/nectar_maps/nectar_category_grid.php:116
+msgid "Top Left"
+msgstr ""
+
+#: includes/nectar_maps/nectar_category_grid.php:117
+msgid "Top Middle"
+msgstr ""
+
+#: includes/nectar_maps/nectar_category_grid.php:118
+msgid "Top Right"
+msgstr ""
+
+#: includes/nectar_maps/nectar_category_grid.php:120
+msgid "Bottom Left"
+msgstr ""
+
+#: includes/nectar_maps/nectar_category_grid.php:121
+msgid "Bottom Middle"
+msgstr ""
+
+#: includes/nectar_maps/nectar_category_grid.php:122
+msgid "Bottom Right"
+msgstr ""
+
+#: includes/nectar_maps/nectar_category_grid.php:125
+msgid "Select the alignment of your text content."
+msgstr ""
+
+#: includes/nectar_maps/nectar_category_grid.php:130
+msgid "Subtext"
+msgstr ""
+
+#: includes/nectar_maps/nectar_category_grid.php:134
+msgid "Category Item Count"
+msgstr ""
+
+#: includes/nectar_maps/nectar_category_grid.php:138
+msgid "Select what will display under the category names."
+msgstr ""
+
+#: includes/nectar_maps/nectar_category_grid.php:146
+msgid "Enter custom text that will be shown below each category title"
+msgstr ""
+
+#: includes/nectar_maps/nectar_category_grid.php:166
+msgid "Grid Item Spacing"
+msgstr ""
+
+#: includes/nectar_maps/nectar_category_grid.php:181
+msgid "Masonry Layout"
+msgstr ""
+
+#: includes/nectar_maps/nectar_category_grid.php:183
+msgid ""
+"This will allow your portfolio items to display in a masonry layout as "
+"opposed to a fixed grid"
+msgstr ""
+
+#: includes/nectar_maps/nectar_category_grid.php:191
+#: includes/nectar_maps/nectar_category_grid.php:201
+#: includes/nectar_maps/nectar_category_grid.php:224
+#: includes/nectar_maps/nectar_category_grid.php:248
+#: includes/nectar_maps/nectar_category_grid.php:262
+#: includes/nectar_maps/nectar_category_grid.php:277
+#: includes/nectar_maps/nectar_category_grid.php:286
+msgid "Grid Item Coloring/Style"
+msgstr ""
+
+#: includes/nectar_maps/nectar_category_grid.php:195
+msgid "Use this to set a BG color that will be overlaid on your grid items"
+msgstr ""
+
+#: includes/nectar_maps/nectar_category_grid.php:203
+msgid "Color Overlay Opacity"
+msgstr ""
+
+#: includes/nectar_maps/nectar_category_grid.php:226
+msgid "Color Overlay Hover Opacity"
+msgstr ""
+
+#: includes/nectar_maps/nectar_category_grid.php:275
+msgid "Shadow on Hover"
+msgstr ""
+
+#: includes/nectar_maps/nectar_category_grid.php:278
+msgid "This will add a shadow effect on hover to your grid items"
+msgstr ""
+
+#: includes/nectar_maps/nectar_category_grid.php:284
+msgid "Subtext Visibility"
+msgstr ""
+
+#: includes/nectar_maps/nectar_cta.php:9
+#: includes/salient-studio-templates.php:18 includes/wpbakery-init.php:133
+msgid "Call To Action"
+msgstr ""
+
+#: includes/nectar_maps/nectar_cta.php:13
+msgid "minimal & animated"
+msgstr ""
+
+#: includes/nectar_maps/nectar_cta.php:22
+msgid "See Through Button "
+msgstr ""
+
+#: includes/nectar_maps/nectar_cta.php:23
+msgid "Material Button"
+msgstr ""
+
+#: includes/nectar_maps/nectar_cta.php:24
+msgid "Underline"
+msgstr ""
+
+#: includes/nectar_maps/nectar_cta.php:25
+msgid "Next Section Button"
+msgstr ""
+
+#: includes/nectar_maps/nectar_cta.php:44
+msgid "Call to action text"
+msgstr ""
+
+#: includes/nectar_maps/nectar_cta.php:48
+msgid "The text that will appear before the actual CTA link"
+msgstr ""
+
+#: includes/nectar_maps/nectar_cta.php:52
+msgid "Link text"
+msgstr ""
+
+#: includes/nectar_maps/nectar_cta.php:55
+msgid "The text that will be used for the CTA link"
+msgstr ""
+
+#: includes/nectar_maps/nectar_cta.php:71
+msgid "The URL that will be used for the link"
+msgstr ""
+
+#: includes/nectar_maps/nectar_cta.php:75
+msgid "Link Type"
+msgstr ""
+
+#: includes/nectar_maps/nectar_cta.php:78
+msgid "Regular (open in same tab)"
+msgstr ""
+
+#: includes/nectar_maps/nectar_cta.php:79
+msgid "Open In New Tab"
+msgstr ""
+
+#: includes/nectar_maps/nectar_cta.php:83
+msgid "Please select the type of link you will be using."
+msgstr ""
+
+#: includes/nectar_maps/nectar_cta.php:87
+msgid "Button Type"
+msgstr ""
+
+#: includes/nectar_maps/nectar_cta.php:92
+msgid "Down Arrow Bordered"
+msgstr ""
+
+#: includes/nectar_maps/nectar_cta.php:93
+msgid "Down Arrow Bounce"
+msgstr ""
+
+#: includes/nectar_maps/nectar_cta.php:94
+msgid "Mouse Wheel Scroll Animation"
+msgstr ""
+
+#: includes/nectar_maps/nectar_cta.php:109
+msgid "Please select the desired alignment for your CTA"
+msgstr ""
+
+#: includes/nectar_maps/nectar_food_menu_item.php:9
+msgid "Food Menu Item"
+msgstr ""
+
+#: includes/nectar_maps/nectar_food_menu_item.php:13
+msgid "Create restaurant menus"
+msgstr ""
+
+#: includes/nectar_maps/nectar_food_menu_item.php:21
+msgid "Line From Name To Price"
+msgstr ""
+
+#: includes/nectar_maps/nectar_food_menu_item.php:24
+msgid "Please select the desired style for your item"
+msgstr ""
+
+#: includes/nectar_maps/nectar_food_menu_item.php:29
+msgid "The item name"
+msgstr ""
+
+#: includes/nectar_maps/nectar_food_menu_item.php:30
+msgid "Item Name"
+msgstr ""
+
+#: includes/nectar_maps/nectar_food_menu_item.php:36
+msgid "Item Price"
+msgstr ""
+
+#: includes/nectar_maps/nectar_food_menu_item.php:39
+msgid ""
+"The price of your item - include the currency symbol of your choosing i.e. "
+"\"$29\""
+msgstr ""
+
+#: includes/nectar_maps/nectar_food_menu_item.php:43
+msgid "Item Name Heading Tag"
+msgstr ""
+
+#: includes/nectar_maps/nectar_food_menu_item.php:52
+msgid "Please select the desired heading tag for your item name"
+msgstr ""
+
+#: includes/nectar_maps/nectar_food_menu_item.php:56
+msgid "Item Description"
+msgstr ""
+
+#: includes/nectar_maps/nectar_food_menu_item.php:58
+msgid "Please enter description for your item"
+msgstr ""
+
+#: includes/nectar_maps/nectar_gmap.php:9
+msgid "Interactive Map"
+msgstr ""
+
+#: includes/nectar_maps/nectar_gmap.php:13
+msgid "Flexible Custom Map"
+msgstr ""
+
+#: includes/nectar_maps/nectar_gmap.php:17
+msgid "Map Type"
+msgstr ""
+
+#: includes/nectar_maps/nectar_gmap.php:20
+msgid "Google Map"
+msgstr ""
+
+#: includes/nectar_maps/nectar_gmap.php:21
+msgid "Leaflet (Recommended)"
+msgstr ""
+
+#: includes/nectar_maps/nectar_gmap.php:24
+msgid ""
+"With the introduction of the new Google Maps Platform (June 2018), Dynamic "
+"Google Maps are now a premium service which require a monthly fee. Because "
+"of this, we've integrated a free open source map solution known as Leaflet. "
+"If you choose to use Google, ensure you have a valid map API key entered "
+"into Salient options panel > general settings > css/script related tab."
+msgstr ""
+
+#: includes/nectar_maps/nectar_gmap.php:28
+msgid "Map height"
+msgstr ""
+
+#: includes/nectar_maps/nectar_gmap.php:30
+msgid "Enter map height in pixels. Example: 200."
+msgstr ""
+
+#: includes/nectar_maps/nectar_gmap.php:34
+msgid "Map Center Point Latitude"
+msgstr ""
+
+#: includes/nectar_maps/nectar_gmap.php:36
+msgid "Please enter the latitude for the maps center positioning point."
+msgstr ""
+
+#: includes/nectar_maps/nectar_gmap.php:40
+msgid "Map Center Point Longitude"
+msgstr ""
+
+#: includes/nectar_maps/nectar_gmap.php:42
+msgid "Please enter the longitude for the maps center positioning point."
+msgstr ""
+
+#: includes/nectar_maps/nectar_gmap.php:47
+msgid "Map Zoom"
+msgstr ""
+
+#: includes/nectar_maps/nectar_gmap.php:50
+msgid "14 - Default"
+msgstr ""
+
+#: includes/nectar_maps/nectar_gmap.php:54
+msgid "Enable Zoom In/Out"
+msgstr ""
+
+#: includes/nectar_maps/nectar_gmap.php:57
+msgid "Do you want users to be able to zoom in/out on the map?"
+msgstr ""
+
+#: includes/nectar_maps/nectar_gmap.php:63
+msgid "Marker Style"
+msgstr ""
+
+#: includes/nectar_maps/nectar_gmap.php:66
+msgid "Default Style"
+msgstr ""
+
+#: includes/nectar_maps/nectar_gmap.php:67
+msgid "Nectar Animated"
+msgstr ""
+
+#: includes/nectar_maps/nectar_gmap.php:70
+msgid ""
+"Please select the marker style you would like. Default Style will display "
+"the standard map marker and also allow you to optionally override it with an "
+"image. Nectar Animated will use a custom Nectar CSS based marker (the modern "
+"option)."
+msgstr ""
+
+#: includes/nectar_maps/nectar_gmap.php:75
+#: includes/nectar_maps/nectar_gmap.php:90
+msgid "Marker Color"
+msgstr ""
+
+#: includes/nectar_maps/nectar_gmap.php:85
+msgid ""
+"Please select the color for your nectar marker. Will only be used with the "
+"Nectar Animated Marker Style"
+msgstr ""
+
+#: includes/nectar_maps/nectar_gmap.php:100
+msgid "Please select the color for your marker."
+msgstr ""
+
+#: includes/nectar_maps/nectar_gmap.php:105
+msgid "Marker Image"
+msgstr ""
+
+#: includes/nectar_maps/nectar_gmap.php:108
+msgid ""
+"Select image from media library. Will only be used with the Default Marker "
+"Style."
+msgstr ""
+
+#: includes/nectar_maps/nectar_gmap.php:112
+msgid "Image Width"
+msgstr ""
+
+#: includes/nectar_maps/nectar_gmap.php:115
+msgid ""
+"Please enter the width in px that you would like your custom marker image to "
+"display as"
+msgstr ""
+
+#: includes/nectar_maps/nectar_gmap.php:119
+msgid "Image Height"
+msgstr ""
+
+#: includes/nectar_maps/nectar_gmap.php:122
+msgid ""
+"Please enter the height in px that you would like your custom marker image "
+"to display as"
+msgstr ""
+
+#: includes/nectar_maps/nectar_gmap.php:126
+msgid "Marker Animation"
+msgstr ""
+
+#: includes/nectar_maps/nectar_gmap.php:129
+msgid "This will cause your markers to do a quick bounce as they load in."
+msgstr ""
+
+#: includes/nectar_maps/nectar_gmap.php:135
+#: includes/nectar_maps/nectar_gmap.php:143
+msgid "Greyscale Color"
+msgstr ""
+
+#: includes/nectar_maps/nectar_gmap.php:138
+msgid ""
+"Toggle a greyscale color scheme (will also unlock further custom options)"
+msgstr ""
+
+#: includes/nectar_maps/nectar_gmap.php:146
+msgid "Toggle a greyscale color scheme"
+msgstr ""
+
+#: includes/nectar_maps/nectar_gmap.php:151
+msgid "Marker Description Info Window(s) Start Open"
+msgstr ""
+
+#: includes/nectar_maps/nectar_gmap.php:154
+msgid ""
+"Enabling this will cause the description(s) you set for your markers to be "
+"visible to your users before they click on the marker"
+msgstr ""
+
+#: includes/nectar_maps/nectar_gmap.php:168
+msgid "Ultra Flat Map"
+msgstr ""
+
+#: includes/nectar_maps/nectar_gmap.php:171
+msgid "This removes street/landmark text & some extra details for a clean look"
+msgstr ""
+
+#: includes/nectar_maps/nectar_gmap.php:176
+msgid "Dark Color Scheme"
+msgstr ""
+
+#: includes/nectar_maps/nectar_gmap.php:179
+msgid ""
+"Enable this option for a dark colored map (This will override the extra "
+"color choice)"
+msgstr ""
+
+#: includes/nectar_maps/nectar_gmap.php:185
+msgid "Map Marker Locations"
+msgstr ""
+
+#: includes/nectar_maps/nectar_gmap.php:187
+msgid ""
+"Please enter the the list of locations you would like with a latitude|"
+"longitude|description format. Divide values with linebreaks (Enter). Example:"
+msgstr ""
+
+#: includes/nectar_maps/nectar_gmap.php:187
+msgid "39.949|-75.171|Our Location"
+msgstr ""
+
+#: includes/nectar_maps/nectar_gmap.php:187
+msgid "40.793|-73.954|Our Location #2"
+msgstr ""
+
+#: includes/nectar_maps/nectar_highlighted_text.php:9
+msgid "Highlighted Text"
+msgstr ""
+
+#: includes/nectar_maps/nectar_highlighted_text.php:14
+msgid "Highlight text in an animated manner"
+msgstr ""
+
+#: includes/nectar_maps/nectar_highlighted_text.php:19
+msgid "Highlight Color"
+msgstr ""
+
+#: includes/nectar_maps/nectar_highlighted_text.php:22
+msgid ""
+"If left blank this will default to a desaturated variant of your defined "
+"theme accent color."
+msgstr ""
+
+#: includes/nectar_maps/nectar_highlighted_text.php:30
+msgid ""
+"Any text that is wrapped in italics will get an animated highlight. Use the "
+"\"I\" button on the editor above when highlighting text to toggle italics."
+msgstr ""
+
+#: includes/nectar_maps/nectar_highlighted_text.php:38
+msgid "Full Text BG Cover"
+msgstr ""
+
+#: includes/nectar_maps/nectar_highlighted_text.php:39
+msgid "Fancy Underline"
+msgstr ""
+
+#: includes/nectar_maps/nectar_highlighted_text.php:42
+msgid "Please select the style you would like for your highlights."
+msgstr ""
+
+#: includes/nectar_maps/nectar_horizontal_list_item.php:9
+msgid "Horizontal List Item"
+msgstr ""
+
+#: includes/nectar_maps/nectar_horizontal_list_item.php:14
+msgid "Organize data into a clean list"
+msgstr ""
+
+#: includes/nectar_maps/nectar_horizontal_list_item.php:33
+#: includes/nectar_maps/nectar_horizontal_list_item.php:49
+#: includes/nectar_maps/nectar_horizontal_list_item.php:65
+msgid "Column Layout"
+msgstr ""
+
+#: includes/nectar_maps/nectar_horizontal_list_item.php:133
+msgid "Column One Content"
+msgstr ""
+
+#: includes/nectar_maps/nectar_horizontal_list_item.php:136
+#: includes/nectar_maps/nectar_horizontal_list_item.php:144
+#: includes/nectar_maps/nectar_horizontal_list_item.php:153
+#: includes/nectar_maps/nectar_horizontal_list_item.php:162
+msgid "Enter your column text here"
+msgstr ""
+
+#: includes/nectar_maps/nectar_horizontal_list_item.php:141
+msgid "Column Two Content"
+msgstr ""
+
+#: includes/nectar_maps/nectar_horizontal_list_item.php:150
+msgid "Column Three Content"
+msgstr ""
+
+#: includes/nectar_maps/nectar_horizontal_list_item.php:159
+msgid "Column Four Content"
+msgstr ""
+
+#: includes/nectar_maps/nectar_horizontal_list_item.php:168
+msgid "CTA Text"
+msgstr ""
+
+#: includes/nectar_maps/nectar_horizontal_list_item.php:176
+msgid "CTA Link URL"
+msgstr ""
+
+#: includes/nectar_maps/nectar_horizontal_list_item.php:185
+msgid "CTA Open in New Tab"
+msgstr ""
+
+#: includes/nectar_maps/nectar_horizontal_list_item.php:194
+msgid "CTA 2 Text"
+msgstr ""
+
+#: includes/nectar_maps/nectar_horizontal_list_item.php:202
+msgid "CTA 2 Link URL"
+msgstr ""
+
+#: includes/nectar_maps/nectar_horizontal_list_item.php:211
+msgid "CTA 2 Open in New Tab"
+msgstr ""
+
+#: includes/nectar_maps/nectar_horizontal_list_item.php:222
+msgid "Inherit Font From"
+msgstr ""
+
+#: includes/nectar_maps/nectar_horizontal_list_item.php:236
+msgid "Full Item Link URL"
+msgstr ""
+
+#: includes/nectar_maps/nectar_horizontal_list_item.php:238
+msgid "Adding a URL for this will link your entire list item"
+msgstr ""
+
+#: includes/nectar_maps/nectar_horizontal_list_item.php:244
+msgid "Open Full Link In New Tab"
+msgstr ""
+
+#: includes/nectar_maps/nectar_hotspot.php:9
+msgid "Nectar Hotspot"
+msgstr ""
+
+#: includes/nectar_maps/nectar_hotspot.php:38
+#: includes/nectar_maps/shortcode-vc-wp-custommenu.php:22
+msgid "Content"
+msgstr ""
+
+#: includes/nectar_maps/nectar_icon.php:14
+msgid "Add a icon"
+msgstr ""
+
+#: includes/nectar_maps/nectar_icon.php:98
+msgid "fast"
+msgstr ""
+
+#: includes/nectar_maps/nectar_icon.php:103
+msgid "Select how fast you would like your icon to animate"
+msgstr ""
+
+#: includes/nectar_maps/nectar_icon.php:107
+#: includes/nectar_maps/nectar_icon_list.php:91
+msgid "Icon Style"
+msgstr ""
+
+#: includes/nectar_maps/nectar_icon.php:109
+msgid "Icon Only"
+msgstr ""
+
+#: includes/nectar_maps/nectar_icon.php:110
+msgid "Border Basic"
+msgstr ""
+
+#: includes/nectar_maps/nectar_icon.php:111
+msgid "Border W/ Hover Animation"
+msgstr ""
+
+#: includes/nectar_maps/nectar_icon.php:112
+msgid "Soft Color Background"
+msgstr ""
+
+#: includes/nectar_maps/nectar_icon.php:120
+msgid "Icon Border Thickness"
+msgstr ""
+
+#: includes/nectar_maps/nectar_icon.php:122
+msgid "1px"
+msgstr ""
+
+#: includes/nectar_maps/nectar_icon.php:123
+msgid "2px"
+msgstr ""
+
+#: includes/nectar_maps/nectar_icon.php:143
+msgid "Black"
+msgstr ""
+
+#: includes/nectar_maps/nectar_icon.php:144
+msgid "Grey"
+msgstr ""
+
+#: includes/nectar_maps/nectar_icon.php:145
+msgid "White"
+msgstr ""
+
+#: includes/nectar_maps/nectar_icon.php:168
+msgid "Icon Padding"
+msgstr ""
+
+#: includes/nectar_maps/nectar_icon.php:173
+msgid "25px"
+msgstr ""
+
+#: includes/nectar_maps/nectar_icon.php:174
+msgid "30px"
+msgstr ""
+
+#: includes/nectar_maps/nectar_icon.php:175
+msgid "35px"
+msgstr ""
+
+#: includes/nectar_maps/nectar_icon.php:176
+msgid "40px"
+msgstr ""
+
+#: includes/nectar_maps/nectar_icon.php:177
+msgid "45px"
+msgstr ""
+
+#: includes/nectar_maps/nectar_icon.php:178
+msgid "50px"
+msgstr ""
+
+#: includes/nectar_maps/nectar_icon_list.php:14
+#: includes/salient-studio-templates.php:2948
+msgid "Icon List"
+msgstr ""
+
+#: includes/nectar_maps/nectar_icon_list.php:20
+msgid "Create an icon list"
+msgstr ""
+
+#: includes/nectar_maps/nectar_icon_list.php:50
+msgid "Direction"
+msgstr ""
+
+#: includes/nectar_maps/nectar_icon_list.php:53
+#: includes/nectar_maps/tabbed_section.php:31
+msgid "Vertical"
+msgstr ""
+
+#: includes/nectar_maps/nectar_icon_list.php:57
+msgid ""
+"Please select the direction you would like your list items to display in"
+msgstr ""
+
+#: includes/nectar_maps/nectar_icon_list.php:73
+msgid "Please select the column number you desire for your icon list items"
+msgstr ""
+
+#: includes/nectar_maps/nectar_icon_list.php:86
+msgid ""
+"Please select the size you would like your list item icons to display in"
+msgstr ""
+
+#: includes/nectar_maps/nectar_icon_list.php:94
+msgid "Icon Colored W/ BG"
+msgstr ""
+
+#: includes/nectar_maps/nectar_icon_list.php:95
+msgid "Icon Colored No BG"
+msgstr ""
+
+#: includes/nectar_maps/nectar_icon_list.php:98
+msgid ""
+"Please select the style you would like your list item icons to display in"
+msgstr ""
+
+#: includes/nectar_maps/nectar_icon_list.php:110
+#: includes/nectar_maps/nectar_icon_list.php:111
+#: includes/nectar_maps/nectar_icon_list_item.php:11
+msgid "List Item"
+msgstr ""
+
+#: includes/nectar_maps/nectar_icon_list_item.php:19
+msgid "List Icon Type"
+msgstr ""
+
+#: includes/nectar_maps/nectar_icon_list_item.php:78
+msgid "Header"
+msgstr ""
+
+#: includes/nectar_maps/nectar_icon_list_item.php:80
+msgid "Enter the header desired for your icon list element"
+msgstr ""
+
+#: includes/nectar_maps/nectar_icon_list_item.php:87
+msgid "Enter the text content desired for your icon list element"
+msgstr ""
+
+#: includes/nectar_maps/nectar_icon_list_item.php:91
+msgid "Item ID"
+msgstr ""
+
+#: includes/nectar_maps/nectar_image_comparison.php:9
+msgid "Image Comparison"
+msgstr ""
+
+#: includes/nectar_maps/nectar_image_comparison.php:13
+msgid "Shows differences in two images"
+msgstr ""
+
+#: includes/nectar_maps/nectar_image_comparison.php:17
+msgid "Image One"
+msgstr ""
+
+#: includes/nectar_maps/nectar_image_comparison.php:24
+msgid "Image Two"
+msgstr ""
+
+#: includes/nectar_maps/nectar_image_with_hotspots.php:9
+msgid "Image With Hotspots"
+msgstr ""
+
+#: includes/nectar_maps/nectar_image_with_hotspots.php:14
+msgid "Add Hotspots On Your Image"
+msgstr ""
+
+#: includes/nectar_maps/nectar_image_with_hotspots.php:27
+msgid "Preview"
+msgstr ""
+
+#: includes/nectar_maps/nectar_image_with_hotspots.php:29
+msgid ""
+"Click to add - Drag to move - Edit content below. Note: this preview will "
+"not reflect hotspot style choices or show tooltips. This is only used as a "
+"visual guide for positioning. Requires Salient WPBakery Page Builder v4.12 "
+"or higher."
+msgstr ""
+
+#: includes/nectar_maps/nectar_image_with_hotspots.php:34
+msgid "Hotspots"
+msgstr ""
+
+#: includes/nectar_maps/nectar_image_with_hotspots.php:60
+msgid "The icon that will be shown on the hotspots"
+msgstr ""
+
+#: includes/nectar_maps/nectar_image_with_hotspots.php:64
+msgid "Plus Sign"
+msgstr ""
+
+#: includes/nectar_maps/nectar_image_with_hotspots.php:65
+msgid "Numerical"
+msgstr ""
+
+#: includes/nectar_maps/nectar_image_with_hotspots.php:75
+msgid "Select how you want your tooltips to display to the user"
+msgstr ""
+
+#: includes/nectar_maps/nectar_image_with_hotspots.php:87
+msgid "Tooltip Shadow"
+msgstr ""
+
+#: includes/nectar_maps/nectar_image_with_hotspots.php:89
+msgid "Select the shadow size for your tooltip"
+msgstr ""
+
+#: includes/nectar_maps/nectar_image_with_hotspots.php:97
+msgid ""
+"Turning this on will make your hotspots animate in when the user scrolls to "
+"the element"
+msgstr ""
+
+#: includes/nectar_maps/nectar_single_testimonial.php:9
+msgid "Single Testimonial"
+msgstr ""
+
+#: includes/nectar_maps/nectar_single_testimonial.php:13
+msgid "Styled Quotes"
+msgstr ""
+
+#: includes/nectar_maps/nectar_single_testimonial.php:20
+msgid "Small Modern"
+msgstr ""
+
+#: includes/nectar_maps/nectar_single_testimonial.php:21
+msgid "Big Bold"
+msgstr ""
+
+#: includes/nectar_maps/nectar_single_testimonial.php:22
+msgid "Basic"
+msgstr ""
+
+#: includes/nectar_maps/nectar_single_testimonial.php:23
+msgid "Basic - Left Image"
+msgstr ""
+
+#: includes/nectar_maps/nectar_single_testimonial.php:30
+#: includes/nectar_maps/testimonial.php:50
+msgid "Quote"
+msgstr ""
+
+#: includes/nectar_maps/nectar_single_testimonial.php:32
+#: includes/nectar_maps/testimonial.php:52
+msgid "The testimonial quote"
+msgstr ""
+
+#: includes/nectar_maps/nectar_single_testimonial.php:40
+#: includes/nectar_maps/testimonial.php:23
+msgid ""
+"Add an optional image for the person/company who supplied the testimonial"
+msgstr ""
+
+#: includes/nectar_maps/nectar_single_testimonial.php:45
+msgid "Add Shadow To Image"
+msgstr ""
+
+#: includes/nectar_maps/nectar_single_testimonial.php:53
+#: includes/nectar_maps/team_member.php:45
+#: includes/nectar_maps/testimonial.php:36
+msgid "Name"
+msgstr ""
+
+#: includes/nectar_maps/nectar_single_testimonial.php:56
+#: includes/nectar_maps/testimonial.php:39
+msgid "Name or source of the testimonial"
+msgstr ""
+
+#: includes/nectar_maps/nectar_single_testimonial.php:63
+#: includes/nectar_maps/testimonial.php:46
+msgid "The optional subtitle that will follow the testimonial name"
+msgstr ""
+
+#: includes/nectar_maps/nectar_single_testimonial.php:67
+msgid "Added Color"
+msgstr ""
+
+#: includes/nectar_maps/nectar_video_lightbox.php:9
+msgid "Video Lightbox"
+msgstr ""
+
+#: includes/nectar_maps/nectar_video_lightbox.php:13
+msgid "Add a video lightbox link"
+msgstr ""
+
+#: includes/nectar_maps/nectar_video_lightbox.php:17
+msgid "Link Style"
+msgstr ""
+
+#: includes/nectar_maps/nectar_video_lightbox.php:27
+msgid "Please select your link style"
+msgstr ""
+
+#: includes/nectar_maps/nectar_video_lightbox.php:31
+msgid "Video URL"
+msgstr ""
+
+#: includes/nectar_maps/nectar_video_lightbox.php:34
+msgid ""
+"The URL to your video on Youtube or Vimeo e.g. https://vimeo.com/118023315 "
+"or https://www.youtube.com/watch?v=6oTurM7gESE etc."
+msgstr ""
+
+#: includes/nectar_maps/nectar_video_lightbox.php:38
+msgid "Play Button Color"
+msgstr ""
+
+#: includes/nectar_maps/nectar_video_lightbox.php:64
+msgid "Zoom BG Image"
+msgstr ""
+
+#: includes/nectar_maps/nectar_video_lightbox.php:64
+msgid "Zoom Button"
+msgstr ""
+
+#: includes/nectar_maps/nectar_video_lightbox.php:93
+msgid "Play Button Size"
+msgstr ""
+
+#: includes/nectar_maps/nectar_video_lightbox.php:99
+msgid "Larger"
+msgstr ""
+
+#: includes/nectar_maps/nectar_video_lightbox.php:107
+msgid "The text that will be displayed for your link"
+msgstr ""
+
+#: includes/nectar_maps/nectar_video_lightbox.php:115
+msgid "Choose what element your link text will inherit styling from"
+msgstr ""
+
+#: includes/nectar_maps/nectar_woo_products.php:24
+msgid "Comment count"
+msgstr ""
+
+#: includes/nectar_maps/nectar_woo_products.php:44
+msgid "WooCommerce Products"
+msgstr ""
+
+#: includes/nectar_maps/nectar_woo_products.php:49
+msgid "Display your products"
+msgstr ""
+
+#: includes/nectar_maps/nectar_woo_products.php:53
+msgid "Product Type"
+msgstr ""
+
+#: includes/nectar_maps/nectar_woo_products.php:62
+msgid "Please select the type of products you would like to display."
+msgstr ""
+
+#: includes/nectar_maps/nectar_woo_products.php:71
+msgid ""
+"Please select the categories you would like to display in your products. You "
+"can select multiple categories too (ctrl + click on PC and command + click "
+"on Mac)."
+msgstr ""
+
+#: includes/nectar_maps/nectar_woo_products.php:75
+#: includes/nectar_maps/recent_posts.php:83
+msgid "Number Of Columns"
+msgstr ""
+
+#: includes/nectar_maps/nectar_woo_products.php:86
+msgid ""
+"Please select the number of columns you would like to display. \"Dynamic\" "
+"will only be used on flickity full width carousels"
+msgstr ""
+
+#: includes/nectar_maps/nectar_woo_products.php:90
+msgid "Number Of Products"
+msgstr ""
+
+#: includes/nectar_maps/nectar_woo_products.php:93
+#: includes/nectar_maps/recent_posts.php:101
+msgid ""
+"How many posts would you like to display? Enter as a number example \"4\""
+msgstr ""
+
+#: includes/nectar_maps/nectar_woo_products.php:97
+msgid "Order by"
+msgstr ""
+
+#: includes/nectar_maps/nectar_woo_products.php:102
+#, php-format
+msgid "Select how to sort retrieved products. More at %s."
+msgstr ""
+
+#: includes/nectar_maps/nectar_woo_products.php:106
+msgid "Sort order"
+msgstr ""
+
+#: includes/nectar_maps/nectar_woo_products.php:111
+#, php-format
+msgid "Designates the ascending or descending order. More at %s."
+msgstr ""
+
+#: includes/nectar_maps/nectar_woo_products.php:117
+msgid ""
+"Would you like to enable pagination for this product display? (requires "
+"WooCommerce 3.2+)"
+msgstr ""
+
+#: includes/nectar_maps/nectar_woo_products.php:123
+msgid "Enable Carousel Display"
+msgstr ""
+
+#: includes/nectar_maps/nectar_woo_products.php:125
+msgid ""
+"This will override your column choice - Will not be used when Enable "
+"Pagination is on."
+msgstr ""
+
+#: includes/nectar_maps/nectar_woo_products.php:139
+msgid ""
+"Flickity is reccomended over carouFredSel - however carouFredSel is still "
+"available for legacy users who prefer it."
+msgstr ""
+
+#: includes/nectar_maps/nectar_woo_products.php:173
+msgid "Carousel Heading Text"
+msgstr ""
+
+#: includes/nectar_maps/nectar_woo_products.php:176
+msgid "Enter the heading text here."
+msgstr ""
+
+#: includes/nectar_maps/nectar_woo_products.php:195
+msgid "Carousel Link Text"
+msgstr ""
+
+#: includes/nectar_maps/nectar_woo_products.php:198
+msgid ""
+"If you'd like a link to be displayed under your heading text, enter the text "
+"for it here."
+msgstr ""
+
+#: includes/nectar_maps/nectar_woo_products.php:203
+msgid "Carousel Link URL"
+msgstr ""
+
+#: includes/nectar_maps/nectar_woo_products.php:206
+msgid "Enter the URL for your optional link."
+msgstr ""
+
+#: includes/nectar_maps/nectar_woo_products.php:210
+msgid "Add Item Shadow"
+msgstr ""
+
+#: includes/nectar_maps/nectar_woo_products.php:213
+msgid "This will add a small shadow to each item within the carousel"
+msgstr ""
+
+#: includes/nectar_maps/nectar_woo_products.php:218
+msgid "Enable Controls On Hover"
+msgstr ""
+
+#: includes/nectar_maps/nectar_woo_products.php:221
+msgid ""
+"This will add buttons for additional user control over your product carousel"
+msgstr ""
+
+#: includes/nectar_maps/page_link.php:11
+msgid "Menu Link"
+msgstr ""
+
+#: includes/nectar_maps/page_link.php:22
+msgid "Enter the text that will be displayed for your link"
+msgstr ""
+
+#: includes/nectar_maps/page_link.php:29
+msgid "Enter the URL that will be used for your link"
+msgstr ""
+
+#: includes/nectar_maps/page_link.php:41
+msgid "Page Link ID"
+msgstr ""
+
+#: includes/nectar_maps/page_submenu.php:14
+msgid "Page Submenu"
+msgstr ""
+
+#: includes/nectar_maps/page_submenu.php:20
+msgid "Great for animated anchors"
+msgstr ""
+
+#: includes/nectar_maps/page_submenu.php:24
+msgid "Link Alignment"
+msgstr ""
+
+#: includes/nectar_maps/page_submenu.php:32
+msgid "Please select your desired link alignment"
+msgstr ""
+
+#: includes/nectar_maps/page_submenu.php:40
+msgid "This will cause your submenu to stick to the top when scrolled by"
+msgstr ""
+
+#: includes/nectar_maps/page_submenu.php:45
+msgid "Menu BG Color"
+msgstr ""
+
+#: includes/nectar_maps/page_submenu.php:53
+#: includes/nectar_maps/team_member.php:182
+msgid "Link Color"
+msgstr ""
+
+#: includes/nectar_maps/page_submenu.php:67
+#: includes/nectar_maps/page_submenu.php:68
+msgid "Link"
+msgstr ""
+
+#: includes/nectar_maps/pricing_column.php:11
+msgid "Pricing Column"
+msgstr ""
+
+#: includes/nectar_maps/pricing_column.php:21
+msgid "Please enter a title for your pricing column"
+msgstr ""
+
+#: includes/nectar_maps/pricing_column.php:25
+msgid "Price"
+msgstr ""
+
+#: includes/nectar_maps/pricing_column.php:28
+msgid "Enter the price for your column"
+msgstr ""
+
+#: includes/nectar_maps/pricing_column.php:32
+msgid "Currency Symbol"
+msgstr ""
+
+#: includes/nectar_maps/pricing_column.php:34
+msgid "Enter the currency symbol that will display for your price"
+msgstr ""
+
+#: includes/nectar_maps/pricing_column.php:38
+msgid "Interval"
+msgstr ""
+
+#: includes/nectar_maps/pricing_column.php:40
+msgid "Enter the interval for your pricing e.g. \"Per Month\" or \"Per Year\" "
+msgstr ""
+
+#: includes/nectar_maps/pricing_column.php:45
+msgid "Highlight Column?"
+msgstr ""
+
+#: includes/nectar_maps/pricing_column.php:52
+msgid "Highlight Reason"
+msgstr ""
+
+#: includes/nectar_maps/pricing_column.php:54
+msgid "Enter the reason for the column being highlighted e.g. \"Most Popular\""
+msgstr ""
+
+#: includes/nectar_maps/pricing_table.php:13
+msgid "Pricing Table"
+msgstr ""
+
+#: includes/nectar_maps/pricing_table.php:19
+msgid "Stylish pricing tables"
+msgstr ""
+
+#: includes/nectar_maps/pricing_table.php:36
+msgid "Flat Alternative"
+msgstr ""
+
+#: includes/nectar_maps/recent_posts.php:23
+msgid "Recent Posts"
+msgstr ""
+
+#: includes/nectar_maps/recent_posts.php:28
+msgid "Display your recent blog posts"
+msgstr ""
+
+#: includes/nectar_maps/recent_posts.php:37
+#: includes/nectar_maps/tabbed_section.php:29
+#: includes/nectar_maps/testimonial_slider.php:29
+#: includes/nectar_maps/toggles.php:24
+msgid "Minimal"
+msgstr ""
+
+#: includes/nectar_maps/recent_posts.php:38
+msgid "Minimal - Title Only"
+msgstr ""
+
+#: includes/nectar_maps/recent_posts.php:39
+msgid "Classic Enhanced"
+msgstr ""
+
+#: includes/nectar_maps/recent_posts.php:40
+msgid "Classic Enhanced Alt"
+msgstr ""
+
+#: includes/nectar_maps/recent_posts.php:41
+msgid "List With Featured First Row"
+msgstr ""
+
+#: includes/nectar_maps/recent_posts.php:42
+msgid "List With Tall Featured First Row "
+msgstr ""
+
+#: includes/nectar_maps/recent_posts.php:43
+msgid "Slider"
+msgstr ""
+
+#: includes/nectar_maps/recent_posts.php:44
+msgid "Slider Multiple Visible"
+msgstr ""
+
+#: includes/nectar_maps/recent_posts.php:45
+msgid "Single Large Featured"
+msgstr ""
+
+#: includes/nectar_maps/recent_posts.php:46
+msgid "Multiple Large Featured"
+msgstr ""
+
+#: includes/nectar_maps/recent_posts.php:49
+msgid "Please select desired style here."
+msgstr ""
+
+#: includes/nectar_maps/recent_posts.php:53
+msgid "Color Scheme"
+msgstr ""
+
+#: includes/nectar_maps/recent_posts.php:62
+msgid "Please select your desired coloring here."
+msgstr ""
+
+#: includes/nectar_maps/recent_posts.php:66
+msgid "Slider Height"
+msgstr ""
+
+#: includes/nectar_maps/recent_posts.php:70
+msgid "Don't include \"px\" in your string. e.g. 650"
+msgstr ""
+
+#: includes/nectar_maps/recent_posts.php:79
+msgid ""
+"Please select the categories you would like to display in your recent posts. "
+"You can select multiple categories too (ctrl + click on PC and command + "
+"click on Mac)."
+msgstr ""
+
+#: includes/nectar_maps/recent_posts.php:94
+#: includes/nectar_maps/recent_posts.php:115
+msgid "Please select the number of posts you would like to display."
+msgstr ""
+
+#: includes/nectar_maps/recent_posts.php:98
+#: includes/nectar_maps/recent_posts.php:105
+msgid "Number Of Posts"
+msgstr ""
+
+#: includes/nectar_maps/recent_posts.php:121
+msgid ""
+"Optionally enter a number e.g. \"2\" to offset your posts by - useful for "
+"when you're using multiple styles of this element on the same page and would "
+"like them to no show duplicate posts"
+msgstr ""
+
+#: includes/nectar_maps/recent_posts.php:125
+msgid "Auto Rotate"
+msgstr ""
+
+#: includes/nectar_maps/recent_posts.php:142
+msgid "Please select your desired auto rotation timing here"
+msgstr ""
+
+#: includes/nectar_maps/recent_posts.php:146
+msgid "Top/Bottom Padding"
+msgstr ""
+
+#: includes/nectar_maps/recent_posts.php:161
+msgid ""
+"The % value will be applied as padding to the top and bottom of your "
+"featured post(s)"
+msgstr ""
+
+#: includes/nectar_maps/recent_posts.php:165
+msgid "Navigation Location"
+msgstr ""
+
+#: includes/nectar_maps/recent_posts.php:174
+msgid "Please select where you would like the navigation to display"
+msgstr ""
+
+#: includes/nectar_maps/recent_posts.php:178
+msgid "Enable Title Labels"
+msgstr ""
+
+#: includes/nectar_maps/recent_posts.php:180
+msgid ""
+"These labels are defined by you in the \"Blog Options\" tab of your theme "
+"options panel."
+msgstr ""
+
+#: includes/nectar_maps/recent_posts.php:202
+msgid "Hover Shadow Type"
+msgstr ""
+
+#: includes/nectar_maps/recent_posts.php:210
+msgid ""
+"Please select your desired shadow color that will appear when hovering over "
+"posts."
+msgstr ""
+
+#: includes/nectar_maps/recent_posts.php:214
+msgid "BG Overlay"
+msgstr ""
+
+#: includes/nectar_maps/recent_posts.php:223
+msgid "Please select your desired BG overlay here."
+msgstr ""
+
+#: includes/nectar_maps/shortcode-vc-wp-custommenu.php:19
+msgid "Custom Menu"
+msgstr ""
+
+#: includes/nectar_maps/shortcode-vc-wp-custommenu.php:25
+msgid "Add one of your custom menus as a widget"
+msgstr ""
+
+#: includes/nectar_maps/shortcode-vc-wp-custommenu.php:29
+msgid "Widget title"
+msgstr ""
+
+#: includes/nectar_maps/shortcode-vc-wp-custommenu.php:31
+msgid ""
+"What text use as a widget title. Leave blank to use default widget title."
+msgstr ""
+
+#: includes/nectar_maps/shortcode-vc-wp-custommenu.php:35
+#: includes/vc_templates/page_submenu.php:17
+msgid "Menu"
+msgstr ""
+
+#: includes/nectar_maps/shortcode-vc-wp-custommenu.php:38
+msgid ""
+"Custom menus not found. Please visit the Appearance > Menus page to create "
+"new menu."
+msgstr ""
+
+#: includes/nectar_maps/shortcode-vc-wp-custommenu.php:38
+msgid "Select menu to display."
+msgstr ""
+
+#: includes/nectar_maps/shortcode-vc-wp-custommenu.php:46
+msgid ""
+"Style particular content element differently - add a class name and refer to "
+"it in custom CSS."
+msgstr ""
+
+#: includes/nectar_maps/split_line_heading.php:9
+msgid "Split Line Heading"
+msgstr ""
+
+#: includes/nectar_maps/split_line_heading.php:14
+msgid "Animated multi line heading"
+msgstr ""
+
+#: includes/nectar_maps/split_line_heading.php:22
+msgid ""
+"Each Line of this editor will be animated separately. Separate text with the "
+"Enter or Return key on your Keyboard."
+msgstr ""
+
+#: includes/nectar_maps/tab.php:11 includes/nectar_maps/tabbed_section.php:160
+#: includes/nectar_maps/tabbed_section.php:161
+msgid "Tab"
+msgstr ""
+
+#: includes/nectar_maps/tab.php:21
+msgid "Tab title."
+msgstr ""
+
+#: includes/nectar_maps/tabbed_section.php:13
+msgid "Tabs"
+msgstr ""
+
+#: includes/nectar_maps/tabbed_section.php:19
+msgid "Tabbed content"
+msgstr ""
+
+#: includes/nectar_maps/tabbed_section.php:28
+msgid "Material"
+msgstr ""
+
+#: includes/nectar_maps/tabbed_section.php:30
+msgid "Minimal Alt"
+msgstr ""
+
+#: includes/nectar_maps/tabbed_section.php:32
+msgid "Vertical Material"
+msgstr ""
+
+#: includes/nectar_maps/tabbed_section.php:35
+msgid "Please select the style you desire for your tabbed element."
+msgstr ""
+
+#: includes/nectar_maps/tabbed_section.php:49
+msgid "Please select your tabbed alignment"
+msgstr ""
+
+#: includes/nectar_maps/tabbed_section.php:53
+msgid "Spacing"
+msgstr ""
+
+#: includes/nectar_maps/tabbed_section.php:68
+msgid "Please select your desired spacing"
+msgstr ""
+
+#: includes/nectar_maps/tabbed_section.php:87
+msgid "Optional CTA button"
+msgstr ""
+
+#: includes/nectar_maps/tabbed_section.php:89
+msgid ""
+"If you wish to include an optional CTA button on your tabbed nav, enter the "
+"text here"
+msgstr ""
+
+#: includes/nectar_maps/tabbed_section.php:95
+msgid "CTA button link"
+msgstr ""
+
+#: includes/nectar_maps/tabbed_section.php:97
+msgid "Enter a URL for your button link here"
+msgstr ""
+
+#: includes/nectar_maps/tabbed_section.php:119
+msgid "Full width divider line"
+msgstr ""
+
+#: includes/nectar_maps/tabbed_section.php:121
+msgid ""
+"This will cause the line that separates the tab links their content to "
+"display the full width of the screen."
+msgstr ""
+
+#: includes/nectar_maps/tabbed_section.php:128
+msgid "Icon Font Size"
+msgstr ""
+
+#: includes/nectar_maps/tabbed_section.php:142
+msgid ""
+"Select the size you would like the optional tab icons to display in - Thin "
+"border sets like \"Iconsmind\" and \"Linea\" are better suited to display at "
+"higher values."
+msgstr ""
+
+#: includes/nectar_maps/team_member.php:9
+msgid "Team Member"
+msgstr ""
+
+#: includes/nectar_maps/team_member.php:13
+msgid "Add a team member element"
+msgstr ""
+
+#: includes/nectar_maps/team_member.php:24
+msgid "Bio Image"
+msgstr ""
+
+#: includes/nectar_maps/team_member.php:28
+msgid "Image Size Guidelines"
+msgstr ""
+
+#: includes/nectar_maps/team_member.php:28
+msgid "Bio Image:"
+msgstr ""
+
+#: includes/nectar_maps/team_member.php:28
+#, php-format
+msgid ""
+"large with a portrait aspect ratio - will be shown at the full screen height "
+"at 50% of the page width."
+msgstr ""
+
+#: includes/nectar_maps/team_member.php:28
+msgid "Team Small Image:"
+msgstr ""
+
+#: includes/nectar_maps/team_member.php:28
+msgid ""
+"Will display at 500x500 so ensure the image you're uploading is at least "
+"that size."
+msgstr ""
+
+#: includes/nectar_maps/team_member.php:32
+msgid "Team Member Stlye"
+msgstr ""
+
+#: includes/nectar_maps/team_member.php:35
+msgid "Meta below"
+msgstr ""
+
+#: includes/nectar_maps/team_member.php:36
+msgid "Meta overlaid"
+msgstr ""
+
+#: includes/nectar_maps/team_member.php:37
+msgid "Meta overlaid alt"
+msgstr ""
+
+#: includes/nectar_maps/team_member.php:38
+msgid "Bio Shown Fullscreen Modal"
+msgstr ""
+
+#: includes/nectar_maps/team_member.php:41
+msgid "Please select the style you desire for your team member."
+msgstr ""
+
+#: includes/nectar_maps/team_member.php:48
+msgid "Please enter the name of your team member"
+msgstr ""
+
+#: includes/nectar_maps/team_member.php:52
+msgid "Job Position"
+msgstr ""
+
+#: includes/nectar_maps/team_member.php:55
+msgid "Please enter the job position for your team member"
+msgstr ""
+
+#: includes/nectar_maps/team_member.php:59
+msgid "Team Member Bio"
+msgstr ""
+
+#: includes/nectar_maps/team_member.php:61
+#: includes/nectar_maps/team_member.php:68
+msgid "The main text portion of your team member"
+msgstr ""
+
+#: includes/nectar_maps/team_member.php:66
+msgid "Description"
+msgstr ""
+
+#: includes/nectar_maps/team_member.php:73
+msgid "Social Icon"
+msgstr ""
+
+#: includes/nectar_maps/team_member.php:81
+msgid "Social Link"
+msgstr ""
+
+#: includes/nectar_maps/team_member.php:84
+#: includes/nectar_maps/team_member.php:99
+#: includes/nectar_maps/team_member.php:115
+#: includes/nectar_maps/team_member.php:131
+msgid "Please enter the URL here"
+msgstr ""
+
+#: includes/nectar_maps/team_member.php:88
+msgid "Social Icon 2"
+msgstr ""
+
+#: includes/nectar_maps/team_member.php:96
+msgid "Social Link 2"
+msgstr ""
+
+#: includes/nectar_maps/team_member.php:104
+msgid "Social Icon 3"
+msgstr ""
+
+#: includes/nectar_maps/team_member.php:112
+msgid "Social Link 3"
+msgstr ""
+
+#: includes/nectar_maps/team_member.php:120
+msgid "Social Icon 4"
+msgstr ""
+
+#: includes/nectar_maps/team_member.php:128
+msgid "Social Link 4"
+msgstr ""
+
+#: includes/nectar_maps/team_member.php:136
+msgid "Social Media"
+msgstr ""
+
+#: includes/nectar_maps/team_member.php:139
+msgid ""
+"Enter any social media links with a comma separated list. e.g. Facebook,"
+"http://facebook.com, Twitter,http://twitter.com"
+msgstr ""
+
+#: includes/nectar_maps/team_member.php:143
+msgid "Team Member Link Type"
+msgstr ""
+
+#: includes/nectar_maps/team_member.php:153
+msgid "Please select how you wish to link your team member to an arbitrary URL"
+msgstr ""
+
+#: includes/nectar_maps/team_member.php:157
+#: includes/nectar_maps/team_member.php:165
+msgid "Team Member Link URL"
+msgstr ""
+
+#: includes/nectar_maps/team_member.php:160
+#: includes/nectar_maps/team_member.php:168
+msgid "Please enter the URL for your team member link"
+msgstr ""
+
+#: includes/nectar_maps/testimonial.php:11
+#: includes/nectar_maps/testimonial_slider.php:107
+#: includes/nectar_maps/testimonial_slider.php:108
+msgid "Testimonial"
+msgstr ""
+
+#: includes/nectar_maps/testimonial.php:56
+msgid "Star Rating"
+msgstr ""
+
+#: includes/nectar_maps/testimonial.php:72
+msgid ""
+"Please select the star raing you would like to show for your testimonial"
+msgstr ""
+
+#: includes/nectar_maps/testimonial.php:76
+msgid "Testimonial ID"
+msgstr ""
+
+#: includes/nectar_maps/testimonial_slider.php:14
+msgid "Testimonial Slider"
+msgstr ""
+
+#: includes/nectar_maps/testimonial_slider.php:20
+msgid "An appealing testmonial slider."
+msgstr ""
+
+#: includes/nectar_maps/testimonial_slider.php:28
+msgid "Basic (Default)"
+msgstr ""
+
+#: includes/nectar_maps/testimonial_slider.php:30
+msgid "Multiple Visible"
+msgstr ""
+
+#: includes/nectar_maps/testimonial_slider.php:31
+msgid "Multiple Visible Minimal"
+msgstr ""
+
+#: includes/nectar_maps/testimonial_slider.php:34
+msgid "Please select the style for your testimonial slider"
+msgstr ""
+
+#: includes/nectar_maps/testimonial_slider.php:58
+msgid "Star Rating Color"
+msgstr ""
+
+#: includes/nectar_maps/testimonial_slider.php:80
+msgid "This will add a slight border to your testimonials"
+msgstr ""
+
+#: includes/nectar_maps/testimonial_slider.php:84
+msgid "Auto rotate?"
+msgstr ""
+
+#: includes/nectar_maps/testimonial_slider.php:87
+msgid ""
+"If you would like this to autorotate, enter the rotation speed in "
+"milliseconds here. i.e 5000"
+msgstr ""
+
+#: includes/nectar_maps/testimonial_slider.php:96
+msgid ""
+"Your testimonial slider will animate the height of itself to match the "
+"height of the testimonial being shown - this will remove that and simply set "
+"the height equal to the tallest testimonial to allow your content below to "
+"remain stagnant instead of moving up/down."
+msgstr ""
+
+#: includes/nectar_maps/text-with-icon.php:846
+msgid "Text With Icon"
+msgstr ""
+
+#: includes/nectar_maps/text-with-icon.php:851
+msgid "Add a text block with stylish icon"
+msgstr ""
+
+#: includes/nectar_maps/text-with-icon.php:863
+msgid "Please select type of icon you would like for the text block"
+msgstr ""
+
+#: includes/nectar_maps/text-with-icon.php:893
+msgid "Icon Image"
+msgstr ""
+
+#: includes/nectar_maps/toggle.php:9 includes/nectar_maps/toggles.php:47
+#: includes/nectar_maps/toggles.php:48
+msgid "Section"
+msgstr ""
+
+#: includes/nectar_maps/toggle.php:19
+msgid "Accordion section title."
+msgstr ""
+
+#: includes/nectar_maps/toggles.php:9
+msgid "Toggle Panels"
+msgstr ""
+
+#: includes/nectar_maps/toggles.php:15
+msgid "jQuery toggles/accordion"
+msgstr ""
+
+#: includes/nectar_maps/toggles.php:25
+msgid "Minimal Small"
+msgstr ""
+
+#: includes/nectar_maps/toggles.php:28
+msgid "Please select the style you desire for your toggle element."
+msgstr ""
+
+#: includes/nectar_maps/toggles.php:32
+msgid "Accordion Toggles"
+msgstr ""
+
+#: includes/nectar_maps/toggles.php:34
+msgid ""
+"Selecting this will make it so that only one toggle can be opened at a time."
+msgstr ""
+
+#: includes/nectar_maps/toggles.php:35
+msgid "Allow"
+msgstr ""
+
+#: includes/nectar_maps/toggles.php:43
+msgid "Add section"
+msgstr ""
+
+#: includes/partials/blog/entry.php:35
+#: includes/vc_templates/recent_posts.php:508
+#: includes/vc_templates/recent_posts.php:647
+msgid "In"
+msgstr ""
+
+#: includes/partials/blog/entry.php:77
+#: includes/vc_templates/recent_posts.php:267
+#: includes/vc_templates/recent_posts.php:530
+msgid "Read More"
+msgstr ""
+
+#: includes/salient-notice/notice.php:10
+msgid "Salient Core Plugin Notice"
+msgstr ""
+
+#: includes/salient-notice/notice.php:11
+msgid ""
+"The \"Salient Core\" plugin is active, but the Salient version of the "
+"WPBakery page builder is not. Please deactivate the version of the WPBakery "
+"page builder plugin you currently have active and use the Salient specific "
+"one instead if you wish to make use of the Salient core element set."
+msgstr ""
+
+#: includes/salient-studio-templates.php:16 includes/wpbakery-init.php:131
+msgid "About"
+msgstr ""
+
+#: includes/salient-studio-templates.php:19 includes/wpbakery-init.php:134
+msgid "Counters"
+msgstr ""
+
+#: includes/salient-studio-templates.php:20 includes/wpbakery-init.php:135
+msgid "General"
+msgstr ""
+
+#: includes/salient-studio-templates.php:21 includes/wpbakery-init.php:136
+msgid "Icons"
+msgstr ""
+
+#: includes/salient-studio-templates.php:22 includes/wpbakery-init.php:137
+msgid "Hero Section"
+msgstr ""
+
+#: includes/salient-studio-templates.php:23 includes/wpbakery-init.php:138
+msgid "Map"
+msgstr ""
+
+#: includes/salient-studio-templates.php:24 includes/wpbakery-init.php:139
+msgid "Project"
+msgstr ""
+
+#: includes/salient-studio-templates.php:25 includes/wpbakery-init.php:140
+msgid "Pricing"
+msgstr ""
+
+#: includes/salient-studio-templates.php:26 includes/wpbakery-init.php:141
+msgid "Services"
+msgstr ""
+
+#: includes/salient-studio-templates.php:27 includes/wpbakery-init.php:142
+msgid "Team"
+msgstr ""
+
+#: includes/salient-studio-templates.php:28 includes/wpbakery-init.php:143
+msgid "Testimonials"
+msgstr ""
+
+#: includes/salient-studio-templates.php:29 includes/wpbakery-init.php:144
+msgid "Shop"
+msgstr ""
+
+#: includes/salient-studio-templates.php:35
+msgid "SVG Draw Animation Icons"
+msgstr ""
+
+#: includes/salient-studio-templates.php:61
+msgid "Mouse Based Parallax"
+msgstr ""
+
+#: includes/salient-studio-templates.php:73
+msgid "Fondly Simple Service List"
+msgstr ""
+
+#: includes/salient-studio-templates.php:91
+msgid "Restaurant CTA"
+msgstr ""
+
+#: includes/salient-studio-templates.php:106
+msgid "Tour Schedule Dark"
+msgstr ""
+
+#: includes/salient-studio-templates.php:122
+msgid "Awesome Shape Divider Hero"
+msgstr ""
+
+#: includes/salient-studio-templates.php:140
+msgid "Color Changing Client Rows"
+msgstr ""
+
+#: includes/salient-studio-templates.php:154
+msgid "Delightful Service Blocks"
+msgstr ""
+
+#: includes/salient-studio-templates.php:182
+msgid "Quick FAQ & Overflowing Image"
+msgstr ""
+
+#: includes/salient-studio-templates.php:198
+msgid "Monotone Milestones"
+msgstr ""
+
+#: includes/salient-studio-templates.php:214
+msgid "Auto Masonry Recent Posts"
+msgstr ""
+
+#: includes/salient-studio-templates.php:229
+msgid "Rounded Box Over Shape Divider"
+msgstr ""
+
+#: includes/salient-studio-templates.php:243
+msgid "Impactful Header Text"
+msgstr ""
+
+#: includes/salient-studio-templates.php:259
+msgid "Testimonial Popout"
+msgstr ""
+
+#: includes/salient-studio-templates.php:272
+msgid "Team Overlapping Section Below"
+msgstr ""
+
+#: includes/salient-studio-templates.php:286
+msgid "Overflowing Testimonials & Text Snippet"
+msgstr ""
+
+#: includes/salient-studio-templates.php:304
+msgid "Info/Contact Box Overlapping Map"
+msgstr ""
+
+#: includes/salient-studio-templates.php:324
+msgid "Company Values & Quote Section"
+msgstr ""
+
+#: includes/salient-studio-templates.php:352
+msgid "Overflowing Team Members & Text Snippet"
+msgstr ""
+
+#: includes/salient-studio-templates.php:369
+msgid "Team About Us Blurb"
+msgstr ""
+
+#: includes/salient-studio-templates.php:388
+msgid "Fancy Box Hover Color Effect"
+msgstr ""
+
+#: includes/salient-studio-templates.php:415
+msgid "Two Rounded Color Boxes Over Shape Divider"
+msgstr ""
+
+#: includes/salient-studio-templates.php:430
+msgid "Creative Header With Shape Divider"
+msgstr ""
+
+#: includes/salient-studio-templates.php:448
+msgid "Clever Overlapping Quote"
+msgstr ""
+
+#: includes/salient-studio-templates.php:463
+msgid "Fancy Box Fullwidth Parallax"
+msgstr ""
+
+#: includes/salient-studio-templates.php:490
+msgid "Gradient Header And Text"
+msgstr ""
+
+#: includes/salient-studio-templates.php:504
+msgid "Fancy Box Color Hover Gradient"
+msgstr ""
+
+#: includes/salient-studio-templates.php:528
+msgid "Row of Featured Posts"
+msgstr ""
+
+#: includes/salient-studio-templates.php:544
+msgid "Posts Slider Right Nav"
+msgstr ""
+
+#: includes/salient-studio-templates.php:558
+msgid "Overlapping Posts Slider & Masonry Blog"
+msgstr ""
+
+#: includes/salient-studio-templates.php:572
+msgid "Sticky Sidebar & Left Featured Image Posts"
+msgstr ""
+
+#: includes/salient-studio-templates.php:586
+msgid "Multiple Visible Recent Post Slider"
+msgstr ""
+
+#: includes/salient-studio-templates.php:600
+msgid "Random Posts Featured Top Row"
+msgstr ""
+
+#: includes/salient-studio-templates.php:616
+msgid "Cool Dark Auto Masonry Blog & Featured Top Post"
+msgstr ""
+
+#: includes/salient-studio-templates.php:629
+msgid "Pretty Dark CTA Gradient Button"
+msgstr ""
+
+#: includes/salient-studio-templates.php:643
+msgid "Two Recent Posts Dark Background"
+msgstr ""
+
+#: includes/salient-studio-templates.php:658
+msgid "Bottom Navigation Recent Post Slider"
+msgstr ""
+
+#: includes/salient-studio-templates.php:671
+msgid "Pricing Gradient Boxes"
+msgstr ""
+
+#: includes/salient-studio-templates.php:706
+msgid "Simple Single Quote"
+msgstr ""
+
+#: includes/salient-studio-templates.php:719
+msgid "Material Masonry Blog Posts"
+msgstr ""
+
+#: includes/salient-studio-templates.php:732
+msgid "Posts With Featured Row & Sticky Sidebar"
+msgstr ""
+
+#: includes/salient-studio-templates.php:745
+msgid "Four Boxes And Text With Dark Image BG "
+msgstr ""
+
+#: includes/salient-studio-templates.php:771
+msgid "Grid Based Testimonials Dark"
+msgstr ""
+
+#: includes/salient-studio-templates.php:789
+msgid "Dark Pricing Gradient Boxes"
+msgstr ""
+
+#: includes/salient-studio-templates.php:824
+msgid "Service Boxes Dark Gradient Coloring"
+msgstr ""
+
+#: includes/salient-studio-templates.php:850
+msgid "Excellent Hero With BG Image"
+msgstr ""
+
+#: includes/salient-studio-templates.php:872
+msgid "Simple Client Carousel"
+msgstr ""
+
+#: includes/salient-studio-templates.php:886
+msgid "Shape Divider Hero Solid Color"
+msgstr ""
+
+#: includes/salient-studio-templates.php:903
+msgid "Image And Text With Dark Image BG"
+msgstr ""
+
+#: includes/salient-studio-templates.php:918
+msgid "Pricing Table 4 Column Dark"
+msgstr ""
+
+#: includes/salient-studio-templates.php:960
+msgid "FAQ Toggles And Image"
+msgstr ""
+
+#: includes/salient-studio-templates.php:975
+msgid "Huge Image Transition Hero"
+msgstr ""
+
+#: includes/salient-studio-templates.php:989
+msgid "Layout Text Block Dark"
+msgstr ""
+
+#: includes/salient-studio-templates.php:1003
+msgid "Minimal Pricing Table"
+msgstr ""
+
+#: includes/salient-studio-templates.php:1014
+msgid "Team Members Full Width Meta Overlaid"
+msgstr ""
+
+#: includes/salient-studio-templates.php:1026
+msgid "Incisive Text Columns"
+msgstr ""
+
+#: includes/salient-studio-templates.php:1044
+msgid "Enhanced Recent Posts"
+msgstr ""
+
+#: includes/salient-studio-templates.php:1056
+msgid "Youtube Video Background Row With Video Lightbox"
+msgstr ""
+
+#: includes/salient-studio-templates.php:1068
+msgid "Image Overflowing Left Of Screen & Gradient Header"
+msgstr ""
+
+#: includes/salient-studio-templates.php:1088
+msgid "Flip Box Carousel"
+msgstr ""
+
+#: includes/salient-studio-templates.php:1123
+msgid "Pricing Table Dark"
+msgstr ""
+
+#: includes/salient-studio-templates.php:1171
+msgid "Image Overflowing Right Of Screen & Numerical Icon List"
+msgstr ""
+
+#: includes/salient-studio-templates.php:1183
+msgid "Simple Text Columns"
+msgstr ""
+
+#: includes/salient-studio-templates.php:1201
+msgid "Testimonial Slider Parallax"
+msgstr ""
+
+#: includes/salient-studio-templates.php:1213
+msgid "Practical Map & Contact Info Split"
+msgstr ""
+
+#: includes/salient-studio-templates.php:1237
+msgid "Map & Contact Info Split"
+msgstr ""
+
+#: includes/salient-studio-templates.php:1261
+msgid "The Awards Section Dark"
+msgstr ""
+
+#: includes/salient-studio-templates.php:1275
+msgid "Well-made Intro Section Dark"
+msgstr ""
+
+#: includes/salient-studio-templates.php:1291
+msgid "Fullscreen Recent Project Slider"
+msgstr ""
+
+#: includes/salient-studio-templates.php:1303
+msgid "Minimal Dark About Section"
+msgstr ""
+
+#: includes/salient-studio-templates.php:1315
+msgid "Video Background Testimonial Slider Dark"
+msgstr ""
+
+#: includes/salient-studio-templates.php:1328
+msgid "Restaurant Food Menu (Tabbed)"
+msgstr ""
+
+#: includes/salient-studio-templates.php:1374
+msgid "Enticing Dual Fancy Box"
+msgstr ""
+
+#: includes/salient-studio-templates.php:1393
+msgid "Innovative Gradient Hero"
+msgstr ""
+
+#: includes/salient-studio-templates.php:1406
+msgid "Modern Recent Posts Dark"
+msgstr ""
+
+#: includes/salient-studio-templates.php:1418
+msgid "Weather Animated Icon Columns"
+msgstr ""
+
+#: includes/salient-studio-templates.php:1438
+msgid "Exciting Services"
+msgstr ""
+
+#: includes/salient-studio-templates.php:1458
+msgid "Gradient Testimonials With Star Ratings"
+msgstr ""
+
+#: includes/salient-studio-templates.php:1470
+msgid "Minimal Dark Testimonials"
+msgstr ""
+
+#: includes/salient-studio-templates.php:1482
+msgid "About Me - Fullscreen vCard"
+msgstr ""
+
+#: includes/salient-studio-templates.php:1494
+msgid "Section CTA"
+msgstr ""
+
+#: includes/salient-studio-templates.php:1506
+msgid "Intense Colorful CTA Section"
+msgstr ""
+
+#: includes/salient-studio-templates.php:1523
+msgid "Motion Blur Milestone"
+msgstr ""
+
+#: includes/salient-studio-templates.php:1542
+msgid "Modern Service List"
+msgstr ""
+
+#: includes/salient-studio-templates.php:1566
+msgid "Three Fullwidth Columns"
+msgstr ""
+
+#: includes/salient-studio-templates.php:1584
+msgid "Interesting Milestones"
+msgstr ""
+
+#: includes/salient-studio-templates.php:1596
+msgid "Alternating Split Sections"
+msgstr ""
+
+#: includes/salient-studio-templates.php:1609
+msgid "Flawless Business Hero"
+msgstr ""
+
+#: includes/salient-studio-templates.php:1634
+msgid "Phone & Icon List"
+msgstr ""
+
+#: includes/salient-studio-templates.php:1654
+msgid "Cascading Image & Text Section"
+msgstr ""
+
+#: includes/salient-studio-templates.php:1668
+msgid "Gradient Pricing Columns"
+msgstr ""
+
+#: includes/salient-studio-templates.php:1689
+msgid "Fullscreen Pricing Grid"
+msgstr ""
+
+#: includes/salient-studio-templates.php:1707
+msgid "Full Width Parallax Posts Slider"
+msgstr ""
+
+#: includes/salient-studio-templates.php:1719
+msgid "Minimal Color CTA Section"
+msgstr ""
+
+#: includes/salient-studio-templates.php:1731
+msgid "Video Lightbox  Inline With Text"
+msgstr ""
+
+#: includes/salient-studio-templates.php:1742
+msgid "Layout Text Block"
+msgstr ""
+
+#: includes/salient-studio-templates.php:1756
+msgid "Imaginative Video CTA Section"
+msgstr ""
+
+#: includes/salient-studio-templates.php:1771
+msgid "Parallax Posts Slider"
+msgstr ""
+
+#: includes/salient-studio-templates.php:1783
+msgid "Moving CTA Section"
+msgstr ""
+
+#: includes/salient-studio-templates.php:1795
+msgid "Sweet Hero Section"
+msgstr ""
+
+#: includes/salient-studio-templates.php:1810
+msgid "Recent Posts Dark Color Scheme"
+msgstr ""
+
+#: includes/salient-studio-templates.php:1822
+msgid "Features With Background Color Overlay"
+msgstr ""
+
+#: includes/salient-studio-templates.php:1842
+msgid "Creative Hero With Device"
+msgstr ""
+
+#: includes/salient-studio-templates.php:1857
+msgid "Hot Hero Tablet Section"
+msgstr ""
+
+#: includes/salient-studio-templates.php:1871
+msgid "Direct Minimal Hero"
+msgstr ""
+
+#: includes/salient-studio-templates.php:1885
+msgid "Fancy Hero Section"
+msgstr ""
+
+#: includes/salient-studio-templates.php:1897
+msgid "Wireframe Structure Of A Fixed Page Submenu"
+msgstr ""
+
+#: includes/salient-studio-templates.php:1909
+msgid "Simple Hero With Gradient CTA Button"
+msgstr ""
+
+#: includes/salient-studio-templates.php:1923
+msgid "Project With Video Player"
+msgstr ""
+
+#: includes/salient-studio-templates.php:1947
+msgid "Overlapping Testimonial Section"
+msgstr ""
+
+#: includes/salient-studio-templates.php:1960
+msgid "Split Large Icon Column & Animated Titles"
+msgstr ""
+
+#: includes/salient-studio-templates.php:1972
+msgid "Minimal Jumbo Button With 3D Hover Effect"
+msgstr ""
+
+#: includes/salient-studio-templates.php:1984
+msgid "Icon Sections, Dual With Gradient Coloring"
+msgstr ""
+
+#: includes/salient-studio-templates.php:2000
+msgid "Split Line Heading & Video Background"
+msgstr ""
+
+#: includes/salient-studio-templates.php:2015
+msgid "Section With Cascading Images"
+msgstr ""
+
+#: includes/salient-studio-templates.php:2030
+msgid "Fullscreen Biography On Click Team Members"
+msgstr ""
+
+#: includes/salient-studio-templates.php:2041
+msgid "Fulfilling Recent Blog Posts"
+msgstr ""
+
+#: includes/salient-studio-templates.php:2053
+msgid "Image Overflowing Sections"
+msgstr ""
+
+#: includes/salient-studio-templates.php:2065
+msgid "Image Gallery Project"
+msgstr ""
+
+#: includes/salient-studio-templates.php:2087
+msgid "Minimal CTA Section With Flip In Animation"
+msgstr ""
+
+#: includes/salient-studio-templates.php:2102
+msgid "Well-made Intro Section"
+msgstr ""
+
+#: includes/salient-studio-templates.php:2118
+msgid "Red(ish) Background Milestones"
+msgstr ""
+
+#: includes/salient-studio-templates.php:2130
+msgid "Flip Box Services"
+msgstr ""
+
+#: includes/salient-studio-templates.php:2158
+msgid "Minimal Testimonial Slider"
+msgstr ""
+
+#: includes/salient-studio-templates.php:2171
+msgid "Three Columns With Icons & Text Block"
+msgstr ""
+
+#: includes/salient-studio-templates.php:2189
+msgid "Single Project Simple"
+msgstr ""
+
+#: includes/salient-studio-templates.php:2218
+msgid "Single Project With Gallery Slider"
+msgstr ""
+
+#: includes/salient-studio-templates.php:2242
+msgid "Info Boxes Bordered & Heading"
+msgstr ""
+
+#: includes/salient-studio-templates.php:2256
+msgid "Info Box Right Animated & Dark"
+msgstr ""
+
+#: includes/salient-studio-templates.php:2271
+msgid "Touch Enabled Gallery With Arrows"
+msgstr ""
+
+#: includes/salient-studio-templates.php:2283
+msgid "Services & Company Gradient Intro Dark"
+msgstr ""
+
+#: includes/salient-studio-templates.php:2307
+msgid "Icons With SVG Draw Animation 4 Columns"
+msgstr ""
+
+#: includes/salient-studio-templates.php:2331
+msgid "Services With BG Hover"
+msgstr ""
+
+#: includes/salient-studio-templates.php:2351
+msgid "Before & After"
+msgstr ""
+
+#: includes/salient-studio-templates.php:2369
+msgid "Hero Gradient Overlay With Video Lightbox"
+msgstr ""
+
+#: includes/salient-studio-templates.php:2385
+msgid "Bold Touch Enabled Testimonials"
+msgstr ""
+
+#: includes/salient-studio-templates.php:2397
+msgid "Light Cascading Images"
+msgstr ""
+
+#: includes/salient-studio-templates.php:2412
+msgid "Dark Cascading Images"
+msgstr ""
+
+#: includes/salient-studio-templates.php:2427
+msgid "Colorful Blocks"
+msgstr ""
+
+#: includes/salient-studio-templates.php:2439
+msgid "Testimonials With Color Background"
+msgstr ""
+
+#: includes/salient-studio-templates.php:2453
+msgid "Video Lightbox With Preview Image"
+msgstr ""
+
+#: includes/salient-studio-templates.php:2467
+msgid "Trusty Milestones With Dark Background"
+msgstr ""
+
+#: includes/salient-studio-templates.php:2479
+msgid "Colors Used In Case Study"
+msgstr ""
+
+#: includes/salient-studio-templates.php:2501
+msgid "Fonts & Colors Used In Case Study"
+msgstr ""
+
+#: includes/salient-studio-templates.php:2516
+msgid "Project Header With Gradient"
+msgstr ""
+
+#: includes/salient-studio-templates.php:2549
+msgid "Project Colors & Fonts Used Alternative"
+msgstr ""
+
+#: includes/salient-studio-templates.php:2572
+msgid "Project Colors & Fonts Used"
+msgstr ""
+
+#: includes/salient-studio-templates.php:2596
+msgid "Project Header"
+msgstr ""
+
+#: includes/salient-studio-templates.php:2630
+msgid "Project Header Dark Background"
+msgstr ""
+
+#: includes/salient-studio-templates.php:2664
+msgid "Milestone With Icons Hero"
+msgstr ""
+
+#: includes/salient-studio-templates.php:2679
+msgid "Minimal Header With CTA"
+msgstr ""
+
+#: includes/salient-studio-templates.php:2693
+msgid "Parallax Video Lightbox Row Dark"
+msgstr ""
+
+#: includes/salient-studio-templates.php:2709
+msgid "Project Header Alternative"
+msgstr ""
+
+#: includes/salient-studio-templates.php:2723
+msgid "Google Map Flat"
+msgstr ""
+
+#: includes/salient-studio-templates.php:2736
+msgid "Four Visible, Touch Enabled Gallery"
+msgstr ""
+
+#: includes/salient-studio-templates.php:2748
+msgid "Three Visible, Touch Enabled Gallery Dark"
+msgstr ""
+
+#: includes/salient-studio-templates.php:2760
+msgid "Nifty Hero With Bottom Columns & Gradient Overlay"
+msgstr ""
+
+#: includes/salient-studio-templates.php:2781
+msgid "Fresh Background Hero Full Height Section"
+msgstr ""
+
+#: includes/salient-studio-templates.php:2792
+msgid "Simple Google Map"
+msgstr ""
+
+#: includes/salient-studio-templates.php:2805
+msgid "Milestones"
+msgstr ""
+
+#: includes/salient-studio-templates.php:2819
+msgid "Flat Dark Scheme Map"
+msgstr ""
+
+#: includes/salient-studio-templates.php:2831
+msgid "Map Section Dark Scheme"
+msgstr ""
+
+#: includes/salient-studio-templates.php:2845
+msgid "Gradient Icons Dark Background"
+msgstr ""
+
+#: includes/salient-studio-templates.php:2869
+msgid "Team Member Carousel (Classic Style)"
+msgstr ""
+
+#: includes/salient-studio-templates.php:2881
+msgid "Two Info Boxes"
+msgstr ""
+
+#: includes/salient-studio-templates.php:2897
+msgid "Misty Background Info Boxes"
+msgstr ""
+
+#: includes/salient-studio-templates.php:2909
+msgid "Side Area With Toggle Panels"
+msgstr ""
+
+#: includes/salient-studio-templates.php:2921
+msgid "Full Height Split Section"
+msgstr ""
+
+#: includes/salient-studio-templates.php:2933
+msgid "Brilliant Animated Hero Section"
+msgstr ""
+
+#: includes/salient-studio-templates.php:2960
+msgid "Professional Info & Icon List "
+msgstr ""
+
+#: includes/salient-studio-templates.php:2978
+msgid "Mighty Split - Gradient Icons & Info "
+msgstr ""
+
+#: includes/salient-studio-templates.php:2997
+msgid "Info Boxes & Testimonial"
+msgstr ""
+
+#: includes/salient-studio-templates.php:3015
+msgid "Hero With Video, Testimonial & Info Columns"
+msgstr ""
+
+#: includes/salient-studio-templates.php:3034
+msgid "Image Overflowing Left Dark Hero"
+msgstr ""
+
+#: includes/salient-studio-templates.php:3054
+msgid "Image Overflowing Right Dark Hero"
+msgstr ""
+
+#: includes/salient-studio-templates.php:3074
+msgid "Parallax Image Background"
+msgstr ""
+
+#: includes/salient-studio-templates.php:3087
+msgid "Minimal CTA Strip"
+msgstr ""
+
+#: includes/salient-studio-templates.php:3099
+msgid "Device Video Hero"
+msgstr ""
+
+#: includes/salient-studio-templates.php:3117
+msgid "Pristine Team"
+msgstr ""
+
+#: includes/salient-studio-templates.php:3129
+msgid "Pie Chart Three Columns"
+msgstr ""
+
+#: includes/salient-studio-templates.php:3141
+msgid "Minimal CTA Strip Alt"
+msgstr ""
+
+#: includes/salient-studio-templates.php:3152
+msgid "vCard Minimal Colorful"
+msgstr ""
+
+#: includes/salient-studio-templates.php:3178
+msgid "vCard Minimal"
+msgstr ""
+
+#: includes/salient-studio-templates.php:3204
+msgid "Personal Story"
+msgstr ""
+
+#: includes/salient-studio-templates.php:3228
+msgid "Fancy Horizontal Tabbed Section"
+msgstr ""
+
+#: includes/salient-studio-templates.php:3298
+msgid "Video Player Lightbox"
+msgstr ""
+
+#: includes/salient-studio-templates.php:3313
+msgid "Recent Posts Grid Minimal "
+msgstr ""
+
+#: includes/salient-studio-templates.php:3326
+msgid "Video Lightboxes"
+msgstr ""
+
+#: includes/salient-studio-templates.php:3348
+msgid "Product Specifications Dark"
+msgstr ""
+
+#: includes/salient-studio-templates.php:3372
+msgid "Hotspot Tooltips"
+msgstr ""
+
+#: includes/salient-studio-templates.php:3395
+msgid "Toggles - FAQ Section"
+msgstr ""
+
+#: includes/salient-studio-templates.php:3411
+msgid "Cascading Images With Animated Icons"
+msgstr ""
+
+#: includes/salient-studio-templates.php:3431
+msgid "Clean Company Intro"
+msgstr ""
+
+#: includes/salient-studio-templates.php:3489
+msgid "Feelgood Image & Text Blocks"
+msgstr ""
+
+#: includes/salient-studio-templates.php:3506
+msgid "Image Background Dual CTA"
+msgstr ""
+
+#: includes/salient-studio-templates.php:3518
+msgid "Fervent Intro Hero"
+msgstr ""
+
+#: includes/salient-studio-templates.php:3534
+msgid "Career Table"
+msgstr ""
+
+#: includes/salient-studio-templates.php:3547
+msgid "Parallax Cascading Images"
+msgstr ""
+
+#: includes/salient-studio-templates.php:3562
+msgid "Daring CTA Morphing Outline Buttons"
+msgstr ""
+
+#: includes/salient-studio-templates.php:3579
+msgid "Icons With Text & Column BG Hover"
+msgstr ""
+
+#: includes/salient-studio-templates.php:3592
+msgid "Soft Color Icons And Text Blocks"
+msgstr ""
+
+#: includes/salient-studio-templates.php:3617
+msgid "Easy Wide Broken Image Grid"
+msgstr ""
+
+#: includes/salient-studio-templates.php:3633
+msgid "Clear Hero Section"
+msgstr ""
+
+#: includes/salient-studio-templates.php:3648
+msgid "Great Image Overflow Hero"
+msgstr ""
+
+#: includes/salient-studio-templates.php:3671
+msgid "Great Image Overflow Hero #2"
+msgstr ""
+
+#: includes/salient-studio-templates.php:3695
+msgid "Four Columns With Soft Color Icons"
+msgstr ""
+
+#: includes/salient-studio-templates.php:3718
+msgid "Light Color Gradient Overlay Information Section"
+msgstr ""
+
+#: includes/salient-studio-templates.php:3735
+msgid "Cool Gradient Overlay Information Section Dark"
+msgstr ""
+
+#: includes/salient-studio-templates.php:3754
+msgid "Gradient Tabbed Section"
+msgstr ""
+
+#: includes/salient-studio-templates.php:3787
+msgid "Fun Image Arrangement With Color Strip BG"
+msgstr ""
+
+#: includes/salient-studio-templates.php:3800
+msgid "Image Arrangement"
+msgstr ""
+
+#: includes/salient-studio-templates.php:3812
+msgid "Blog Category Grid"
+msgstr ""
+
+#: includes/salient-studio-templates.php:3826
+msgid "Single Word Text Highlight"
+msgstr ""
+
+#: includes/salient-studio-templates.php:3841
+msgid "Interesting Dark Instagram Link"
+msgstr ""
+
+#: includes/salient-studio-templates.php:3857
+msgid "Key Points With Soft Color Icons"
+msgstr ""
+
+#: includes/salient-studio-templates.php:3881
+msgid "Minimal Underlined Heading"
+msgstr ""
+
+#: includes/salient-studio-templates.php:3895
+msgid "Heading With Underlined Link Dark"
+msgstr ""
+
+#: includes/salient-studio-templates.php:3912
+msgid "Image BG Simple CTA"
+msgstr ""
+
+#: includes/salient-studio-templates.php:3928
+msgid "Even Columns With Buttons"
+msgstr ""
+
+#: includes/salient-studio-templates.php:3953
+msgid "Creative Testimonials With Shape Divider"
+msgstr ""
+
+#: includes/salient-studio-templates.php:3970
+msgid "Light Gradient Call To Action"
+msgstr ""
+
+#: includes/salient-studio-templates.php:3984
+msgid "Modern Vertical Tabbed Section"
+msgstr ""
+
+#: includes/salient-studio-templates.php:3999
+msgid "Leaflet Interactive Map"
+msgstr ""
+
+#: includes/salient-studio-templates.php:4014
+msgid "Wonderful Product Collection Parallax"
+msgstr ""
+
+#: includes/salient-studio-templates.php:4039
+msgid "Shop Sale Section"
+msgstr ""
+
+#: includes/salient-studio-templates.php:4054
+msgid "Overflowing Title Gradient CTA"
+msgstr ""
+
+#: includes/salient-studio-templates.php:4072
+msgid "Blog Post Carousel Split Color BG"
+msgstr ""
+
+#: includes/salient-studio-templates.php:4086
+msgid "Recent Posts Split Parallax BG"
+msgstr ""
+
+#: includes/salient-studio-templates.php:4107
+msgid "Image And Text Overlapping"
+msgstr ""
+
+#: includes/salient-studio-templates.php:4121
+msgid "Horizontal List Items"
+msgstr ""
+
+#: includes/salient-studio-templates.php:4137
+msgid "Pink Color Overlay With Video & Testimonials"
+msgstr ""
+
+#: includes/salient-studio-templates.php:4154
+msgid "Distinct Company Image And Bottom Contact Box"
+msgstr ""
+
+#: includes/salient-studio-templates.php:4171
+msgid "Other Office Locations Row"
+msgstr ""
+
+#: includes/salient-studio-templates.php:4199
+msgid "Paragraphs With Large Headings"
+msgstr ""
+
+#: includes/salient-studio-templates.php:4216
+msgid "Product Features With Colorful Background"
+msgstr ""
+
+#: includes/salient-studio-templates.php:4229
+msgid "Split Contact FAQ"
+msgstr ""
+
+#: includes/salient-studio-templates.php:4247
+msgid "Three Fancy Boxes with Borders"
+msgstr ""
+
+#: includes/salient-studio-templates.php:4270
+msgid "Recent Posts With BG Image"
+msgstr ""
+
+#: includes/salient-studio-templates.php:4286
+msgid "Icon List Horizontal With BG"
+msgstr ""
+
+#: includes/salient-studio-templates.php:4302
+msgid "Colorful BG Hero"
+msgstr ""
+
+#: includes/salient-studio-templates.php:4316
+msgid "Huge Triple Section"
+msgstr ""
+
+#: includes/salient-studio-templates.php:4330
+msgid "Dark Fancy Grid"
+msgstr ""
+
+#: includes/salient-studio-templates.php:4377
+msgid "Tabbed Product Display"
+msgstr ""
+
+#: includes/salient-studio-templates.php:4390
+msgid "Modern Product Category Grid: Four Column Based"
+msgstr ""
+
+#: includes/salient-studio-templates.php:4402
+msgid "Fullwidth Product Carousel With Split Color BG"
+msgstr ""
+
+#: includes/salient-studio-templates.php:4415
+msgid "Dual Section Products And Image"
+msgstr ""
+
+#: includes/salient-studio-templates.php:4431
+msgid "Flush Product Category Grid: Three Column Based"
+msgstr ""
+
+#: includes/salient-studio-templates.php:4445
+msgid "Product Carousel Split"
+msgstr ""
+
+#: includes/salient-studio-templates.php:4461
+msgid "Normal Product Carousel"
+msgstr ""
+
+#: includes/salient-studio-templates.php:4474
+msgid "Fullwidth Custom Product Section"
+msgstr ""
+
+#: includes/salient-studio-templates.php:4489
+msgid "Creative Fullwidth Custom Product Display"
+msgstr ""
+
+#: includes/salient-studio-templates.php:4508
+msgid "Vertical Fullwidth Custom Product Display"
+msgstr ""
+
+#: includes/salient-studio-templates.php:4527
+msgid "Three Column Basic Fullwidth Category Grid"
+msgstr ""
+
+#: includes/vc_templates/client.php:12
+msgid "client"
+msgstr ""
+
+#: includes/vc_templates/nectar_blog.php:233
+msgid "All items loaded"
+msgstr ""
+
+#: includes/vc_templates/nectar_image_with_hotspots.php:37
+msgid "Hotspot Image"
+msgstr ""
+
+#: includes/vc_templates/nectar_video_lightbox.php:35
+msgid "video preview"
+msgstr ""
+
+#: includes/vc_templates/recent_posts.php:247
+msgid "No Comments"
+msgstr ""
+
+#: includes/vc_templates/recent_posts.php:247
+msgid "One Comment"
+msgstr ""
+
+#: includes/vc_templates/recent_posts.php:247
+msgid "Comments"
+msgstr ""
+
+#: includes/vc_templates/recent_posts.php:260
+msgid "in"
+msgstr ""
+
+#: includes/vc_templates/recent_posts.php:508
+#: includes/vc_templates/recent_posts.php:647
+msgid "By"
+msgstr ""
+
+#: includes/vc_templates/recent_posts.php:666
+#: includes/vc_templates/recent_posts.php:799
+#: includes/vc_templates/recent_posts.php:801
+msgid "Read Article"
+msgstr ""
+
+#: includes/vc_templates/tab.php:68
+msgid "Empty section. Edit page to add content here."
+msgstr ""
+
+#: includes/vc_templates/tabbed_section.php:67
+msgid "Previous slide"
+msgstr ""
+
+#: includes/vc_templates/tabbed_section.php:67
+msgid "Next slide"
+msgstr ""
+
+#: includes/vc_templates/vc_gallery.php:805
+#: includes/vc_templates/vc_gallery.php:809
+msgid "View Larger"
+msgstr ""
+
+#: includes/wpbakery-init.php:130
+msgid "All"
+msgstr ""
+
+#. Plugin Name of the plugin/theme
+msgid "Salient Core"
+msgstr ""
+
+#. Plugin URI of the plugin/theme
+msgid "--"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid ""
+"Core functionality required by the Salient theme. Adds the Salient "
+"collection of WPBakery page builder elements, template library and page/post "
+"options."
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "ThemeNectar"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "http://themenectar.com"
+msgstr ""
