@@ -1,0 +1,6 @@
+#!/bin/bash
+find . -type f -name "*.html" -exec sed -i '' 's/http:\/\/fonts.googleapis/https:\/\/fonts.googleapis/g' {} +
+echo fixed fonts
+find . -type f -name "*.xml" -exec sed -i '' 's/<loc>/<loc>https:\/\/mitrasinovic.co.uk/g' {} +
+find . -type f -name "*.xml" -exec sed -i '' 's/<image:loc>/<image:loc>https:\/\/mitrasinovic.co.uk/g' {} +
+echo fixed sitemap
