@@ -1,3 +1,4 @@
+require('dotenv').config();
 const twilio = require('twilio');
 const client = new twilio(process.env.twilio_sid, process.env.twilio_auth);
 
