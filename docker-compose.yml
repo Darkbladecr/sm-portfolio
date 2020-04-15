@@ -9,6 +9,8 @@ services:
       - 80
     environment:
       - VIRTUAL_HOST=sm.quesmed.com
+      - LETSENCRYPT_HOST=sm.quesmed.com
+      - LETSENCRYPT_EMAIL=smig88@gmail.com
     volumes:
       - ./html:/var/www/html
       - ./nginx-conf:/etc/nginx/conf.d
