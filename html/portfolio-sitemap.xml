@@ -1,66 +1,66 @@
 <?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="/wp-content/plugins/wordpress-seo/css/main-sitemap.xsl"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd http://www.google.com/schemas/sitemap-image/1.1 http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<url>
-		<loc>https://stefan.mitrasinovic.co.uk/portfolio/quesmed/</loc>
+		<loc>/portfolio/quesmed/</loc>
 		<lastmod>2019-07-19T21:29:48+00:00</lastmod>
 		<image:image>
-			<image:loc>https://stefan.mitrasinovic.co.uk/wp-content/uploads/2019/07/quesmed.png</image:loc>
+			<image:loc>/wp-content/uploads/2019/07/quesmed.png</image:loc>
 			<image:title><![CDATA[quesmed]]></image:title>
 		</image:image>
 	</url>
 	<url>
-		<loc>https://stefan.mitrasinovic.co.uk/portfolio/nhs-clinical-entrepreneur-fellow/</loc>
+		<loc>/portfolio/nhs-clinical-entrepreneur-fellow/</loc>
 		<lastmod>2019-07-19T21:31:01+00:00</lastmod>
 		<image:image>
-			<image:loc>https://stefan.mitrasinovic.co.uk/wp-content/uploads/2017/07/nhsEngland.png</image:loc>
+			<image:loc>/wp-content/uploads/2017/07/nhsEngland.png</image:loc>
 			<image:title><![CDATA[nhsEngland]]></image:title>
 		</image:image>
 	</url>
 	<url>
-		<loc>https://stefan.mitrasinovic.co.uk/portfolio/ucl-be-the-change/</loc>
+		<loc>/portfolio/ucl-be-the-change/</loc>
 		<lastmod>2019-07-19T21:31:45+00:00</lastmod>
 		<image:image>
-			<image:loc>https://stefan.mitrasinovic.co.uk/wp-content/uploads/2019/07/QI-championship.jpg</image:loc>
+			<image:loc>/wp-content/uploads/2019/07/QI-championship.jpg</image:loc>
 			<image:title><![CDATA[QI championship]]></image:title>
 		</image:image>
 	</url>
 	<url>
-		<loc>https://stefan.mitrasinovic.co.uk/portfolio/cerebrovascular-laboratory-nyp/</loc>
+		<loc>/portfolio/cerebrovascular-laboratory-nyp/</loc>
 		<lastmod>2019-07-19T21:32:50+00:00</lastmod>
 		<image:image>
-			<image:loc>https://stefan.mitrasinovic.co.uk/wp-content/uploads/2019/07/googleglass-e1563567032500.jpg</image:loc>
+			<image:loc>/wp-content/uploads/2019/07/googleglass-e1563567032500.jpg</image:loc>
 			<image:title><![CDATA[googleglass]]></image:title>
 		</image:image>
 	</url>
 	<url>
-		<loc>https://stefan.mitrasinovic.co.uk/portfolio/global-brigades/</loc>
+		<loc>/portfolio/global-brigades/</loc>
 		<lastmod>2019-07-19T21:33:14+00:00</lastmod>
 		<image:image>
-			<image:loc>https://stefan.mitrasinovic.co.uk/wp-content/uploads/2019/07/medicalbrigades2.jpg</image:loc>
+			<image:loc>/wp-content/uploads/2019/07/medicalbrigades2.jpg</image:loc>
 			<image:title><![CDATA[medicalbrigades2]]></image:title>
 		</image:image>
 	</url>
 	<url>
-		<loc>https://stefan.mitrasinovic.co.uk/portfolio/medtech/</loc>
+		<loc>/portfolio/medtech/</loc>
 		<lastmod>2019-07-19T21:36:15+00:00</lastmod>
 		<image:image>
-			<image:loc>https://stefan.mitrasinovic.co.uk/wp-content/uploads/2019/07/medtech-2016.jpg</image:loc>
+			<image:loc>/wp-content/uploads/2019/07/medtech-2016.jpg</image:loc>
 			<image:title><![CDATA[medtech 2016]]></image:title>
 		</image:image>
 	</url>
 	<url>
-		<loc>https://stefan.mitrasinovic.co.uk/portfolio/coh-modern-combat/</loc>
+		<loc>/portfolio/coh-modern-combat/</loc>
 		<lastmod>2019-07-20T07:26:00+00:00</lastmod>
 		<image:image>
-			<image:loc>https://stefan.mitrasinovic.co.uk/wp-content/uploads/2019/07/Loading_Background.jpg</image:loc>
+			<image:loc>/wp-content/uploads/2019/07/Loading_Background.jpg</image:loc>
 			<image:title><![CDATA[Loading_Background]]></image:title>
 		</image:image>
 	</url>
 	<url>
-		<loc>https://stefan.mitrasinovic.co.uk/portfolio/carare-research-group/</loc>
+		<loc>/portfolio/carare-research-group/</loc>
 		<lastmod>2019-07-20T07:49:18+00:00</lastmod>
 		<image:image>
-			<image:loc>https://stefan.mitrasinovic.co.uk/wp-content/uploads/2019/07/Self-Reflected-in-violets-1-e1563608260287.jpg</image:loc>
+			<image:loc>/wp-content/uploads/2019/07/Self-Reflected-in-violets-1-e1563608260287.jpg</image:loc>
 			<image:title><![CDATA[Self-Reflected-in-violets-1]]></image:title>
 		</image:image>
 	</url>
