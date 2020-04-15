@@ -3,3 +3,7 @@
 docker-compose.yml
 .dockerignore
 ssl
+.now
+html
+node_modules
+nginx-conf
