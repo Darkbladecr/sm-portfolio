@@ -8,8 +8,8 @@ services:
     expose:
       - 80
     environment:
-      VIRTUAL_HOST: mitrasinovic.co.uk
-      LETSENCRYPT_HOST: mitrasinovic.co.uk
+      VIRTUAL_HOST: mitrasinovic.co.uk,www.mitrasinovic.co.uk
+      LETSENCRYPT_HOST: mitrasinovic.co.uk,www.mitrasinovic.co.uk
       LETSENCRYPT_EMAIL: smig88@gmail.com
     volumes:
       - ./html:/var/www/html
