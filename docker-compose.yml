@@ -21,6 +21,8 @@ services:
     build: .
     container_name: sm-portfolio-api
     restart: unless-stopped
+    depends_on:
+      - webserver
     expose:
       - 3000
     env_file: .env
