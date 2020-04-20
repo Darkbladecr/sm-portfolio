@@ -7,16 +7,21 @@ services:
     restart: unless-stopped
     expose:
       - 80
-    environment:
-      VIRTUAL_HOST: mitrasinovic.co.uk,www.mitrasinovic.co.uk
-      LETSENCRYPT_HOST: mitrasinovic.co.uk,www.mitrasinovic.co.uk
-      LETSENCRYPT_EMAIL: smig88@gmail.com
+    labels:
+      traefik.enable: true
+      traefik.http.routers.sm-portfolio-static-http.rule: Host(`mitrasinovic.co.uk`, `www.mitrasinovic.co.uk`)
+      traefik.http.routers.sm-portfolio-static-http.entrypoints: web
+      traefik.http.routers.sm-portfolio-static.rule: Host(`portfolio.localhost`)
+      traefik.http.routers.sm-portfolio-static.entrypoints: websecure
+      traefik.http.routers.sm-portfolio-static.tls.certresolver: letsencrypt
+      traefik.http.routers.sm-portfolio-static-http.middlewares: https_redirect@file
+      traefik.http.routers.sm-portfolio-static-http.middlewares: wwwtohttps@file
     volumes:
       - ./html:/var/www/html
       - ./nginx-conf:/etc/nginx/conf.d
     networks:
       - backend
-      - nginx-proxy
+      - traefik-proxy
   api:
     build: .
     container_name: sm-portfolio-api
@@ -34,5 +39,5 @@ services:
 networks:
   backend:
     driver: bridge
-  nginx-proxy:
+  traefik-proxy:
     external: true
