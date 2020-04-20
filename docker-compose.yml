@@ -11,7 +11,7 @@ services:
       traefik.enable: true
       traefik.http.routers.sm-portfolio-static-http.rule: Host(`mitrasinovic.co.uk`, `www.mitrasinovic.co.uk`)
       traefik.http.routers.sm-portfolio-static-http.entrypoints: web
-      traefik.http.routers.sm-portfolio-static.rule: Host(`portfolio.localhost`)
+      traefik.http.routers.sm-portfolio-static.rule: Host(`mitrasinovic.co.uk`)
       traefik.http.routers.sm-portfolio-static.entrypoints: websecure
       traefik.http.routers.sm-portfolio-static.tls.certresolver: letsencrypt
       traefik.http.routers.sm-portfolio-static-http.middlewares: https_redirect@file
