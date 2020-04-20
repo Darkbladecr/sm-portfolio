@@ -20,7 +20,6 @@ services:
       - ./html:/var/www/html
       - ./nginx-conf:/etc/nginx/conf.d
     networks:
-      - backend
       - traefik-proxy
   api:
     build: .
@@ -33,11 +32,18 @@ services:
     env_file: .env
     environment:
       - NODE_ENV=production
+    labels:
+      traefik.enable: true
+      traefik.http.routers.sm-portfolio-api-http.rule: Host(`mitrasinovic.co.uk`, `www.mitrasinovic.co.uk`) && PathPrefix(`/api`)
+      traefik.http.routers.sm-portfolio-api-http.entrypoints: web
+      traefik.http.routers.sm-portfolio-api.rule: Host(`mitrasinovic.co.uk`, `www.mitrasinovic.co.uk`) && PathPrefix(`/api`)
+      traefik.http.routers.sm-portfolio-api.entrypoints: websecure
+      traefik.http.routers.sm-portfolio-api.tls.certresolver: letsencrypt
+      traefik.http.routers.sm-portfolio-api-http.middlewares: https_redirect@file
+      traefik.http.routers.sm-portfolio-api-http.middlewares: wwwtohttps@file
     networks:
-      - backend
+      - traefik-proxy
 
 networks:
-  backend:
-    driver: bridge
   traefik-proxy:
     external: true
