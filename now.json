@@ -1,8 +1,0 @@
-{
-  "alias": "stefan.mitrasinovic.co.uk",
-  "env": {
-    "sendgrid_api_key": "@sendgrid_api_key",
-    "twilio_sid": "@twilio_sid",
-    "twilio_auth": "@twilio_auth"
-  }
-}
