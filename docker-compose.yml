@@ -9,13 +9,12 @@ services:
       - 80
     labels:
       traefik.enable: true
-      traefik.http.routers.sm-portfolio-static-http.rule: Host(`mitrasinovic.co.uk`, `www.mitrasinovic.co.uk`)
+      traefik.http.routers.sm-portfolio-static-http.rule: Host(`stefan.mitrasinovic.co.uk`)
       traefik.http.routers.sm-portfolio-static-http.entrypoints: web
-      traefik.http.routers.sm-portfolio-static.rule: Host(`mitrasinovic.co.uk`)
+      traefik.http.routers.sm-portfolio-static.rule: Host(`stefan.mitrasinovic.co.uk`)
       traefik.http.routers.sm-portfolio-static.entrypoints: websecure
       traefik.http.routers.sm-portfolio-static.tls.certresolver: letsencrypt
       traefik.http.routers.sm-portfolio-static-http.middlewares: https_redirect@file
-      traefik.http.routers.sm-portfolio-static-http.middlewares: wwwtohttps@file
     volumes:
       - ./html:/var/www/html
       - ./nginx-conf:/etc/nginx/conf.d
@@ -34,13 +33,12 @@ services:
       - NODE_ENV=production
     labels:
       traefik.enable: true
-      traefik.http.routers.sm-portfolio-api-http.rule: Host(`mitrasinovic.co.uk`, `www.mitrasinovic.co.uk`) && PathPrefix(`/api`)
+      traefik.http.routers.sm-portfolio-api-http.rule: Host(`stefan.mitrasinovic.co.uk`) && PathPrefix(`/api`)
       traefik.http.routers.sm-portfolio-api-http.entrypoints: web
-      traefik.http.routers.sm-portfolio-api.rule: Host(`mitrasinovic.co.uk`, `www.mitrasinovic.co.uk`) && PathPrefix(`/api`)
+      traefik.http.routers.sm-portfolio-api.rule: Host(`stefan.mitrasinovic.co.uk`) && PathPrefix(`/api`)
       traefik.http.routers.sm-portfolio-api.entrypoints: websecure
       traefik.http.routers.sm-portfolio-api.tls.certresolver: letsencrypt
       traefik.http.routers.sm-portfolio-api-http.middlewares: https_redirect@file
-      traefik.http.routers.sm-portfolio-api-http.middlewares: wwwtohttps@file
     networks:
       - traefik-proxy
 
