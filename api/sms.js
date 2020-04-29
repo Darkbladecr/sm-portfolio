@@ -7,7 +7,7 @@ module.exports = async (req, res) => {
   const numbers = ['+447891935958', '+447967685383'];
   try {
     await Promise.all(
-      numbers.map(number =>
+      numbers.map((number) =>
         client.messages.create({
           body: req.body.Body,
           to: number,

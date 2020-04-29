@@ -5,7 +5,7 @@ module.exports = (_, res) => {
   twiml.say('Leave a message after the beep.');
   twiml.record({
     transcribe: false,
-    maxLength: 10,
+    maxLength: 30,
     recordingStatusCallback: '/api/record_success',
   });
   twiml.hangup();
