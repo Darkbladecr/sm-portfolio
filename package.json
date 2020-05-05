@@ -1,10 +1,11 @@
 {
   "license": "UNLICENSED",
   "dependencies": {
-    "@sendgrid/mail": "^6.5.5",
-    "cheerio": "^1.0.0-rc.3",
     "dotenv": "^8.2.0",
-    "formidable": "^1.2.2",
+    "express": "^4.17.1",
     "twilio": "^3.41.1"
+  },
+  "scripts": {
+    "start": "node -r dotenv/config api/index.js"
   }
 }

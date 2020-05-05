@@ -6,7 +6,7 @@ module.exports = async (req, res) => {
   try {
     const { RecordingUrl } = req.body;
     await Promise.all(
-      numbers.map(number =>
+      numbers.map((number) =>
         client.messages.create({
           body: `New call: ${RecordingUrl}`,
           to: number,
@@ -15,7 +15,7 @@ module.exports = async (req, res) => {
       )
     );
   } catch (e) {
-    console.log(e);
+    return res.status(500).send('Error sending recording url');
   }
   res.send('success');
 };

@@ -1,0 +1,47 @@
+version: '3'
+
+services:
+  webserver:
+    image: nginx:1.17.9-alpine
+    container_name: sm-portfolio-static
+    restart: unless-stopped
+    expose:
+      - 80
+    labels:
+      traefik.enable: true
+      traefik.http.routers.sm-portfolio-static-http.rule: Host(`stefan.mitrasinovic.co.uk`)
+      traefik.http.routers.sm-portfolio-static-http.entrypoints: web
+      traefik.http.routers.sm-portfolio-static.rule: Host(`stefan.mitrasinovic.co.uk`)
+      traefik.http.routers.sm-portfolio-static.entrypoints: websecure
+      traefik.http.routers.sm-portfolio-static.tls.certresolver: letsencrypt
+      traefik.http.routers.sm-portfolio-static-http.middlewares: https_redirect@file
+    volumes:
+      - ./html:/var/www/html
+      - ./nginx-conf:/etc/nginx/conf.d
+    networks:
+      - traefik-proxy
+  api:
+    build: .
+    container_name: sm-portfolio-api
+    restart: unless-stopped
+    depends_on:
+      - webserver
+    expose:
+      - 3000
+    env_file: .env
+    environment:
+      - NODE_ENV=production
+    labels:
+      traefik.enable: true
+      traefik.http.routers.sm-portfolio-api-http.rule: Host(`stefan.mitrasinovic.co.uk`) && PathPrefix(`/api`)
+      traefik.http.routers.sm-portfolio-api-http.entrypoints: web
+      traefik.http.routers.sm-portfolio-api.rule: Host(`stefan.mitrasinovic.co.uk`) && PathPrefix(`/api`)
+      traefik.http.routers.sm-portfolio-api.entrypoints: websecure
+      traefik.http.routers.sm-portfolio-api.tls.certresolver: letsencrypt
+      traefik.http.routers.sm-portfolio-api-http.middlewares: https_redirect@file
+    networks:
+      - traefik-proxy
+
+networks:
+  traefik-proxy:
+    external: true
