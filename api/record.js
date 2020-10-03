@@ -2,14 +2,14 @@ const VoiceResponse = require('twilio').twiml.VoiceResponse;
 
 module.exports = (_, res) => {
   const twiml = new VoiceResponse();
-  twiml.say('Leave a message after the beep.');
+  // twiml.say('Leave a message after the beep.');
   twiml.record({
-    transcribe: false,
+    transcribe: true,
     maxLength: 180,
     recordingStatusCallback: '/api/record_success',
-    finishOnKey: '#',
+    // finishOnKey: '#',
     timeout: 10,
-    trim: 'trim-silence',
+    // trim: 'trim-silence',
   });
   // twiml.hangup();
 
