@@ -5,10 +5,13 @@ module.exports = (_, res) => {
   twiml.say('Leave a message after the beep.');
   twiml.record({
     transcribe: false,
-    maxLength: 30,
+    maxLength: 180,
     recordingStatusCallback: '/api/record_success',
+    finishOnKey: '#',
+    timeout: 10,
+    trim: 'trim-silence',
   });
-  twiml.hangup();
+  // twiml.hangup();
 
   res.setHeader('content-type', 'text/xml');
   res.send(twiml.toString());
