@@ -13,7 +13,6 @@ services:
       traefik.http.routers.sm-portfolio-static-http.entrypoints: web
       traefik.http.routers.sm-portfolio-static.rule: Host(`stefan.mitrasinovic.co.uk`)
       traefik.http.routers.sm-portfolio-static.entrypoints: websecure
-      traefik.http.routers.sm-portfolio-static.tls.certresolver: letsencrypt
       traefik.http.routers.sm-portfolio-static-http.middlewares: https_redirect@file
     volumes:
       - ./html:/var/www/html
@@ -37,7 +36,6 @@ services:
       traefik.http.routers.sm-portfolio-api-http.entrypoints: web
       traefik.http.routers.sm-portfolio-api.rule: Host(`stefan.mitrasinovic.co.uk`) && PathPrefix(`/api`)
       traefik.http.routers.sm-portfolio-api.entrypoints: websecure
-      traefik.http.routers.sm-portfolio-api.tls.certresolver: letsencrypt
       traefik.http.routers.sm-portfolio-api-http.middlewares: https_redirect@file
     networks:
       - traefik-proxy
